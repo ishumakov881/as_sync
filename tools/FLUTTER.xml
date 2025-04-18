@@ -1,0 +1,9 @@
+<toolSet name="FLUTTER">
+  <tool name="📦 flutter pub get" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="flutter" />
+      <option name="PARAMETERS" value="pub get" />
+      <option name="WORKING_DIRECTORY" value="$ContentRoot$" />
+    </exec>
+  </tool>
+</toolSet>

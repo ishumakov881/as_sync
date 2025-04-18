@@ -1,0 +1,58 @@
+<templateSet group="Gradle">
+  <template name="123" value="implementation(libs.filekit.core)&#10;            implementation(libs.filekit.dialogs)&#10;            implementation(libs.filekit.dialogs.compose)&#10;            implementation(libs.filekit.coil)&#10;            //Date &amp; Time&#10;            implementation(libs.kotlinx.datetime)" description="" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="ANDROID_KOTLIN_CLASS" value="false" />
+      <option name="ANDROID_KOTLIN_COMMENT" value="false" />
+      <option name="ANDROID_KOTLIN_EXPRESSION" value="false" />
+      <option name="ANDROID_KOTLIN_OBJECT_DECLARATION" value="false" />
+      <option name="ANDROID_KOTLIN_STATEMENT" value="false" />
+      <option name="ANDROID_KOTLIN_TOP_LEVEL" value="false" />
+      <option name="CMAKE" value="false" />
+      <option name="COMPOSE" value="false" />
+      <option name="DART" value="false" />
+      <option name="HTML" value="false" />
+      <option name="JAVA_CODE" value="false" />
+      <option name="JSON" value="false" />
+      <option name="KOTLIN" value="false" />
+      <option name="OTHER" value="true" />
+      <option name="PL/SQL" value="false" />
+      <option name="Properties" value="false" />
+      <option name="SHELL_SCRIPT" value="false" />
+      <option name="SQL" value="false" />
+      <option name="XML" value="false" />
+      <option name="XML_ATTRIBUTE" value="false" />
+      <option name="c" value="false" />
+      <option name="com.levinzonr.compose.livetemplate.context" value="false" />
+      <option name="cpp" value="false" />
+      <option name="objc" value="false" />
+    </context>
+  </template>
+  <template name="precompose" value="precompose = &quot;1.7.0-alpha01&quot;&#10;precompose = { module = &quot;moe.tlaster:precompose&quot;, version.ref = &quot;precompose&quot; }&#10;precompose-viewmodel = { module = &quot;moe.tlaster:precompose-viewmodel&quot;, version.ref = &quot;precompose&quot; }&#10;precompose-wasm-js = { module = &quot;moe.tlaster:precompose-wasm-js&quot;, version.ref = &quot;precompose&quot; }&#10;precompose-koin = { module = &quot;moe.tlaster:precompose-koin&quot;, version.ref = &quot;precompose&quot; }" description="" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="ANDROID_KOTLIN_CLASS" value="false" />
+      <option name="ANDROID_KOTLIN_COMMENT" value="false" />
+      <option name="ANDROID_KOTLIN_EXPRESSION" value="false" />
+      <option name="ANDROID_KOTLIN_OBJECT_DECLARATION" value="false" />
+      <option name="ANDROID_KOTLIN_STATEMENT" value="false" />
+      <option name="ANDROID_KOTLIN_TOP_LEVEL" value="false" />
+      <option name="CMAKE" value="false" />
+      <option name="COMPOSE" value="false" />
+      <option name="DART" value="false" />
+      <option name="HTML" value="false" />
+      <option name="JAVA_CODE" value="false" />
+      <option name="JSON" value="false" />
+      <option name="KOTLIN" value="false" />
+      <option name="OTHER" value="true" />
+      <option name="PL/SQL" value="false" />
+      <option name="Properties" value="false" />
+      <option name="SHELL_SCRIPT" value="false" />
+      <option name="SQL" value="false" />
+      <option name="XML" value="false" />
+      <option name="XML_ATTRIBUTE" value="false" />
+      <option name="c" value="false" />
+      <option name="com.levinzonr.compose.livetemplate.context" value="false" />
+      <option name="cpp" value="false" />
+      <option name="objc" value="false" />
+    </context>
+  </template>
+</templateSet>

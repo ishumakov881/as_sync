@@ -1,0 +1,44 @@
+<toolSet name="🟢Gradle🟢">
+  <tool name="🛠️ gradlew cleanBuildCache" description="gradlew --refresh-dependencies" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="$ProjectFileDir$\gradlew.bat" />
+      <option name="PARAMETERS" value="cleanBuildCache" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+  <tool name="🛠️ gradlew --refresh-dependencies" description="gradlew --refresh-dependencies" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="$ProjectFileDir$\gradlew.bat" />
+      <option name="PARAMETERS" value="--refresh-dependencies" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+  <tool name="🛠️ gradlew build --offline" description="gradlew --refresh-dependencies" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="$ProjectFileDir$\gradlew.bat" />
+      <option name="PARAMETERS" value="build --offline" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+  <tool name="🛠️ Run (gradlew installDebug --stacktrace)" description="gradlew installDebug --stacktrace" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="$ProjectFileDir$\gradlew.bat" />
+      <option name="PARAMETERS" value="installDebug --stacktrace" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+  <tool name="🛠️ gradlew --version" description="gradlew --version" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="$ProjectFileDir$\gradlew.bat" />
+      <option name="PARAMETERS" value="--version" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+  <tool name="Openapi" description="Openapi" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="false">
+    <exec>
+      <option name="COMMAND" value="C:\bin\curl.exe " />
+      <option name="PARAMETERS" value="http://10.0.59.122:9000/openapi.json -o openapi.json" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$/Documentation" />
+    </exec>
+  </tool>
+</toolSet>

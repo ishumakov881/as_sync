@@ -1,0 +1,16 @@
+<toolSet name="danilabobrov82@gmail.com">
+  <tool name="📧 EMAIL" description="emulator -list-avds" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="false" synchronizeAfterRun="false">
+    <exec>
+      <option name="COMMAND" value="C:\android\sdk\platform-tools\adb.exe" />
+      <option name="PARAMETERS" value="shell input text 'danilabobrov82@gmail.com'" />
+      <option name="WORKING_DIRECTORY" value="C:/android/sdk/platform-tools/" />
+    </exec>
+  </tool>
+  <tool name="🔑 PSW" description="emulator -list-avds" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="false" synchronizeAfterRun="false">
+    <exec>
+      <option name="COMMAND" value="C:\android\sdk\platform-tools\adb.exe" />
+      <option name="PARAMETERS" value="shell input text &quot;passw123@aaa&quot;" />
+      <option name="WORKING_DIRECTORY" value="C:/android/sdk/platform-tools/" />
+    </exec>
+  </tool>
+</toolSet>

@@ -1,0 +1,26 @@
+<templateSet group="Other">
+  <template name="grdl" value="#Tue Dec 10 12:10:57 MSK 2024&#10;distributionBase=GRADLE_USER_HOME&#10;distributionPath=wrapper/dists&#10;distributionUrl=https\://services.gradle.org/distributions/gradle-8.10.2-bin.zip&#10;zipStoreBase=GRADLE_USER_HOME&#10;zipStorePath=wrapper/dists&#10;networkTimeout=10000&#10;validateDistributionUrl=true" shortcut="SPACE" description="Gradle Version" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="Properties" value="true" />
+    </context>
+  </template>
+  <template name="dpnd" value="        classpath 'com.android.tools.build:gradle:8.4.2'&#10;        classpath 'com.google.gms:google-services:4.4.2'" shortcut="SPACE" description="Dependency" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="ANDROID" value="false" />
+      <option name="CMAKE" value="false" />
+      <option name="GROOVY" value="false" />
+      <option name="HTML" value="false" />
+      <option name="JAVA_CODE" value="false" />
+      <option name="JSON" value="false" />
+      <option name="KOTLIN" value="false" />
+      <option name="OTHER" value="true" />
+      <option name="Properties" value="false" />
+      <option name="SHELL_SCRIPT" value="false" />
+      <option name="XML" value="false" />
+      <option name="XML_ATTRIBUTE" value="false" />
+      <option name="c" value="false" />
+      <option name="cpp" value="false" />
+      <option name="objc" value="false" />
+    </context>
+  </template>
+</templateSet>

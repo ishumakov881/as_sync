@@ -1,0 +1,128 @@
+<toolSet name="ADB">
+  <tool name="🔄 start-server" description="start-server" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\android\sdk\platform-tools\adb.exe" />
+      <option name="PARAMETERS" value="start-server" />
+      <option name="WORKING_DIRECTORY" value="C:/android/sdk/platform-tools/" />
+    </exec>
+  </tool>
+  <tool name="🟢emulator -list-avds" description="emulator -list-avds" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="false" synchronizeAfterRun="false">
+    <exec>
+      <option name="COMMAND" value="C:\android\sdk\emulator\emulator.exe" />
+      <option name="PARAMETERS" value="-list-avds" />
+      <option name="WORKING_DIRECTORY" value="C:/android/sdk/emulator/" />
+    </exec>
+  </tool>
+  <tool name="🟢11_30_86_64_gp" description="11_30_86_64_gp" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="true" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\android\sdk\emulator\emulator" />
+      <option name="PARAMETERS" value="-avd 11_30_86_64_gp -writable-system -no-snapshot -nocache" />
+      <option name="WORKING_DIRECTORY" value="C:/android/sdk/emulator" />
+    </exec>
+  </tool>
+  <tool name="Send key" description="emulator -list-avds" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="false" synchronizeAfterRun="false">
+    <exec>
+      <option name="COMMAND" value="C:\android\sdk\platform-tools\adb.exe" />
+      <option name="PARAMETERS" value="shell input text &quot;$Prompt$&quot;" />
+      <option name="WORKING_DIRECTORY" value="C:/android/sdk/platform-tools/" />
+    </exec>
+  </tool>
+  <tool name="🔗 https://2ip.ru" description="emulator -list-avds" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="false" synchronizeAfterRun="false">
+    <exec>
+      <option name="COMMAND" value="C:\android\sdk\platform-tools\adb.exe" />
+      <option name="PARAMETERS" value="shell am start -a android.intent.action.VIEW -d &quot;https://2ip.ru&quot;" />
+      <option name="WORKING_DIRECTORY" value="C:/android/sdk/platform-tools/" />
+    </exec>
+  </tool>
+  <tool name="🔗 Open URL" description="emulator -list-avds" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="false" synchronizeAfterRun="false">
+    <exec>
+      <option name="COMMAND" value="C:\android\sdk\platform-tools\adb.exe" />
+      <option name="PARAMETERS" value="shell am start -a android.intent.action.VIEW -d &quot;$Prompt$&quot;" />
+      <option name="WORKING_DIRECTORY" value="C:/android/sdk/platform-tools/" />
+    </exec>
+  </tool>
+  <tool name="REBOOT" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\android\sdk\platform-tools\adb.exe" />
+      <option name="PARAMETERS" value="reboot" />
+      <option name="WORKING_DIRECTORY" value="C:/android/sdk/platform-tools/" />
+    </exec>
+  </tool>
+  <tool name="💻 ls /sdcard/Download" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\android\sdk\platform-tools\adb.exe" />
+      <option name="PARAMETERS" value="shell ls /sdcard/Download" />
+      <option name="WORKING_DIRECTORY" value="C:/android/sdk/platform-tools/" />
+    </exec>
+  </tool>
+  <tool name="📧 Send EMAIL" description="emulator -list-avds" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="false" synchronizeAfterRun="false">
+    <exec>
+      <option name="COMMAND" value="C:\android\sdk\platform-tools\adb.exe" />
+      <option name="PARAMETERS" value="shell input text alexvarboffin@gmail.com" />
+      <option name="WORKING_DIRECTORY" value="C:/android/sdk/platform-tools/" />
+    </exec>
+  </tool>
+  <tool name="🔑 Send Password" description="emulator -list-avds" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="false" synchronizeAfterRun="false">
+    <exec>
+      <option name="COMMAND" value="C:\android\sdk\platform-tools\adb.exe" />
+      <option name="PARAMETERS" value="shell input text passw@123aa" />
+      <option name="WORKING_DIRECTORY" value="C:/android/sdk/platform-tools/" />
+    </exec>
+  </tool>
+  <tool name="👤 Send UserName" description="emulator -list-avds" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="false" synchronizeAfterRun="false">
+    <exec>
+      <option name="COMMAND" value="C:\android\sdk\platform-tools\adb.exe" />
+      <option name="PARAMETERS" value="shell input text alexvarboffin" />
+      <option name="WORKING_DIRECTORY" value="C:/android/sdk/platform-tools/" />
+    </exec>
+  </tool>
+  <tool name="🛑 kill-server" description="kill-server" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\android\sdk\platform-tools\adb.exe" />
+      <option name="PARAMETERS" value="kill-server" />
+      <option name="WORKING_DIRECTORY" value="C:/android/sdk/platform-tools/" />
+    </exec>
+  </tool>
+  <tool name="📱 devices" description="devices" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\android\sdk\platform-tools\adb.exe" />
+      <option name="PARAMETERS" value="devices" />
+      <option name="WORKING_DIRECTORY" value="C:/android/sdk/platform-tools/" />
+    </exec>
+  </tool>
+  <tool name="📦 shell pm path com.android.vending" description="shell pm path com.android.vending" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\android\sdk\platform-tools\adb.exe" />
+      <option name="PARAMETERS" value="shell pm path com.android.vending" />
+      <option name="WORKING_DIRECTORY" value="C:/android/sdk/platform-tools/" />
+    </exec>
+  </tool>
+  <tool name="🗑️ __DEL ABDKEY__" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="cmd" />
+      <option name="PARAMETERS" value="/c del %USERPROFILE%\.android\adbkey" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+  <tool name="📱 ADB shell pm list packages" description="ADB shell pm list packages" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\android\sdk\platform-tools\adb.exe" />
+      <option name="PARAMETERS" value="shell pm list packages" />
+      <option name="WORKING_DIRECTORY" value="C:/android/sdk/platform-tools/" />
+    </exec>
+  </tool>
+  <tool name="🔑 Send KeePass" description="emulator -list-avds" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="false" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="false">
+    <exec>
+      <option name="COMMAND" value="C:\android\sdk\platform-tools\adb.exe" />
+      <option name="PARAMETERS" value="shell input text &quot;f720b61f3bd21a17003cf6f0e5501d276e6733b2d995754a6471b2752a568e02&quot;" />
+      <option name="WORKING_DIRECTORY" value="C:/android/sdk/platform-tools/" />
+    </exec>
+  </tool>
+  <tool name="🔍 Get Current Focus" description="Get Current Focus" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\android\sdk\platform-tools\adb.exe" />
+      <option name="PARAMETERS" value="shell &quot;dumpsys window windows | grep -E 'mCurrentFocus|mFocusedApp'&quot;" />
+      <option name="WORKING_DIRECTORY" value="C:/android/sdk/platform-tools/" />
+    </exec>
+  </tool>
+</toolSet>

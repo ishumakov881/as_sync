@@ -1,0 +1,24 @@
+<templateSet group="AndroidKotlin">
+  <template name="msf" value="val _$x$ = remember { MutableStateFlow($y$) }&#10;val $x$ by _$x$.collectAsState()" description="MutableStateFlow" toReformat="false" toShortenFQNames="true">
+    <variable name="x" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="y" expression="" defaultValue="false" alwaysStopAt="true" />
+    <context>
+      <option name="ANDROID" value="true" />
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+  <template name="msfv" value="val _$x$ = MutableStateFlow($y$)&#10;val $x$ = _$x$.asStateFlow()" description="MutableStateFlow" toReformat="false" toShortenFQNames="true">
+    <variable name="x" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="y" expression="" defaultValue="false" alwaysStopAt="true" />
+    <context>
+      <option name="ANDROID" value="true" />
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+  <template name="tryd" value="try {&#10;&#10;            } catch (e: Exception) {&#10;                DLog.d(&quot;Exception: $e&quot;)&#10;            }" description="Try Catch DLog" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="ANDROID" value="true" />
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+</templateSet>

@@ -1,0 +1,37 @@
+<toolSet name="Emulator">
+  <tool name="📱 ROOT_30_11" description="ROOT_30_11" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="true" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\android\sdk\emulator\emulator" />
+      <option name="PARAMETERS" value="-avd ROOT_30_11 -netspeed full -writable-system" />
+      <option name="WORKING_DIRECTORY" value="C:/android/sdk/emulator" />
+    </exec>
+  </tool>
+  <tool name="👤 danilabobrov82" description="danilabobrov82" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="true" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\android\sdk\emulator\emulator" />
+      <option name="PARAMETERS" value="-avd danilabobrov82 -netspeed full -writable-system" />
+      <option name="WORKING_DIRECTORY" value="C:/android/sdk/emulator" />
+    </exec>
+  </tool>
+  <tool name="📱 mayson188API31" description="mayson188API31" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="true" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\android\sdk\emulator\emulator" />
+      <option name="PARAMETERS" value="-avd mayson188API31 -netspeed full -writable-system" />
+      <option name="WORKING_DIRECTORY" value="C:/android/sdk/emulator" />
+    </exec>
+  </tool>
+  <tool name="📱 11_30" description="ROOT_30_11" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="true" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\android\sdk\emulator\emulator" />
+      <option name="PARAMETERS" value="-partition-size 2048 -avd 11_30 -writable-system -no-snapshot -nocache -no-snapshot-load" />
+      <option name="WORKING_DIRECTORY" value="C:/android/sdk/emulator" />
+    </exec>
+  </tool>
+  <tool name="📱 30x86_GAPI" description="30x86_GAPI" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="true" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\android\sdk\emulator\emulator" />
+      <option name="PARAMETERS" value="-avd 30x86_GAPI -writable-system -no-snapshot -nocache" />
+      <option name="WORKING_DIRECTORY" value="C:/android/sdk/emulator" />
+    </exec>
+  </tool>
+</toolSet>

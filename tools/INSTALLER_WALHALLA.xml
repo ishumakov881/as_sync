@@ -1,0 +1,37 @@
+<toolSet name="INSTALLER_WALHALLA">
+  <tool name="📳 Vibedroid" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\android\sdk\platform-tools\adb.exe" />
+      <option name="PARAMETERS" value="shell am start -a android.intent.action.VIEW -d 'market://details?id=com.walhalla.vibro'" />
+      <option name="WORKING_DIRECTORY" value="C:/android/sdk/platform-tools/" />
+    </exec>
+  </tool>
+  <tool name="💭 Dreambook" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\android\sdk\platform-tools\adb.exe" />
+      <option name="PARAMETERS" value="shell am start -a android.intent.action.VIEW -d 'market://details?id=com.walhalla.dreambook'" />
+      <option name="WORKING_DIRECTORY" value="C:/android/sdk/platform-tools/" />
+    </exec>
+  </tool>
+  <tool name="🕌 Mekka" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\android\sdk\platform-tools\adb.exe" />
+      <option name="PARAMETERS" value="shell am start -a android.intent.action.VIEW -d 'market://details?id=com.walhalla.meccamedina'" />
+      <option name="WORKING_DIRECTORY" value="C:/android/sdk/platform-tools/" />
+    </exec>
+  </tool>
+  <tool name="🎮 Gachisoundboard" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\android\sdk\platform-tools\adb.exe" />
+      <option name="PARAMETERS" value="shell am start -a android.intent.action.VIEW -d 'market://details?id=com.walhalla.gachisoundboard'" />
+      <option name="WORKING_DIRECTORY" value="C:/android/sdk/platform-tools/" />
+    </exec>
+  </tool>
+  <tool name="✝️ christianquotes" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\android\sdk\platform-tools\adb.exe" />
+      <option name="PARAMETERS" value="shell am start -a android.intent.action.VIEW -d 'market://details?id=com.walhalla.christianquotes'" />
+      <option name="WORKING_DIRECTORY" value="C:/android/sdk/platform-tools/" />
+    </exec>
+  </tool>
+</toolSet>

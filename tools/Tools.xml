@@ -1,0 +1,9 @@
+<toolSet name="🚀 Tools">
+  <tool name="🚀 Tools cmd /c firebase deploy" description="🚀 Tools" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="cmd" />
+      <option name="PARAMETERS" value="/c firebase deploy" />
+      <option name="WORKING_DIRECTORY" value="$FilePath$" />
+    </exec>
+  </tool>
+</toolSet>

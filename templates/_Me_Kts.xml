@@ -1,0 +1,12 @@
+<templateSet group="_Me_Kts">
+  <template name="pre" value="//Precompose&#10;api(libs.precompose)&#10;api(libs.precompose.viewmodel)&#10;api(libs.precompose.koin)" description="Precompose kts" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="COMPOSE" value="true" />
+    </context>
+  </template>
+  <template name="koin" value="implementation(libs.koin.core)&#10;implementation(libs.insert.koin.koin.compose)&#10;implementation(libs.koin.compose.wasm.js)&#10;&#10;" description="Koin kts" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="COMPOSE" value="true" />
+    </context>
+  </template>
+</templateSet>

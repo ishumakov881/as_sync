@@ -1,0 +1,16 @@
+<toolSet name="Gradlew">
+  <tool name="🔨 gradlew clean assembleDebug" description="gradlew clean assembleDebug" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="gradlew" />
+      <option name="PARAMETERS" value="clean assembleDebug" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+  <tool name="🔨 gradlew clean build" description="./gradlew clean build" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="gradlew.cmd" />
+      <option name="PARAMETERS" value="clean build" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+</toolSet>

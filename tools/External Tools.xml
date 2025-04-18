@@ -1,0 +1,107 @@
+<toolSet name="External Tools">
+  <tool name="🔄 ADB_REBOOT" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\android\sdk\platform-tools\adb.exe" />
+      <option name="PARAMETERS" value="reboot" />
+      <option name="WORKING_DIRECTORY" value="C:/android/sdk/platform-tools/" />
+    </exec>
+  </tool>
+  <tool name="🗑️ uninstall" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="false" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\android\sdk\platform-tools\adb.exe" />
+      <option name="PARAMETERS" value="uninstall com.walhalla.appextractor" />
+      <option name="WORKING_DIRECTORY" value="C:/android/sdk/platform-tools" />
+    </exec>
+  </tool>
+  <tool name="🔑 Hash Key Current" description="Hash key" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\Program Files\Java\jdk-17\bin\keytool.exe" />
+      <option name="PARAMETERS" value="-list -v -keystore keystore.jks -alias release -storepass release -keypass release" />
+      <option name="WORKING_DIRECTORY" value="$ContentRoot$/keystore/" />
+    </exec>
+  </tool>
+  <tool name="🔑 Hash Key Walhalla" description="Hash key" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\Program Files\Android\Android Studio\jre\bin\keytool.exe" />
+      <option name="PARAMETERS" value="-list -v -keystore keystore.jks -alias $Prompt$ -storepass @!sfuQ123zpc -keypass @!sfuQ123zpc" />
+      <option name="WORKING_DIRECTORY" value="D:/walhalla/sign/" />
+    </exec>
+  </tool>
+  <tool name="🗑️ U-&gt;io.aviagame.pin" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\android\sdk\platform-tools\adb.exe" />
+      <option name="PARAMETERS" value="uninstall io.aviagame.pin" />
+      <option name="WORKING_DIRECTORY" value="C:/android/sdk/platform-tools" />
+    </exec>
+  </tool>
+  <tool name="📝 Make Translation" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="cmd" />
+      <option name="PARAMETERS" value="/c &quot;mkdir values-ru&quot;" />
+      <option name="WORKING_DIRECTORY" value="$SourcepathEntry$" />
+    </exec>
+  </tool>
+  <tool name="🌐 http://burpsuite" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\android\sdk\platform-tools\adb.exe" />
+      <option name="PARAMETERS" value="shell am start -a android.intent.action.VIEW -d http://127.0.0.1:8080/cert" />
+      <option name="WORKING_DIRECTORY" value="C:/android/sdk/platform-tools/" />
+    </exec>
+  </tool>
+  <tool name="🌐 Burpsuite proxy" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\android\sdk\platform-tools\adb.exe" />
+      <option name="PARAMETERS" value="shell settings put global http_proxy 127.0.0.1:8080" />
+      <option name="WORKING_DIRECTORY" value="C:/android/sdk/platform-tools/" />
+    </exec>
+  </tool>
+  <tool name="🟩 Charles proxy 192.168.1.109:8888" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\android\sdk\platform-tools\adb.exe" />
+      <option name="PARAMETERS" value="shell settings put global http_proxy 192.168.1.109:8888" />
+      <option name="WORKING_DIRECTORY" value="C:/android/sdk/platform-tools/" />
+    </exec>
+  </tool>
+  <tool name="🚫 Remove proxy" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\android\sdk\platform-tools\adb.exe" />
+      <option name="PARAMETERS" value="shell settings put global http_proxy :0" />
+      <option name="WORKING_DIRECTORY" value="C:/android/sdk/platform-tools/" />
+    </exec>
+  </tool>
+  <tool name="🔑 Hash key c_03" description="Hash key" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\Program Files\Android\Android Studio\jre\bin\keytool.exe" />
+      <option name="PARAMETERS" value="-list -v -keystore keystore.jks -alias release -storepass release -keypass release" />
+      <option name="WORKING_DIRECTORY" value="D:/CREDIT/OMoney/app/c_03/keystore/" />
+    </exec>
+  </tool>
+  <tool name="🔑 Hash key c_04" description="Hash key" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\Program Files\Android\Android Studio\jre\bin\keytool.exe" />
+      <option name="PARAMETERS" value="-list -v -keystore keystore.jks -alias release -storepass release -keypass release" />
+      <option name="WORKING_DIRECTORY" value="D:/CREDIT/OMoney/c_04/keysrore" />
+    </exec>
+  </tool>
+  <tool name="🟩 Charles proxy 192.168.0.109:8888" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\android\sdk\platform-tools\adb.exe" />
+      <option name="PARAMETERS" value="shell settings put global http_proxy 192.168.0.109:8888" />
+      <option name="WORKING_DIRECTORY" value="C:/android/sdk/platform-tools/" />
+    </exec>
+  </tool>
+  <tool name="🟩 Charles proxy 192.168.0.146:8888" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\android\sdk\platform-tools\adb.exe" />
+      <option name="PARAMETERS" value="shell settings put global http_proxy 192.168.0.146:8888" />
+      <option name="WORKING_DIRECTORY" value="C:/android/sdk/platform-tools/" />
+    </exec>
+  </tool>
+  <tool name="📝 text_merger.hta" description="text_merger.hta" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="mshta.exe" />
+      <option name="PARAMETERS" value="D:\Nonesorted\HTA\text_merger.hta" />
+      <option name="WORKING_DIRECTORY" value="D:/Nonesorted/HTA/" />
+    </exec>
+  </tool>
+</toolSet>

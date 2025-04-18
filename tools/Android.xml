@@ -1,0 +1,30 @@
+<toolSet name="Android">
+  <tool name="📱 Список эмуляторов" description="Список эмуляторов" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\android\sdk\tools\bin\sdkmanager.bat" />
+      <option name="PARAMETERS" value="list target" />
+      <option name="WORKING_DIRECTORY" value="C:/android/sdk/tools/bin" />
+    </exec>
+  </tool>
+  <tool name="📖 dictionary_generator" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="java" />
+      <option name="PARAMETERS" value="-jar D:\src\jks-password-cracker\out\artifacts\unnamed\unnamed.jar generatekeylist $ContentRoot$\dictionaries\ --module-path C:/Users/combo/Documents/lib/javafx-sdk-17.0.0.1/lib --add-modules javafx.controls,javafx.fxml" />
+      <option name="WORKING_DIRECTORY" value="$ContentRoot$" />
+    </exec>
+  </tool>
+  <tool name="🔑 Generate Keystore" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="cmd" />
+      <option name="PARAMETERS" value="/c &quot;mkdir $ContentRoot$\keystore &amp; keytool.exe -genkey -v -keystore $ContentRoot$\keystore\keystore.jks -alias release -keyalg RSA -keysize 2048 -validity 10000  -storepass release&quot;" />
+      <option name="WORKING_DIRECTORY" value="$ContentRoot$" />
+    </exec>
+  </tool>
+  <tool name="🔒 Generate PEM" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="cmd" />
+      <option name="PARAMETERS" value="/c &quot;mkdir $ContentRoot$\keystore &amp; keytool.exe -export -rfc -v -keystore $ContentRoot$\keystore\keystore.jks -alias release -file upload_certificate.pem -storepass release&quot;" />
+      <option name="WORKING_DIRECTORY" value="$ContentRoot$" />
+    </exec>
+  </tool>
+</toolSet>

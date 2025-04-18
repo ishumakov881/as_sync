@@ -1,0 +1,9 @@
+<toolSet name="Android/CRACK">
+  <tool name="🛍️ com.legion.production" description="com.legion.production" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\android\sdk\platform-tools\adb.exe" />
+      <option name="PARAMETERS" value="shell am start -a android.intent.action.VIEW -d 'market://details?id=com.legion.production'" />
+      <option name="WORKING_DIRECTORY" value="C:/android/sdk/platform-tools/" />
+    </exec>
+  </tool>
+</toolSet>

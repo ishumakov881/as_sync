@@ -1,0 +1,16 @@
+<toolSet name="NOX">
+  <tool name="🛑 kill-server" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\Program Files\Nox\bin\nox_adb.exe" />
+      <option name="PARAMETERS" value="kill-server" />
+      <option name="WORKING_DIRECTORY" value="C:/Program Files/Nox/bin/" />
+    </exec>
+  </tool>
+  <tool name="🔌 connect" description="connect" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\android\sdk\platform-tools\adb.exe" />
+      <option name="PARAMETERS" value="connect 127.0.0.1:62001" />
+      <option name="WORKING_DIRECTORY" value="C:/android/sdk/platform-tools/" />
+    </exec>
+  </tool>
+</toolSet>
