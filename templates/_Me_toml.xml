@@ -41,4 +41,46 @@
       <option name="objc" value="false" />
     </context>
   </template>
+  <template name="voya" value="voyager= &quot;1.1.0-beta03&quot;&#10;voyager = { module = &quot;cafe.adriel.voyager:voyager-navigator&quot;, version.ref = &quot;voyager&quot; }" description="Voyager Toml" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="ANDROID" value="false" />
+      <option name="CMAKE" value="false" />
+      <option name="COMPOSE" value="false" />
+      <option name="EDU_TASK_DESCRIPTION_HINT" value="false" />
+      <option name="GROOVY" value="false" />
+      <option name="HTML" value="false" />
+      <option name="JAVA_CODE" value="false" />
+      <option name="JSON" value="false" />
+      <option name="KOTLIN" value="false" />
+      <option name="OTHER" value="true" />
+      <option name="Properties" value="false" />
+      <option name="SHELL_SCRIPT" value="false" />
+      <option name="XML" value="false" />
+      <option name="XML_ATTRIBUTE" value="false" />
+      <option name="c" value="false" />
+      <option name="cpp" value="false" />
+      <option name="objc" value="false" />
+    </context>
+  </template>
+  <template name="mediamp" value="mediamp-all = { module = &quot;org.openani.mediamp:mediamp-all&quot;, version.ref = &quot;mediamp&quot; }" description="Mediamp Toml" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="ANDROID" value="false" />
+      <option name="CMAKE" value="false" />
+      <option name="COMPOSE" value="false" />
+      <option name="EDU_TASK_DESCRIPTION_HINT" value="false" />
+      <option name="GROOVY" value="false" />
+      <option name="HTML" value="false" />
+      <option name="JAVA_CODE" value="false" />
+      <option name="JSON" value="false" />
+      <option name="KOTLIN" value="false" />
+      <option name="OTHER" value="true" />
+      <option name="Properties" value="false" />
+      <option name="SHELL_SCRIPT" value="false" />
+      <option name="XML" value="false" />
+      <option name="XML_ATTRIBUTE" value="false" />
+      <option name="c" value="false" />
+      <option name="cpp" value="false" />
+      <option name="objc" value="false" />
+    </context>
+  </template>
 </templateSet>

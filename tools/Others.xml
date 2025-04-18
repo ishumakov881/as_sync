@@ -1,0 +1,9 @@
+<toolSet name="Others">
+  <tool name="Update Settings" description="Update Settings From Git" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="false">
+    <exec>
+      <option name="COMMAND" value="cmd.exe" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="C:/Users/reznichenko.i/AppData/Roaming/Google/AndroidStudio2024.3/AppData/Roaming/Google/AndroidStudio2024.3" />
+    </exec>
+  </tool>
+</toolSet>
