@@ -1,3 +1,0 @@
-com.jetbrains.kmm
-io.flutter
-Dart
