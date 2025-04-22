@@ -1,0 +1,12 @@
+<application>
+  <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
+    <group value="Tools_🟢 KMP 🟢" is_group="true" forse_popup="true" action_type="1" position="13">
+      <path value="root" />
+      <path value="Main Menu" />
+    </group>
+    <group value="Tools_🟢Gradle🟢" is_group="true" forse_popup="true" action_type="1" position="14">
+      <path value="root" />
+      <path value="Main Menu" />
+    </group>
+  </component>
+</application>
