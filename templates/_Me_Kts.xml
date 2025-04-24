@@ -14,4 +14,27 @@
       <option name="COMPOSE" value="true" />
     </context>
   </template>
+  <template name="jsoup" value="implementation(&quot;org.jsoup:jsoup:1.15.3&quot;)" description="Jsoup Kts" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="ANDROID" value="false" />
+      <option name="CMAKE" value="false" />
+      <option name="DART" value="false" />
+      <option name="GROOVY" value="false" />
+      <option name="HTML" value="false" />
+      <option name="JAVA_CODE" value="false" />
+      <option name="JSON" value="false" />
+      <option name="KOTLIN" value="false" />
+      <option name="OTHER" value="true" />
+      <option name="PL/SQL" value="false" />
+      <option name="Properties" value="false" />
+      <option name="SHELL_SCRIPT" value="false" />
+      <option name="SQL" value="false" />
+      <option name="XML" value="false" />
+      <option name="XML_ATTRIBUTE" value="false" />
+      <option name="c" value="false" />
+      <option name="com.levinzonr.compose.livetemplate.context" value="false" />
+      <option name="cpp" value="false" />
+      <option name="objc" value="false" />
+    </context>
+  </template>
 </templateSet>

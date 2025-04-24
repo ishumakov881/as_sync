@@ -1,0 +1,13 @@
+<templateSet group="_Me_Kotlin">
+  <template name="pag" value=" // Пагинация&#10;private var currentPage = 1&#10;val pageSize = 10" description="Pagination" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="KOTLIN" value="true" />
+      <option name="KOTLIN_COMMENT" value="false" />
+      <option name="KOTLIN_EXPRESSION" value="false" />
+      <option name="KOTLIN_OBJECT_DECLARATION" value="false" />
+      <option name="KOTLIN_STATEMENT" value="false" />
+      <option name="KOTLIN_TOPLEVEL" value="false" />
+      <option name="PL/SQL" value="false" />
+    </context>
+  </template>
+</templateSet>
