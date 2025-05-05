@@ -10,4 +10,36 @@
       <option name="PL/SQL" value="false" />
     </context>
   </template>
+  <template name="prev2" value="&#10;//================================================================================&#10;// PREVIEW: $FILENAME$&#10;//================================================================================&#10;&#10;@Preview(name = &quot;Phone (Pixel)&quot;, showBackground = true, device = Devices.PIXEL)&#10;@Composable&#10;fun $COMPOSABLE_NAME$_PixelPreview() {&#10;    MaterialTheme {&#10;        $FUN$&#10;    }&#10;}&#10;&#10;@Preview(name = &quot;Phone (360x800 dp)&quot;, showBackground = true, widthDp = 360, heightDp = 800)&#10;@Composable&#10;fun $COMPOSABLE_NAME$_PhonePreview() {&#10;    MaterialTheme {&#10;        $FUN$&#10;    }&#10;}&#10;&#10;@Preview(name = &quot;Tablet (1024x768 dp)&quot;, showBackground = true, widthDp = 1024, heightDp = 768)&#10;@Composable&#10;fun $COMPOSABLE_NAME$_TabletPreview() {&#10;    MaterialTheme {&#10;        $FUN$&#10;    }&#10;}&#10;&#10;@Preview(name = &quot;Landscape&quot;, showBackground = true, widthDp = 500, heightDp = 300)&#10;@Composable&#10;fun $COMPOSABLE_NAME$_LandscapePreview() {&#10;    MaterialTheme {&#10;        $FUN$&#10;    }&#10;}" description="Preview" toReformat="false" toShortenFQNames="true">
+    <variable name="FILENAME" expression="fileName()" defaultValue="" alwaysStopAt="false" />
+    <variable name="COMPOSABLE_NAME" expression="capitalize(camelCase(fileNameWithoutExtension()))" defaultValue="" alwaysStopAt="false" />
+    <variable name="FUN" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN" value="true" />
+      <option name="KOTLIN_CLASS" value="false" />
+      <option name="KOTLIN_OBJECT_DECLARATION" value="false" />
+      <option name="KOTLIN_STATEMENT" value="false" />
+      <option name="PL/SQL" value="false" />
+    </context>
+  </template>
+  <template name="screens" value="$INPUT$&#10;$SCREENS$&#10;$END$" description="Preview" toReformat="false" toShortenFQNames="true">
+    <variable name="INPUT" expression="" defaultValue="ss sss sss sss" alwaysStopAt="true" />
+    <variable name="SCREENS" expression="groovyScript(&quot;C\:\\android\\1.groovy&quot;, INPUT)" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN" value="true" />
+      <option name="KOTLIN_CLASS" value="false" />
+      <option name="KOTLIN_OBJECT_DECLARATION" value="false" />
+      <option name="KOTLIN_STATEMENT" value="false" />
+      <option name="PL/SQL" value="false" />
+    </context>
+  </template>
+  <template name="scrb" value="//ВАЖНО! BackHandler делать тут! т.к глобальный BackHandler перехватывает уже после выполнения bottom навигации&#10;                        BackHandler(drawerState.isOpen || isFullScreen != FullScreen.None) {&#10;                            if (isFullScreen != FullScreen.None) {&#10;                                isFullScreen = FullScreen.None&#10;                            } else if (drawerState.isOpen) {&#10;                                scope.launch {&#10;                                    drawerState.close()&#10;                                }&#10;                            }&#10;                            println(&quot;Back pressed&quot;)&#10;                        }" description="Screen BackHandler" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="KOTLIN" value="true" />
+      <option name="KOTLIN_COMMENT" value="false" />
+      <option name="KOTLIN_OBJECT_DECLARATION" value="false" />
+      <option name="KOTLIN_STATEMENT" value="false" />
+      <option name="PL/SQL" value="false" />
+    </context>
+  </template>
 </templateSet>

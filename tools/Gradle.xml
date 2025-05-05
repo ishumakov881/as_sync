@@ -41,4 +41,11 @@
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$/Documentation" />
     </exec>
   </tool>
+  <tool name="asyncapi.json" description="asyncapi.json" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="false">
+    <exec>
+      <option name="COMMAND" value="C:\bin\curl.exe " />
+      <option name="PARAMETERS" value="http://10.0.59.122:9000/asyncapi.json -o asyncapi.json" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$/Documentation" />
+    </exec>
+  </tool>
 </toolSet>

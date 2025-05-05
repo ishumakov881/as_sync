@@ -1,5 +1,5 @@
 <templateSet group="_Me_toml">
-  <template name="koin" value="koin = &quot;4.0.1&quot;&#10;precompose = &quot;1.7.0-alpha01&quot;&#10;&#10;precompose-koin = { module = &quot;moe.tlaster:precompose-koin&quot;, version.ref = &quot;precompose&quot; }&#10;insert-koin-koin-compose = { module = &quot;io.insert-koin:koin-compose&quot;, version.ref = &quot;koin&quot; }&#10;koin-android = { module = &quot;io.insert-koin:koin-android&quot;, version.ref = &quot;koin&quot; }&#10;koin-core = { module = &quot;io.insert-koin:koin-core&quot;, version.ref = &quot;koin&quot; }" description="Koin Toml" toReformat="false" toShortenFQNames="true">
+  <template name="koin" value="koin = &quot;4.0.1&quot;&#10;precompose = &quot;1.7.0-alpha01&quot;&#10;&#10;precompose-koin = { module = &quot;moe.tlaster:precompose-koin&quot;, version.ref = &quot;precompose&quot; }&#10;insert-koin-koin-compose = { module = &quot;io.insert-koin:koin-compose&quot;, version.ref = &quot;koin&quot; }&#10;koin-android = { module = &quot;io.insert-koin:koin-android&quot;, version.ref = &quot;koin&quot; }&#10;koin-core = { module = &quot;io.insert-koin:koin-core&quot;, version.ref = &quot;koin&quot; }" description="Koin Toml" toReformat="false" toShortenFQNames="true" deactivated="true">
     <context>
       <option name="ANDROID" value="false" />
       <option name="CMAKE" value="false" />
