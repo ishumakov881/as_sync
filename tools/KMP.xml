@@ -69,4 +69,11 @@
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
+  <tool name="🟢 Build Konfig Release 🟢" description="gradlew build -Pbuildkonfig.flavor=release" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="false">
+    <exec>
+      <option name="COMMAND" value="$ProjectFileDir$\gradlew.bat" />
+      <option name="PARAMETERS" value="build -Pbuildkonfig.flavor=release" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
 </toolSet>
