@@ -23,7 +23,7 @@
   <tool name="🚀 Desktop Launch | :composeApp:run --stacktrace" description="gradlew :composeApp:run" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="false">
     <exec>
       <option name="COMMAND" value="$ProjectFileDir$\gradlew.bat" />
-      <option name="PARAMETERS" value=":composeApp:run --stacktrace" />
+      <option name="PARAMETERS" value=":composeApp:run --stacktrace --offline" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
