@@ -19,4 +19,31 @@
       <option name="COMPOSE" value="true" />
     </context>
   </template>
+  <template name="ktorad" value="//Ktor&#10;            //implementation(libs.ktor.serialization.gson)&#10;            //implementation(libs.ktor.client.serialization)&#10;            implementation(libs.ktor.serialization.kotlinx.json)&#10;            implementation(libs.ktor.client.okhttp) // Для Android (или другой движок, например, CIO)&#10;            implementation(libs.ktor.client.android)&#10;            implementation(libs.logging.interceptor)" description="Ktor androidMain Dependencies" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="COMPOSE" value="true" />
+      <option name="COMPOSE_KOTLIN_CLASS" value="false" />
+      <option name="COMPOSE_KOTLIN_COMMENT" value="false" />
+      <option name="COMPOSE_KOTLIN_EXPRESSION" value="false" />
+      <option name="COMPOSE_KOTLIN_OBJECT_DECLARATION" value="false" />
+    </context>
+  </template>
+  <template name="ktorcd" value="            implementation(libs.ktor.client.core)&#10;            implementation(libs.ktor.client.content.negotiation)&#10;            implementation(libs.ktor.serialization.kotlinx.json)&#10;            implementation(libs.ktor.client.logging)" description="Ktor commonMain Dependencies" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="COMPOSE" value="true" />
+      <option name="COMPOSE_KOTLIN_CLASS" value="false" />
+      <option name="COMPOSE_KOTLIN_COMMENT" value="false" />
+      <option name="COMPOSE_KOTLIN_EXPRESSION" value="false" />
+      <option name="COMPOSE_KOTLIN_OBJECT_DECLARATION" value="false" />
+    </context>
+  </template>
+  <template name="ktordd" value="//Ktor&#10;            implementation(libs.ktor.client.cio)&#10;            implementation(libs.ktor.client.okhttp)" description="Ktor desktopMain Dependencies" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="COMPOSE" value="true" />
+      <option name="COMPOSE_KOTLIN_CLASS" value="false" />
+      <option name="COMPOSE_KOTLIN_COMMENT" value="false" />
+      <option name="COMPOSE_KOTLIN_EXPRESSION" value="false" />
+      <option name="COMPOSE_KOTLIN_OBJECT_DECLARATION" value="false" />
+    </context>
+  </template>
 </templateSet>

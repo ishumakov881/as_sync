@@ -1,0 +1,22 @@
+<scheme name="_@user_IntelliJ Light" version="142" parent_scheme="Default">
+  <option name="FONT_SCALE" value="1.0" />
+  <metaInfo>
+    <property name="created">2022-09-24T18:19:32</property>
+    <property name="ide">AndroidStudio</property>
+    <property name="ideVersion">2021.3.1.16</property>
+    <property name="modified">2024-06-14T15:28:00</property>
+    <property name="originalScheme">IntelliJ Light</property>
+    <property name="partialSave">true</property>
+  </metaInfo>
+  <option name="LINE_SPACING" value="1.2" />
+  <option name="EDITOR_FONT_SIZE" value="13" />
+  <option name="EDITOR_FONT_NAME" value="Consolas" />
+  <attributes>
+    <option name="LOGCAT_FILTER_KEY">
+      <value>
+        <option name="FOREGROUND" value="ff0000" />
+        <option name="BACKGROUND" value="e9f5e6" />
+      </value>
+    </option>
+  </attributes>
+</scheme>

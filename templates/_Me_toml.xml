@@ -1,5 +1,5 @@
 <templateSet group="_Me_toml">
-  <template name="koin" value="koin = &quot;4.0.1&quot;&#10;precompose = &quot;1.7.0-alpha01&quot;&#10;&#10;precompose-koin = { module = &quot;moe.tlaster:precompose-koin&quot;, version.ref = &quot;precompose&quot; }&#10;insert-koin-koin-compose = { module = &quot;io.insert-koin:koin-compose&quot;, version.ref = &quot;koin&quot; }&#10;koin-android = { module = &quot;io.insert-koin:koin-android&quot;, version.ref = &quot;koin&quot; }&#10;koin-core = { module = &quot;io.insert-koin:koin-core&quot;, version.ref = &quot;koin&quot; }" description="Koin Toml" toReformat="false" toShortenFQNames="true" deactivated="true">
+  <template name="koin" value="koin = &quot;4.0.1&quot;&#10;precompose = &quot;1.7.0-alpha01&quot;&#10;&#10;precompose-koin = { module = &quot;moe.tlaster:precompose-koin&quot;, version.ref = &quot;precompose&quot; }&#10;insert-koin-koin-compose = { module = &quot;io.insert-koin:koin-compose&quot;, version.ref = &quot;koin&quot; }&#10;koin-android = { module = &quot;io.insert-koin:koin-android&quot;, version.ref = &quot;koin&quot; }&#10;koin-core = { module = &quot;io.insert-koin:koin-core&quot;, version.ref = &quot;koin&quot; }" description="Koin Toml" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="ANDROID" value="false" />
       <option name="CMAKE" value="false" />
@@ -67,6 +67,26 @@
       <option name="ANDROID" value="false" />
       <option name="CMAKE" value="false" />
       <option name="COMPOSE" value="false" />
+      <option name="EDU_TASK_DESCRIPTION_HINT" value="false" />
+      <option name="GROOVY" value="false" />
+      <option name="HTML" value="false" />
+      <option name="JAVA_CODE" value="false" />
+      <option name="JSON" value="false" />
+      <option name="KOTLIN" value="false" />
+      <option name="OTHER" value="true" />
+      <option name="Properties" value="false" />
+      <option name="SHELL_SCRIPT" value="false" />
+      <option name="XML" value="false" />
+      <option name="XML_ATTRIBUTE" value="false" />
+      <option name="c" value="false" />
+      <option name="cpp" value="false" />
+      <option name="objc" value="false" />
+    </context>
+  </template>
+  <template name="ktor" value="ktor = &quot;$version$&quot;&#10;ktorClientCio = &quot;3.0.2&quot;&#10;ktorClientJs = &quot;3.0.2&quot;&#10;ktorClientSerialization = &quot;3.0.1&quot;&#10;ktorSerializationGson = &quot;3.0.2&quot;&#10;ktorSerializationGsonVersion = &quot;3.0.1&quot;&#10;ktorSerializationKotlinxJson = &quot;3.0.3&quot;" description="KTOR tomp" toReformat="false" toShortenFQNames="true">
+    <variable name="version" expression="&quot;3.0.3&quot;" defaultValue="3.0.3" alwaysStopAt="false" />
+    <context>
+      <option name="CMAKE" value="false" />
       <option name="EDU_TASK_DESCRIPTION_HINT" value="false" />
       <option name="GROOVY" value="false" />
       <option name="HTML" value="false" />
