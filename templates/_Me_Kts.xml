@@ -39,11 +39,21 @@
   </template>
   <template name="ktordd" value="//Ktor&#10;            implementation(libs.ktor.client.cio)&#10;            implementation(libs.ktor.client.okhttp)" description="Ktor desktopMain Dependencies" toReformat="true" toShortenFQNames="true">
     <context>
-      <option name="COMPOSE" value="true" />
-      <option name="COMPOSE_KOTLIN_CLASS" value="false" />
-      <option name="COMPOSE_KOTLIN_COMMENT" value="false" />
-      <option name="COMPOSE_KOTLIN_EXPRESSION" value="false" />
-      <option name="COMPOSE_KOTLIN_OBJECT_DECLARATION" value="false" />
+      <option name="CMAKE" value="false" />
+      <option name="EDU_TASK_DESCRIPTION_HINT" value="false" />
+      <option name="GROOVY" value="false" />
+      <option name="HTML" value="false" />
+      <option name="JAVA_CODE" value="false" />
+      <option name="JSON" value="false" />
+      <option name="KOTLIN" value="false" />
+      <option name="OTHER" value="true" />
+      <option name="Properties" value="false" />
+      <option name="SHELL_SCRIPT" value="false" />
+      <option name="XML" value="false" />
+      <option name="XML_ATTRIBUTE" value="false" />
+      <option name="c" value="false" />
+      <option name="cpp" value="false" />
+      <option name="objc" value="false" />
     </context>
   </template>
 </templateSet>

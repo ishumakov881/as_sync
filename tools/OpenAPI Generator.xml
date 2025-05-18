@@ -1,0 +1,93 @@
+<toolSet name="OpenAPI Generator">
+  <tool name="📦 Install OpenAPI Generator (npm)" description="Установить openapi-generator-cli через npm" showInMainMenu="true" showInEditor="false" showInProject="false" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="false">
+    <exec>
+      <option name="COMMAND" value="C:\Program Files\nodejs\npm.cmd" />
+      <option name="PARAMETERS" value="install -g @openapitools/openapi-generator-cli" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+  <tool name="🛠️ OpenAPI Generate KMP/Android" description="Генерация кода по openapi.yaml для KMP/Android" showInMainMenu="true" showInEditor="false" showInProject="false" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="false">
+    <exec>
+      <option name="COMMAND" value="C:\Program Files\nodejs\npx.cmd" />
+      <option name="PARAMETERS" value="@openapitools/openapi-generator-cli generate -i openapi.yaml -g kotlin -o ./build/generated --additional-properties=multiplatform=true,serializationLibrary=kotlinx_serialization,library=multiplatform" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+  <tool name="🧩 OpenAPI Generate Models (DTO)" description="Генерация только моделей (DTO)" showInMainMenu="true" showInEditor="false" showInProject="false" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="false">
+    <exec>
+      <option name="COMMAND" value="C:\Program Files\nodejs\npx.cmd" />
+      <option name="PARAMETERS" value="@openapitools/openapi-generator-cli generate -i openapi.yaml -g kotlin -o ./build/generated --global-property models" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+  <tool name="🔌 OpenAPI Generate APIs" description="Генерация только API-клиентов" showInMainMenu="true" showInEditor="false" showInProject="false" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="false">
+    <exec>
+      <option name="COMMAND" value="C:\Program Files\nodejs\npx.cmd" />
+      <option name="PARAMETERS" value="@openapitools/openapi-generator-cli generate -i openapi.yaml -g kotlin -o ./build/generated --global-property apis" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+  <tool name="🧪 OpenAPI Generate Server Stubs" description="Генерация server stubs для моков" showInMainMenu="true" showInEditor="false" showInProject="false" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="false">
+    <exec>
+      <option name="COMMAND" value="C:\Program Files\nodejs\npx.cmd" />
+      <option name="PARAMETERS" value="@openapitools/openapi-generator-cli generate -i openapi.yaml -g kotlin-server -o ./build/server-stubs" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+  <tool name="🌐 OpenAPI Generate Python Client" description="Генерация Python-клиента" showInMainMenu="true" showInEditor="false" showInProject="false" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="false">
+    <exec>
+      <option name="COMMAND" value="C:\Program Files\nodejs\npx.cmd" />
+      <option name="PARAMETERS" value="@openapitools/openapi-generator-cli generate -i openapi.yaml -g python -o ./build/python-client" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+  <tool name="🧪 OpenAPI Generate Postman Collection" description="Генерация коллекции для Postman" showInMainMenu="true" showInEditor="false" showInProject="false" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="false">
+    <exec>
+      <option name="COMMAND" value="C:\Program Files\nodejs\npx.cmd" />
+      <option name="PARAMETERS" value="@openapitools/openapi-generator-cli generate -i openapi.yaml -g postman-collection -o ./build/postman" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+  <tool name="📄 OpenAPI Generate Docs (Markdown)" description="Генерация Markdown-документации" showInMainMenu="true" showInEditor="false" showInProject="false" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="false">
+    <exec>
+      <option name="COMMAND" value="C:\Program Files\nodejs\npx.cmd" />
+      <option name="PARAMETERS" value="@openapitools/openapi-generator-cli generate -i openapi.yaml -g markdown -o ./build/openapi-docs" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+  <tool name="🧽 Format Generated Kotlin" description="Форматировать сгенерированный Kotlin-код" showInMainMenu="true" showInEditor="false" showInProject="false" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="false">
+    <exec>
+      <option name="COMMAND" value="cmd" />
+      <option name="PARAMETERS" value="/c ktlint -F build\generated\**\*.kt" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+  <tool name="📂 Open Generated Folder" description="Открыть папку сгенерированного кода" showInMainMenu="true" showInEditor="false" showInProject="false" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="false">
+    <exec>
+      <option name="COMMAND" value="explorer.exe" />
+      <option name="PARAMETERS" value="build\generated" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+  <tool name="👁️ View openapi.yaml" description="Открыть openapi.yaml в редакторе" showInMainMenu="true" showInEditor="false" showInProject="false" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="false">
+    <exec>
+      <option name="COMMAND" value="notepad.exe" />
+      <option name="PARAMETERS" value="openapi.yaml" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+  <tool name="🧹 Clean Generated Code" description="Удалить сгенерированный код" showInMainMenu="true" showInEditor="false" showInProject="false" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="false">
+    <exec>
+      <option name="COMMAND" value="cmd" />
+      <option name="PARAMETERS" value="/c rmdir /s /q build\generated" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+  <tool name="📖 OpenAPI Generator Docs" description="Открыть документацию OpenAPI Generator" showInMainMenu="true" showInEditor="false" showInProject="false" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="false">
+    <exec>
+      <option name="COMMAND" value="cmd" />
+      <option name="PARAMETERS" value="/c start https://openapi-generator.tech/docs/generators/kotlin/" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+</toolSet>

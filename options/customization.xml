@@ -1,12 +1,17 @@
 <application>
   <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
-    <group value="Tools_🟢 KMP 🟢" is_group="true" forse_popup="true" action_type="1" position="13">
+    <group value="Tools_🟢 KMP 🟢" is_group="true" forse_popup="true" action_type="1" position="12">
       <path value="root" />
       <path value="Main Menu" />
     </group>
-    <group value="Tools_🟢Gradle🟢" is_group="true" forse_popup="true" action_type="1" position="14">
+    <group value="Tools_🟢Gradle🟢" is_group="true" forse_popup="true" action_type="1" position="13">
       <path value="root" />
       <path value="Main Menu" />
     </group>
+    <group value="Tools_OpenAPI Generator" is_group="true" forse_popup="true" action_type="1" position="14">
+      <path value="root" />
+      <path value="Main Menu" />
+    </group>
+    <action id="Tools_OpenAPI Generator" icon="jar:file:/C:/Users/combo/AppData/Local/Programs/Android%20Studio/lib/app.jar!/expui/toolbar/unknown.svg" />
   </component>
 </application>
