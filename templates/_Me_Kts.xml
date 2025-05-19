@@ -56,4 +56,9 @@
       <option name="objc" value="false" />
     </context>
   </template>
+  <template name="seri" value="    kotlin(&quot;plugin.serialization&quot;) version &quot;1.9.0&quot; apply false&#10;    //kotlin(&quot;plugin.serialization&quot;) version &quot;2.1.21&quot; apply false&#10;    //kotlin(&quot;plugin.serialization&quot;) version &quot;2.1.21&quot; apply false&#10;    //id(&quot;kotlinx-serialization&quot;) version &quot;2.1.0&quot; apply false" description="Kotlin Serialization" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="COMPOSE" value="true" />
+    </context>
+  </template>
 </templateSet>
