@@ -12,6 +12,11 @@
       <path value="root" />
       <path value="Main Menu" />
     </group>
+    <group value="Tools_Windows" is_group="true" forse_popup="true" action_type="1" position="15">
+      <path value="root" />
+      <path value="Main Menu" />
+    </group>
+    <action id="Tools_Windows" icon="org.intellij.plugins.markdown.ui.actions.styling.ToggleCodeSpanAction" />
     <action id="Tools_OpenAPI Generator" icon="jar:file:/C:/Users/combo/AppData/Local/Programs/Android%20Studio/lib/app.jar!/expui/toolbar/unknown.svg" />
   </component>
 </application>
