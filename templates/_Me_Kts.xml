@@ -61,4 +61,9 @@
       <option name="COMPOSE" value="true" />
     </context>
   </template>
+  <template name="ktssl" value="plugins {&#10;    id(&quot;java-library&quot;)&#10;    alias(libs.plugins.jetbrains.kotlin.jvm)&#10;&#10;//    alias(libs.plugins.androidLibrary)&#10;    alias(libs.plugins.jetbrains.kotlin.jvm)&#10;    kotlin(&quot;plugin.serialization&quot;) version &quot;1.9.0&quot;&#10;}&#10;java {&#10;    sourceCompatibility = JavaVersion.VERSION_21&#10;    targetCompatibility = JavaVersion.VERSION_21&#10;}&#10;kotlin {&#10;    compilerOptions {&#10;        jvmTarget = org.jetbrains.kotlin.gradle.dsl.JvmTarget.JVM_21&#10;    }&#10;}&#10;&#10;&#10;dependencies {&#10;    implementation(libs.kotlin.stdlib.jdk8)&#10;    implementation(libs.kotlinx.serialization.json)&#10;    implementation(libs.ktor.client.core)&#10;    implementation(libs.ktor.client.content.negotiation)&#10;    testImplementation(libs.kotlintest.runner.junit5)&#10;    implementation(libs.kotlinx.datetime)&#10;}" description="Kts Simple Kotlin Lib" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="COMPOSE" value="true" />
+    </context>
+  </template>
 </templateSet>
