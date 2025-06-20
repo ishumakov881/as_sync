@@ -66,4 +66,10 @@
       <option name="COMPOSE" value="true" />
     </context>
   </template>
+  <template name="dpadim" value="DpadIconButton(&#10;                onClick = $FUN$&#10;            ) {&#10;                Icon(&#10;                    imageVector = Icons.Default.Close,&#10;                    contentDescription = &quot;Закрыть&quot;&#10;                )&#10;                $END$&#10;            }" description="Dpad ImageButton" toReformat="false" toShortenFQNames="true">
+    <variable name="FUN" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="COMPOSE" value="true" />
+    </context>
+  </template>
 </templateSet>
