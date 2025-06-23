@@ -82,4 +82,19 @@
       <option name="PL/SQL" value="false" />
     </context>
   </template>
+  <template name="ccsc" value="@Composable&#10;fun $SCREEN_NAME$Screen(&#10;    gridColumns: Int = 4,&#10;    onItemClick: ($ITEM_TYPE$) -&gt; Unit,&#10;    onScroll: (isTopBarVisible: Boolean) -&gt; Unit,&#10;    $VIEWMODEL_VAR$: $VIEWMODEL_CLASS$ = koinViewModel($VIEWMODEL_CLASS$::class)&#10;) {&#10;    val uiState by $VIEWMODEL_VAR$.uiState.collectAsState()&#10;    val orientation = LocalConfiguration.current.orientation&#10;&#10;    when (orientation) {&#10;        Configuration.ORIENTATION_PORTRAIT -&gt; $SCREEN_NAME$Portrait(uiState, gridColumns, onItemClick, onScroll)&#10;        Configuration.ORIENTATION_LANDSCAPE -&gt; $SCREEN_NAME$Landscape(uiState, gridColumns, onItemClick, onScroll)&#10;        else -&gt; $SCREEN_NAME$Portrait(uiState, gridColumns, onItemClick, onScroll)&#10;    }&#10;}&#10;&#10;@Composable&#10;fun $SCREEN_NAME$Portrait(&#10;    uiState: $UI_STATE_CLASS$,&#10;    gridColumns: Int,&#10;    onItemClick: ($ITEM_TYPE$) -&gt; Unit,&#10;    onScroll: (Boolean) -&gt; Unit&#10;) {&#10;    when (uiState) {&#10;        $UI_STATE_CLASS$.Loading -&gt; {&#10;            // TODO: Показать лоадер&#10;        }&#10;        is $UI_STATE_CLASS$.Ready -&gt; {&#10;            $SCREEN_NAME$Content(&#10;                gridColumns = gridColumns,&#10;                items = uiState.$DATA_FIELD$,&#10;                onItemClick = onItemClick,&#10;                onScroll = onScroll&#10;            )&#10;        }&#10;    }&#10;}&#10;&#10;@Composable&#10;fun $SCREEN_NAME$Landscape(&#10;    uiState: $UI_STATE_CLASS$,&#10;    gridColumns: Int,&#10;    onItemClick: ($ITEM_TYPE$) -&gt; Unit,&#10;    onScroll: (Boolean) -&gt; Unit&#10;) {&#10;    when (uiState) {&#10;        $UI_STATE_CLASS$.Loading -&gt; {&#10;            // TODO: Показать лоадер&#10;        }&#10;        is $UI_STATE_CLASS$.Ready -&gt; {&#10;            $SCREEN_NAME$Content(&#10;                gridColumns = gridColumns,&#10;                items = uiState.$DATA_FIELD$,&#10;                onItemClick = onItemClick,&#10;                onScroll = onScroll&#10;            )&#10;        }&#10;    }&#10;}&#10;&#10;@Composable&#10;fun $SCREEN_NAME$Content(&#10;    gridColumns: Int,&#10;    items: List&lt;$ITEM_TYPE$&gt;,&#10;    onItemClick: ($ITEM_TYPE$) -&gt; Unit,&#10;    onScroll: (Boolean) -&gt; Unit,&#10;    modifier: Modifier = Modifier&#10;) {&#10;    // TODO: Верстка с LazyColumn/VerticalGrid&#10;    Catalog(&#10;        gridColumns = gridColumns,&#10;        movieCategories = items,&#10;        onCategoryClick = onItemClick,&#10;        onScroll = onScroll,&#10;        modifier = modifier.fillMaxSize()&#10;    )&#10;}&#10;" description="Screen" toReformat="true" toShortenFQNames="true">
+    <variable name="SCREEN_NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="ITEM_TYPE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VIEWMODEL_VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VIEWMODEL_CLASS" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="UI_STATE_CLASS" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="DATA_FIELD" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN" value="true" />
+      <option name="KOTLIN_COMMENT" value="false" />
+      <option name="KOTLIN_OBJECT_DECLARATION" value="false" />
+      <option name="KOTLIN_STATEMENT" value="false" />
+      <option name="PL/SQL" value="false" />
+    </context>
+  </template>
 </templateSet>
