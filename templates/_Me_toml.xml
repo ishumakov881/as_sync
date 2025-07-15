@@ -103,4 +103,25 @@
       <option name="objc" value="false" />
     </context>
   </template>
+  <template name="lifecycle" value="androidx-lifecycle-common-java8 = { module = &quot;androidx.lifecycle:lifecycle-common-java8&quot;, version.ref = &quot;lifecycle&quot; }&#10;androidx-lifecycle-viewmodel = { module = &quot;androidx.lifecycle:lifecycle-viewmodel&quot;, version.ref = &quot;lifecycle&quot; }&#10;androidx-lifecycle-process = { module = &quot;androidx.lifecycle:lifecycle-process&quot;, version.ref = &quot;lifecycle&quot; }&#10;androidx-lifecycle-runtime = { module = &quot;androidx.lifecycle:lifecycle-runtime&quot;, version.ref = &quot;lifecycle&quot; }&#10;androidx-lifecycle-runtime-ktx = { group = &quot;androidx.lifecycle&quot;, name = &quot;lifecycle-runtime-ktx&quot;, version.ref = &quot;lifecycle&quot; }&#10;androidx-lifecycle-viewmodel-compose = { module = &quot;androidx.lifecycle:lifecycle-viewmodel-compose&quot;, version.ref = &quot;lifecycle&quot; }&#10;androidx-lifecycle-viewmodel-ktx = { module = &quot;androidx.lifecycle:lifecycle-viewmodel-ktx&quot;, version.ref = &quot;lifecycle&quot; }&#10;" description="Lifecicle Toml" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="ANDROID" value="false" />
+      <option name="CMAKE" value="false" />
+      <option name="COMPOSE" value="false" />
+      <option name="EDU_TASK_DESCRIPTION_HINT" value="false" />
+      <option name="GROOVY" value="false" />
+      <option name="HTML" value="false" />
+      <option name="JAVA_CODE" value="false" />
+      <option name="JSON" value="false" />
+      <option name="KOTLIN" value="false" />
+      <option name="OTHER" value="true" />
+      <option name="Properties" value="false" />
+      <option name="SHELL_SCRIPT" value="false" />
+      <option name="XML" value="false" />
+      <option name="XML_ATTRIBUTE" value="false" />
+      <option name="c" value="false" />
+      <option name="cpp" value="false" />
+      <option name="objc" value="false" />
+    </context>
+  </template>
 </templateSet>
