@@ -1,5 +1,5 @@
 <templateSet group="Other">
-  <template name="grdl" value="#Tue Dec 10 12:10:57 MSK 2024&#10;distributionBase=GRADLE_USER_HOME&#10;distributionPath=wrapper/dists&#10;distributionUrl=https\://services.gradle.org/distributions/gradle-8.10.2-bin.zip&#10;zipStoreBase=GRADLE_USER_HOME&#10;zipStorePath=wrapper/dists&#10;networkTimeout=10000&#10;validateDistributionUrl=true" shortcut="SPACE" description="Gradle Version" toReformat="true" toShortenFQNames="true">
+  <template name="grdl" value="#Tue Dec 10 12:10:57 MSK 2024&#10;distributionBase=GRADLE_USER_HOME&#10;distributionPath=wrapper/dists&#10;distributionUrl=https\://services.gradle.org/distributions/gradle-8.14.3-bin.zip&#10;zipStoreBase=GRADLE_USER_HOME&#10;zipStorePath=wrapper/dists&#10;networkTimeout=10000&#10;validateDistributionUrl=true" shortcut="SPACE" description="Gradle Version" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="Properties" value="true" />
     </context>
