@@ -69,6 +69,16 @@
     <group value="MainMenu" is_group="true" forse_popup="false" action_type="-1" position="0">
       <path value="root" />
     </group>
+    <group seperator="true" action_type="1" position="7">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <path value="Right" />
+    </group>
+    <group value="Tools_ADB" is_group="true" forse_popup="true" action_type="1" position="8">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <path value="Right" />
+    </group>
     <group value="Tools_🟢 KMP 🟢" is_group="true" forse_popup="true" action_type="1" position="12">
       <path value="root" />
       <path value="Main Menu" />
@@ -86,7 +96,8 @@
       <path value="Main Menu" />
     </group>
     <action id="Tools_Windows" icon="org.intellij.plugins.markdown.ui.actions.styling.ToggleCodeSpanAction" />
-    <action id="DeviceAndSnapshotComboBox" icon="CIDR.Lang.Cpp.NewClass" />
     <action id="Tools_OpenAPI Generator" icon="jar:file:/C:/Users/combo/AppData/Local/Programs/Android%20Studio/lib/app.jar!/expui/toolbar/unknown.svg" />
+    <action id="DeviceAndSnapshotComboBox" icon="CIDR.Lang.Cpp.NewClass" />
+    <action id="Tools_ADB" icon="jar:file:/C:/Program%20Files/Android/Android%20Studio/lib/app.jar!/expui/toolbar/unknown.svg" />
   </component>
 </application>
