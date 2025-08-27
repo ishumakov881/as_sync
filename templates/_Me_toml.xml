@@ -124,4 +124,25 @@
       <option name="objc" value="false" />
     </context>
   </template>
+  <template name="tomltv" value="compose-tv-foundation = &quot;1.0.0-alpha12&quot;&#10;compose-tv = &quot;1.1.0-alpha01&quot;&#10;[libraries]&#10;androidx-tv-foundation = { module = &quot;androidx.tv:tv-foundation&quot;, version.ref = &quot;compose-tv-foundation&quot; }&#10;androidx-tv-material = { module = &quot;androidx.tv:tv-material&quot;, version.ref = &quot;compose-tv&quot; }&#10;" description="Voyager Toml" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="ANDROID" value="false" />
+      <option name="CMAKE" value="false" />
+      <option name="COMPOSE" value="false" />
+      <option name="EDU_TASK_DESCRIPTION_HINT" value="false" />
+      <option name="GROOVY" value="false" />
+      <option name="HTML" value="false" />
+      <option name="JAVA_CODE" value="false" />
+      <option name="JSON" value="false" />
+      <option name="KOTLIN" value="false" />
+      <option name="OTHER" value="true" />
+      <option name="Properties" value="false" />
+      <option name="SHELL_SCRIPT" value="false" />
+      <option name="XML" value="false" />
+      <option name="XML_ATTRIBUTE" value="false" />
+      <option name="c" value="false" />
+      <option name="cpp" value="false" />
+      <option name="objc" value="false" />
+    </context>
+  </template>
 </templateSet>
