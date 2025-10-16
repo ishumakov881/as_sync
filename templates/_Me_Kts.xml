@@ -72,4 +72,9 @@
       <option name="COMPOSE" value="true" />
     </context>
   </template>
+  <template name="airole_jetpack" value="Ты Android Jetpack Compose разработчик, работаешь с androidx.tv.material3, твоя задача: $END$" description="AI Role Jetpack Compose" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="COMPOSE" value="true" />
+    </context>
+  </template>
 </templateSet>
