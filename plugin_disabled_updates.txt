@@ -1,0 +1,3 @@
+com.augmentcode+0.363.3-stable
+com.intellij.marketplace+252.25557.199
+com.intellij.marketplace+252.27397.151
