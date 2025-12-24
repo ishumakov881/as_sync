@@ -1,0 +1,12 @@
+<application>
+  <component name="StudioBotSettings">
+    <option name="contextSharingModeV2" value="AlwaysShare" />
+    <option name="onboardedVersion" value="3" />
+    <option name="queryHistory">
+      <list>
+        <historyEntry timestamp="1762350407617">Explain this log entry: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_REPLACED dat=package:net.lds.online.debug flg=0x4000010 (has extras) } to com.google.android.gms/.gass.chimera.PackageChangeBroadcastReceiver with tag BroadcastQueue</historyEntry>
+        <historyEntry timestamp="1761049157745">Explain this log entry: uid=1000(system) ActivityManager expire 13 lines with tag chatty</historyEntry>
+      </list>
+    </option>
+  </component>
+</application>

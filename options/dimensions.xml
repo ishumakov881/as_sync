@@ -1,0 +1,19 @@
+<application>
+  <component name="DimensionService">
+    <location key="WELCOME_SCREEN.0.0.1920.1080" x="967" y="445" />
+    <location key="FileChooserDialogImpl.0.0.1920.1080" x="748" y="199" />
+    <location key="deploy.picker.dialog.0.0.1920.1080" x="567" y="289" />
+    <location key="find.popup.0.0.1920.1080" x="486" y="152" />
+    <location key="SettingsEditor.0.0.1920.1080" x="339" y="178" />
+    <location key="#Project_Structure.0.0.1920.1080" x="435" y="184" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1920.1080" x="593" y="312" />
+    <location key="#AVAWareHouse.0.0.1920.1080" x="637" y="182" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1080" width="1340" height="181" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080" width="1340" height="181" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080" width="1340" height="181" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="1340" height="181" />
+    <size key="javadoc.popup.new.0.0.1920.1080" width="300" height="99" />
+    <size key="find.popup.0.0.1920.1080" width="733" height="765" />
+    <size key="SettingsEditor.0.0.1920.1080" width="1028" height="806" />
+  </component>
+</application>

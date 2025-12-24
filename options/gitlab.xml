@@ -1,0 +1,20 @@
+<application>
+  <component name="GitLabAccounts"><![CDATA[{
+  "accounts": [
+    {
+      "id": "c8503db0-559d-47c2-be49-6943a41339c3",
+      "name": "project_140_bot_16208ab6aab7a7c098907120a5dfe927",
+      "server": {
+        "uri": "https://gitlab.lds.net.ua"
+      }
+    },
+    {
+      "id": "a205a003-cada-4300-b93b-eb7c0af13a62",
+      "name": "reznichenko.i",
+      "server": {
+        "uri": "https://gitlab.lds.net.ru"
+      }
+    }
+  ]
+}]]></component>
+</application>
