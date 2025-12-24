@@ -160,22 +160,6 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="$APPLICATION_CONFIG_DIR$">
-          <value>
-            <RecentProjectMetaInfo frameTitle="AndroidStudio2025.1.4 – Activity.java" projectWorkspaceId="32Gujtm9RIMmBzRCk41luVGT4Pm">
-              <option name="activationTimestamp" value="1765292152784" />
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="AI-251.27812.49.2514.14217341" />
-              <option name="buildTimestamp" value="1759726320000" />
-              <option name="colorInfo">
-                <RecentProjectColorInfo associatedIndex="1" />
-              </option>
-              <frame x="243" y="103" width="1400" height="885" />
-              <option name="productionCode" value="AI" />
-              <option name="projectOpenTimestamp" value="1765292153410" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
         <entry key="C:/android/LdsOnlineWebView">
           <value>
             <RecentProjectMetaInfo frameTitle="WebView – WebViewScreen0.kt [WebView.app.main]" projectWorkspaceId="35n8Z2pnmRjG9c2NVW4cphYQaN9">
@@ -224,10 +208,42 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
+        <entry key="$APPLICATION_CONFIG_DIR$">
+          <value>
+            <RecentProjectMetaInfo frameTitle="AndroidStudio2025.1.4 – file.template.settings.xml" projectWorkspaceId="32Gujtm9RIMmBzRCk41luVGT4Pm">
+              <option name="activationTimestamp" value="1766558121066" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-251.27812.49.2514.14217341" />
+              <option name="buildTimestamp" value="1759726320000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="1" />
+              </option>
+              <frame x="243" y="103" width="1400" height="885" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1766557992771" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:/android/LDSOnline">
+          <value>
+            <RecentProjectMetaInfo frameTitle="ЛДС онлайн – MyAccountScreen.kt [ЛДС_онлайн.app.main]" projectWorkspaceId="35unYhGKXwAZXvHrVstmrnkAtKo">
+              <option name="activationTimestamp" value="1766566693385" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-251.27812.49.2514.14217341" />
+              <option name="buildTimestamp" value="1759726320000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="2" />
+              </option>
+              <frame x="108" y="101" width="1537" height="891" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1766558778770" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
         <entry key="C:/android/cinemakmp">
           <value>
-            <RecentProjectMetaInfo frameTitle="Cinema-Droid – SplashScreen.kt [Cinema-Droid.composeApp.main]" projectWorkspaceId="31XwO1urt6NDSaDvafPMkVG4m3M">
-              <option name="activationTimestamp" value="1766501649812" />
+            <RecentProjectMetaInfo frameTitle="Cinema-Droid – SplashScreen.kt [Cinema-Droid.composeApp.main]" opened="true" projectWorkspaceId="31XwO1urt6NDSaDvafPMkVG4m3M">
+              <option name="activationTimestamp" value="1766565304466" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="AI-251.27812.49.2514.14217341" />
               <option name="buildTimestamp" value="1759726320000" />
@@ -236,23 +252,7 @@
               </option>
               <frame x="54" y="76" width="1774" height="922" />
               <option name="productionCode" value="AI" />
-              <option name="projectOpenTimestamp" value="1766497183914" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
-        <entry key="C:/android/LDSOnline">
-          <value>
-            <RecentProjectMetaInfo frameTitle="ЛДС онлайн – ServicesViewModel.kt [ЛДС_онлайн.app.main]" projectWorkspaceId="35unYhGKXwAZXvHrVstmrnkAtKo">
-              <option name="activationTimestamp" value="1766557827164" />
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="AI-251.27812.49.2514.14217341" />
-              <option name="buildTimestamp" value="1759726320000" />
-              <option name="colorInfo">
-                <RecentProjectColorInfo associatedIndex="2" />
-              </option>
-              <frame x="241" y="135" width="1537" height="870" />
-              <option name="productionCode" value="AI" />
-              <option name="projectOpenTimestamp" value="1766501658195" />
+              <option name="projectOpenTimestamp" value="1766559418781" />
             </RecentProjectMetaInfo>
           </value>
         </entry>

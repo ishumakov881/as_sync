@@ -89,12 +89,6 @@
   </component>
   <component name="TimeBetweenTyping">
     <dailyDataMap>
-      <entry key="2025-12-10">
-        <DailyData>
-          <option name="count" value="628" />
-          <option name="totalTime" value="610415" />
-        </DailyData>
-      </entry>
       <entry key="2025-12-11">
         <DailyData>
           <option name="count" value="762" />
@@ -147,6 +141,12 @@
         <DailyData>
           <option name="count" value="1224" />
           <option name="totalTime" value="1374880" />
+        </DailyData>
+      </entry>
+      <entry key="2025-12-24">
+        <DailyData>
+          <option name="count" value="427" />
+          <option name="totalTime" value="335977" />
         </DailyData>
       </entry>
     </dailyDataMap>
