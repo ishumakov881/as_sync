@@ -1,0 +1,37 @@
+<application>
+  <component name="AndroidLogcatFilterHistory">
+    <option name="favorites">
+      <list>
+        <option value="package:mine AuthToken:" />
+        <option value="package:mine @@@ restoreSeekPosition" />
+        <option value="package:mine Unexpected" />
+        <option value="package:mine No definition found for type" />
+      </list>
+    </option>
+    <option name="mostRecentlyUsed" value="package:mine" />
+    <option name="nonFavorites">
+      <list>
+        <option value="package:mine" />
+        <option value="token" />
+        <option value="Syncing" />
+        <option value="playFromHistory" />
+        <option value="savePlaybackHistory:" />
+        <option value="WWXX " />
+        <option value="normUrl" />
+        <option value="@@@ ww" />
+        <option value="pvm" />
+        <option value="package:mine @@@" />
+        <option value="package:mine @@@ Восстанавливаем позицию на" />
+        <option value="package:mine @@@ Состояние плеера" />
+        <option value="package:mine @@@ Initialising playback with calculated file index" />
+        <option value="package:mine PVM" />
+        <option value="package:mine PlaybackView" />
+        <option value="package:mine @@@ История: Загружаем для movieId=" />
+        <option value="@@@WWW" />
+        <option value="package:mine @@" />
+        <option value="package:mine " />
+        <option value="package:mine @@@WWW" />
+      </list>
+    </option>
+  </component>
+</application>

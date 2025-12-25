@@ -1,0 +1,53 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="AutoImportSettings">
+        <option name="autoReloadType" value="NONE" />
+      </component>
+      <component name="ProjectCodeStyleConfiguration">
+        <code_scheme name="Project" version="173">
+          <Objective-C-extensions>
+            <file>
+              <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="Import" />
+              <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="Macro" />
+              <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="Typedef" />
+              <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="Enum" />
+              <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="Constant" />
+              <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="Global" />
+              <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="Struct" />
+              <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="FunctionPredecl" />
+              <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="Function" />
+            </file>
+            <class>
+              <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="Property" />
+              <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="Synthesize" />
+              <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="InitMethod" />
+              <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="StaticMethod" />
+              <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="InstanceMethod" />
+              <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="DeallocMethod" />
+            </class>
+            <extensions>
+              <pair source="cpp" header="h" fileNamingConvention="NONE" />
+              <pair source="c" header="h" fileNamingConvention="NONE" />
+            </extensions>
+          </Objective-C-extensions>
+        </code_scheme>
+      </component>
+      <component name="ProjectViewState">
+        <option name="flattenPackages" value="true" />
+        <option name="hideEmptyMiddlePackages" value="true" />
+        <option name="showLibraryContents" value="true" />
+      </component>
+      <component name="PropertiesComponent">
+        <property name="android.sdk.path" value="C:/android/sdk" />
+        <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+      </component>
+      <component name="WindowStateProjectService">
+        <state x="552" y="154" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1766475173381">
+          <screen x="0" y="0" width="1920" height="1050" />
+        </state>
+        <state x="552" y="154" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1050" timestamp="1766475173381" />
+      </component>
+    </defaultProject>
+  </component>
+</application>

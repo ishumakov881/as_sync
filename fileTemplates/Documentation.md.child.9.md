@@ -1,205 +1,38 @@
-# 🏗️ Архитектурные правила Jetpack Compose
+# 📱 Material 3 и оптимизация для ИИ
 
-## 📐 Ключевой принцип: Разделение UI и логики
+## Используй актуальные компоненты Material 3
+| ❌ Устаревшие | ✅ Актуальные |
+|------------|------------|
+| `Divider` | `HorizontalDivider` |
+| `Icons.Default.ArrowBack` | `Icons.AutoMirrored.Filled.ArrowBack` |
+| `CircularProgressIndicator` | `CircularProgressIndicator(strokeCap = StrokeCap.Round)` |
+| `FloatingActionButton` | `FloatingActionButton(elevation = FloatingActionButtonDefaults.elevation())` |
+| `TopAppBar` | `TopAppBar()` с М3 параметрами |
+| `BottomNavigation` | `NavigationBar` |
+| `TabRow` | `SecondaryTabRow` или `PrimaryTabRow` (в зависимости от уровня важности) |
 
-### 📋 Основные правила
-1. **Никогда** не передавай ViewModel напрямую в компоненты UI
-2. **Всегда** разделяй UI и логику на отдельные компоненты
-3. **Сначала** создавай UI компоненты, которые принимают только данные и колбэки
-4. **Затем** оборачивай их в контейнеры, которые работают с ViewModel
-5. **Важно** не прокидывать в @Composable скрины навигатор! только колбек, а уже на уровне навигатора - навигация 
+## 🧠 Оптимизация промптов для ИИ
+1. **Краткость**: Минимум текста, максимум контекста
+2. **Структура**: Используй ключевые слова в начале предложений
+3. **Специфика**: Конкретные запросы вместо общих указаний
+4. **Примеры**: Добавляй сниппеты кода для контекста
+5. **Форматирование**: Используй маркеры, заголовки, эмодзи
 
-### 🔍 Почему это важно:
-- ✅ **Android Studio не отображает @Preview** для компонентов с koinViewModel()
-- ✅ **Тестирование становится проще** с мок-данными
-- ✅ **Переиспользуемость** UI компонентов возрастает
-- ✅ **Код становится чище** и более модульным
+## 📋 Образец эффективного промпта
+```
+Измени:
+- Замени Divider на HorizontalDivider
+- Используй Icons.AutoMirrored.Filled вместо Icons.Default
+- Замени TabRow на SecondaryTabRow
 
-## 📋 Практическое руководство
 
-### ❌ НЕПРАВИЛЬНО - нет разделения UI и логики:
-
+Контекст:
 ```kotlin
-@Composable
-fun MyScreen(viewModel: MyViewModel = koinViewModel()) {
-    val state by viewModel.state.collectAsState()
-    
-    Column {
-        Text("Заголовок")
-        
-        if (state.isLoading) {
-            CircularProgressIndicator()
-        } else {
-            LazyColumn {
-                items(state.items) { item ->
-                    ItemView(
-                        item = item,
-                        onClick = { viewModel.selectItem(it) }
-                    )
-                }
-            }
-        }
-        
-        Button(onClick = { viewModel.loadData() }) {
-            Text("Обновить")
-        }
-    }
-    
-    // Невозможно создать Preview для этого компонента!
-}
+// Пример текущего кода для контекста
+```
 ```
 
-### ✅ ПРАВИЛЬНО - чистое разделение UI и логики:
-
-#### 1️⃣ Контейнерный компонент (с ViewModel):
-
-```kotlin
-@Composable
-fun MyScreen(viewModel: MyViewModel = koinViewModel()) {
-    val state by viewModel.state.collectAsState()
-    
-    // Передаем только данные и колбэки
-    MyScreenBody(
-        state = state,
-        onItemClick = { viewModel.selectItem(it) },
-        onRefreshClick = { viewModel.loadData() }
-    )
-}
-```
-
-#### 2️⃣ UI компонент (без ViewModel):
-
-```kotlin
-@Composable
-fun MyScreenBody(
-    state: MyState,
-    onItemClick: (Item) -> Unit,
-    onRefreshClick: () -> Unit
-) {
-    Column {
-        Text("Заголовок")
-        
-        if (state.isLoading) {
-            CircularProgressIndicator()
-        } else {
-            LazyColumn {
-                items(state.items) { item ->
-                    ItemView(
-                        item = item,
-                        onClick = { onItemClick(item) }
-                    )
-                }
-            }
-        }
-        
-        Button(onClick = onRefreshClick) {
-            Text("Обновить")
-        }
-    }
-}
-```
-
-#### 3️⃣ Preview (легко создается для UI компонента):
-
-```kotlin
-@Preview(showBackground = true)
-@Composable
-fun MyScreenPreview() {
-    val mockItems = listOf(
-        Item(1, "Первый элемент"),
-        Item(2, "Второй элемент"),
-        Item(3, "Третий элемент")
-    )
-    
-    val mockState = MyState(
-        items = mockItems,
-        isLoading = false
-    )
-    
-    // Теперь можно легко предварительно просмотреть компонент!
-    MyScreenBody(
-        state = mockState,
-        onItemClick = {},  // Пустые колбэки для Preview
-        onRefreshClick = {}
-    )
-}
-
-// Дополнительный Preview для состояния загрузки
-@Preview(showBackground = true)
-@Composable
-fun MyScreenLoadingPreview() {
-    MyScreenBody(
-        state = MyState(isLoading = true),
-        onItemClick = {},
-        onRefreshClick = {}
-    )
-}
-```
-
-## 🎯 Преимущества этого подхода:
-
-1. **Легкое тестирование** - создавай сколько угодно @Preview с разными состояниями
-2. **Изолированные UI-компоненты** - UI не зависит от бизнес-логики
-3. **Лучшая переиспользуемость** - UI компоненты можно повторно использовать
-4. **Чистая архитектура** - четкое разделение ответственности
-5. **Удобство разработки** - возможность итеративно развивать UI без перезапуска приложения
-
-## 🧠 Примечание:
-
-Всегда пиши весь код, включая ViewModel, все функции и классы в одном файле для каждого экрана. Это упрощает навигацию по коду и делает его более понятным.
-
-```
-YourScreen/
-└── YourScreenFile.kt  // Содержит ViewModel, State, Screen и Body
-```
-
-## 🔄 Пример целевой структуры файла:
-
-```kotlin
-// 1. Data models and state
-data class MyState(
-    val items: List<Item> = emptyList(),
-    val isLoading: Boolean = false,
-    val error: String? = null
-)
-
-data class Item(val id: Int, val name: String)
-
-// 2. ViewModel
-class MyViewModel : ViewModel() {
-    private val _state = MutableStateFlow(MyState())
-    val state: StateFlow<MyState> = _state
-    
-    fun loadData() { /* implementation */ }
-    fun selectItem(item: Item) { /* implementation */ }
-}
-
-// 3. Container component
-@Composable
-fun MyScreen(viewModel: MyViewModel = koinViewModel()) {
-    val state by viewModel.state.collectAsState()
-    
-    MyScreenBody(
-        state = state,
-        onItemClick = { viewModel.selectItem(it) },
-        onRefreshClick = { viewModel.loadData() }
-    )
-}
-
-// 4. UI component
-@Composable
-fun MyScreenBody(
-    state: MyState,
-    onItemClick: (Item) -> Unit,
-    onRefreshClick: () -> Unit
-) {
-    // UI implementation
-}
-
-// 5. Previews
-@Preview
-@Composable
-fun MyScreenPreview() {
-    // Preview implementation with mock data
-}
-``` 
+## 🌟 Соглашения по стилю
+- Используй [M3 Color System](https://m3.material.io/styles/color/the-color-system/color-roles)
+- Применяй `contentColorFor()` для автоматического подбора цвета контента
+- Предпочитай композиционный подход: маленькие переиспользуемые компоненты 

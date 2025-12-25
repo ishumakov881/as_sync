@@ -1,0 +1,32 @@
+<application>
+  <component name="ExportableFileTemplateSettings">
+    <default_templates>
+      <template name="Documentation.md" file-name="Documentation" reformat="false" live-template-enabled="false">
+        <template name="Documentation.md.child.11.md" file-name="guidelines/VIEWMODEL_COMPOSE_GUIDELINE.md" reformat="true" live-template-enabled="false" />
+        <template name="Documentation.md.child.0.md" file-name="01_Description" reformat="true" live-template-enabled="false" />
+        <template name="Documentation.md.child.1.md" file-name="cards/00_example" reformat="true" live-template-enabled="false" />
+        <template name="Documentation.md.child.2.md" file-name="guidelines/material_surface_guideline" reformat="true" live-template-enabled="false" />
+        <template name="Documentation.md.child.3.md" file-name="guidelines/00_guidelines" reformat="true" live-template-enabled="false" />
+        <template name="Documentation.md.child.4.md" file-name="Roadmap" reformat="true" live-template-enabled="false" />
+        <template name="Documentation.md.child.5.md" file-name="components/00" reformat="true" live-template-enabled="false" />
+        <template name="Documentation.md.child.6.md" file-name="Whatsnew" reformat="true" live-template-enabled="false" />
+        <template name="Documentation.md.child.7.md" file-name="crashlytics/report" reformat="true" live-template-enabled="false" />
+        <template name="Documentation.md.child.8.md" file-name="TASKS\history\history" reformat="true" live-template-enabled="false" />
+        <template name="Documentation.md.child.9.md" file-name="ARCHITECTURE/material3-components" reformat="true" live-template-enabled="false" />
+        <template name="Documentation.md.child.10.md" file-name="ARCHITECTURE/compose-architecture" reformat="true" live-template-enabled="false" />
+      </template>
+      <template name="Documentation.md.child.0.md" file-name="01_Description" reformat="true" live-template-enabled="false" />
+      <template name="Documentation.md.child.1.md" file-name="cards/00_example" reformat="true" live-template-enabled="false" />
+      <template name="Documentation.md.child.10.md" file-name="ARCHITECTURE/compose-architecture" reformat="true" live-template-enabled="false" />
+      <template name="Documentation.md.child.11.md" file-name="guidelines/VIEWMODEL_COMPOSE_GUIDELINE.md" reformat="true" live-template-enabled="false" />
+      <template name="Documentation.md.child.2.md" file-name="guidelines/material_surface_guideline" reformat="true" live-template-enabled="false" />
+      <template name="Documentation.md.child.3.md" file-name="guidelines/00_guidelines" reformat="true" live-template-enabled="false" />
+      <template name="Documentation.md.child.4.md" file-name="Roadmap" reformat="true" live-template-enabled="false" />
+      <template name="Documentation.md.child.5.md" file-name="components/00" reformat="true" live-template-enabled="false" />
+      <template name="Documentation.md.child.6.md" file-name="Whatsnew" reformat="true" live-template-enabled="false" />
+      <template name="Documentation.md.child.7.md" file-name="crashlytics/report" reformat="true" live-template-enabled="false" />
+      <template name="Documentation.md.child.8.md" file-name="TASKS\history\history" reformat="true" live-template-enabled="false" />
+      <template name="Documentation.md.child.9.md" file-name="ARCHITECTURE/material3-components" reformat="true" live-template-enabled="false" />
+    </default_templates>
+  </component>
+</application>
