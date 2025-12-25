@@ -85,4 +85,18 @@
       <option name="COMPOSE" value="true" />
     </context>
   </template>
+  <template name="airoleretrofit" value="Сохрани в папку Documentation исчерпывающий &quot;мастер-промпт&quot;, который описывает каждый шаг создания этого приложения от начала до конца. Его можно будет дать другому ИИ или использовать для проверки текущего состояния проекта. для ИИ (типа Chatgpt DeepSeek) который смотрит полностью повторит создание приложения, опиши настолько подробно, что в любой моммент можно проверить текущее состояние проекта с промптом&#10;" description="AI Role Восстановление" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="ANDROID" value="true" />
+      <option name="COMPOSE" value="true" />
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+  <template name="airoleUIfromPNG" value="Распознай дизайн изображенный на LinkedAccounts.png в Documentation, проанализирую его UI, сравни с LinkedAccountsScreen.kt, а затем добавь в код недостающие элементы, следуя его стилю и архитектуре. не придумывай ничего лишнего запрещено&#10;" description="AI Role UIfromPNG" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="ANDROID" value="true" />
+      <option name="COMPOSE" value="true" />
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
 </templateSet>
