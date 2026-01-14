@@ -10,7 +10,7 @@
     <option name="scale" value="0.75" />
   </component>
   <component name="DeviceScreenshotSettings">
-    <option name="screenshotCount" value="34" />
+    <option name="screenshotCount" value="37" />
   </component>
   <component name="FileEditorProviderManager">{
   &quot;selectedProviders&quot;: {
@@ -99,15 +99,16 @@
     "ColorChooser.RecentColors": "255-255-255-255,,,255-0-0-255,,,248-250-255-255,,,250-67-0-255,,,250-132-0-255",
     "CommitToolWindow.COMMIT_SPLITTER_PROPORTION": "0.60275865",
     "ExternalToolDialog.advanced.expanded": "true",
-    "FileTemplates.SelectedTemplate": "Documentation.md.child.11",
+    "FileTemplates.SelectedTemplate": "HTML File",
     "FindSplitterProportion": "0.32991454",
     "GEMINI_INTELLIJ_INSTALLATION_ID": "a39c3eca-4207-4edb-a63f-bb80cea93f4e",
     "IdeErrorsDialog.LAST_OK_ACTION": "REPORT_AND_CLEAR_ALL",
-    "InstalledPluginsSearchHistory": "live\nliv\nli\nl",
-    "LAST_CALCULATED_COLOR_INDEX_KEY": "4",
+    "InstalledPluginsSearchHistory": "mul\nmu\nm\nlive\nliv",
+    "LAST_CALCULATED_COLOR_INDEX_KEY": "6",
     "MarketplacePluginsSearchHistory": "koin\nkoi\nko",
     "MemberChooser.copyJavadoc": "false",
     "MemberChooser.showClasses": "true",
+    "MobileminApi": "21",
     "MoveFile.OpenInEditor": "true",
     "NEXT_SURVEY_TIMESTAMP": "2025-10-22T13:17:22.332916300Z",
     "NextRunPlatformUpdateBuild": "AI-252.27397.103.2522.14617522",
@@ -138,9 +139,10 @@
     "SPLIT_EDITOR_MODE_C:/Users/reznichenko.i/Desktop/linphone-android-master/app/src/main/res/layout/dialog_confirm_turning_on_vfs.xml": "DEACTIVATED",
     "SPLIT_EDITOR_MODE_C:/Users/reznichenko.i/Desktop/linphone-android-master/app/src/main/res/layout/dialog_contact_confirm_trust_call.xml": "DEACTIVATED",
     "SPLIT_EDITOR_MODE_C:/Users/reznichenko.i/Desktop/linphone-android-master/app/src/main/res/layout/dialog_delete_chat_message.xml": "DEACTIVATED",
+    "SPLIT_EDITOR_MODE_C:/android/LDSOnline/app_old/src/main/res/layout/activity_sip_call.xml": "DEACTIVATED",
     "SPLIT_EDITOR_MODE_G:/source/linphone-android-master/app/src/main/res/layout/account_list_cell.xml": "DEACTIVATED",
     "SPLIT_EDITOR_MODE_G:/source/linphone-android-master/app/src/main/res/navigation/assistant_nav_graph.xml": "DEACTIVATED",
-    "SettingsSearchHistory": "live\nplu\nexternal\nfile tem\nlive t",
+    "SettingsSearchHistory": "plu\nlive\nexternal\nfile tem\nlive t",
     "Source Code Editor With PreviewLayout": "Editor only",
     "StudioBot.ActiveTab": "Ask",
     "TextEditorWithPreview.SplitterProportionKey": "0.61140686",
@@ -153,7 +155,7 @@
     "defaultJdkConfigured": "true",
     "enter_selection_count": "5",
     "experimental.ui.used.version": "251.27812.49.2514.14217341",
-    "file.gist.reindex.count": "11",
+    "file.gist.reindex.count": "12",
     "fileTypeChangedCounter": "2",
     "fontSizeToResetConsole": "13.0",
     "fontSizeToResetEditor": "13.0",
@@ -162,9 +164,9 @@
     "got.it.tooltip.speed.search.shown": "1",
     "installed.kotlin.plugin.version": "251.27812.49.2514.14217341-AS",
     "kotlin.k2.features.in.k1.mode.notification.disabled": "true",
-    "kotlin.lastUpdateCheck": "1766563824701",
+    "kotlin.lastUpdateCheck": "1768394335045",
     "kotlin.updates.whats.new.shown.for": "2.1.10",
-    "lvcs.diff.with.list.splitter.horizontal": "0.16145833",
+    "lvcs.diff.with.list.splitter.horizontal": "0.27187708",
     "migrate.android.sdk.path.to.roamable.storage": "false",
     "migrated.non.roamable.values.from.general.settings": "true",
     "previousColorScheme": "_@user_Dark",
@@ -214,7 +216,15 @@
       "2025-12-17T07:46:49.503778500Z",
       "2025-12-19T06:26:42.283641500Z",
       "2025-12-22T06:20:05.430375300Z",
-      "2025-12-23T07:31:36.879251500Z"
+      "2025-12-23T07:31:36.879251500Z",
+      "2025-12-25T07:29:46.326575200Z",
+      "2025-12-26T14:56:28.423353600Z",
+      "2025-12-29T06:20:29.841838Z",
+      "2025-12-30T07:54:06.713673500Z",
+      "2026-01-05T06:19:18.280586800Z",
+      "2026-01-06T07:39:35.449637200Z",
+      "2026-01-12T11:31:13.370489200Z",
+      "2026-01-14T07:57:29.675346800Z"
     ],
     "fileTypeDetectors": [
       "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",

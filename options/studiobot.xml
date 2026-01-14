@@ -4,6 +4,13 @@
     <option name="onboardedVersion" value="3" />
     <option name="queryHistory">
       <list>
+        <historyEntry timestamp="1767102147275">I'm getting the following error while building my project. The error is: Unsupported plugin option: androidx.compose.compiler.plugins.kotlin:generateFunctionKeyMetaAnnotations=true
+```
+$ ./gradlew :composeApp:compileDebugKotlinAndroid
+Unsupported plugin option: androidx.compose.compiler.plugins.kotlin:generateFunctionKeyMetaAnnotations=true
+
+```
+How do I fix this?</historyEntry>
         <historyEntry timestamp="1762350407617">Explain this log entry: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_REPLACED dat=package:net.lds.online.debug flg=0x4000010 (has extras) } to com.google.android.gms/.gass.chimera.PackageChangeBroadcastReceiver with tag BroadcastQueue</historyEntry>
         <historyEntry timestamp="1761049157745">Explain this log entry: uid=1000(system) ActivityManager expire 13 lines with tag chatty</historyEntry>
       </list>

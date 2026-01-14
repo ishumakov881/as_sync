@@ -1,23 +1,23 @@
 <application>
   <component name="DimensionService">
-    <location key="find.popup.0.0.1920.1080" x="613" y="195" />
+    <location key="find.popup.0.0.1920.1080" x="566" y="202" />
     <size key="find.popup.0.0.1920.1080" width="875" height="774" />
-    <size key="GridCell.Tab.0.left.0.0.1920.1080" width="1439" height="246" />
-    <size key="GridCell.Tab.0.center.0.0.1920.1080" width="1439" height="246" />
-    <size key="GridCell.Tab.0.right.0.0.1920.1080" width="1439" height="246" />
-    <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="1439" height="246" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1080" width="1656" height="314" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080" width="1656" height="314" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080" width="1656" height="314" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="1656" height="314" />
   </component>
   <component name="WindowManager">
-    <frame x="108" y="101" width="1537" height="891" />
+    <frame x="34" y="19" width="1754" height="990" />
   </component>
   <component name="WindowStateApplicationService">
-    <state width="455" height="111" key="ShowUsagesActions.dimensionServiceKey" timestamp="1766067237599">
+    <state width="451" height="207" key="ShowUsagesActions.dimensionServiceKey" timestamp="1768300604339">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="455" height="111" key="ShowUsagesActions.dimensionServiceKey/0.0.1920.1050" timestamp="1766067237599" />
-    <state x="959" y="473" width="1263" height="742" key="WELCOME_SCREEN" timestamp="1766558775043">
+    <state width="451" height="207" key="ShowUsagesActions.dimensionServiceKey/0.0.1920.1050" timestamp="1768300604339" />
+    <state x="959" y="473" width="1445" height="741" key="WELCOME_SCREEN" timestamp="1768402674078">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="959" y="473" width="1263" height="742" key="WELCOME_SCREEN/0.0.1920.1050" timestamp="1766558775043" />
+    <state x="959" y="473" width="1445" height="741" key="WELCOME_SCREEN/0.0.1920.1050" timestamp="1768402674078" />
   </component>
 </application>
