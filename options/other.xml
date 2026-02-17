@@ -10,7 +10,7 @@
     <option name="scale" value="0.75" />
   </component>
   <component name="DeviceScreenshotSettings">
-    <option name="screenshotCount" value="37" />
+    <option name="screenshotCount" value="40" />
   </component>
   <component name="FileEditorProviderManager">{
   &quot;selectedProviders&quot;: {
@@ -104,16 +104,16 @@
     "GEMINI_INTELLIJ_INSTALLATION_ID": "a39c3eca-4207-4edb-a63f-bb80cea93f4e",
     "IdeErrorsDialog.LAST_OK_ACTION": "REPORT_AND_CLEAR_ALL",
     "InstalledPluginsSearchHistory": "mul\nmu\nm\nlive\nliv",
-    "LAST_CALCULATED_COLOR_INDEX_KEY": "6",
+    "LAST_CALCULATED_COLOR_INDEX_KEY": "0",
     "MarketplacePluginsSearchHistory": "koin\nkoi\nko",
     "MemberChooser.copyJavadoc": "false",
     "MemberChooser.showClasses": "true",
-    "MobileminApi": "21",
+    "MobileminApi": "24",
     "MoveFile.OpenInEditor": "true",
     "NEXT_SURVEY_TIMESTAMP": "2025-10-22T13:17:22.332916300Z",
-    "NextRunPlatformUpdateBuild": "AI-252.27397.103.2522.14617522",
+    "NextRunPlatformUpdateBuild": "AI-253.29346.138.2531.14876573",
     "NextRunPlatformUpdateSelfBuild": "AI-251.27812.49.2514.14217341",
-    "NextRunPlatformUpdateVersion": "Otter 2 Feature Drop | 2025.2.2 Patch 1",
+    "NextRunPlatformUpdateVersion": "Panda 1 | 2025.3.1 Patch 1",
     "PluginConfigurable.selectionTab": "1",
     "RunOnceActivity.TerminalOptionsProvider.migration.2025.1.1": "true",
     "RunOnceActivity.VFSInitializationConditionsToFusReporter": "true",
@@ -140,12 +140,20 @@
     "SPLIT_EDITOR_MODE_C:/Users/reznichenko.i/Desktop/linphone-android-master/app/src/main/res/layout/dialog_contact_confirm_trust_call.xml": "DEACTIVATED",
     "SPLIT_EDITOR_MODE_C:/Users/reznichenko.i/Desktop/linphone-android-master/app/src/main/res/layout/dialog_delete_chat_message.xml": "DEACTIVATED",
     "SPLIT_EDITOR_MODE_C:/android/LDSOnline/app_old/src/main/res/layout/activity_sip_call.xml": "DEACTIVATED",
+    "SPLIT_EDITOR_MODE_C:/android/LDSOnline/app_old/src/main/res/layout/fragment_freewifi_status.xml": "DEACTIVATED",
+    "SPLIT_EDITOR_MODE_C:/android/LDSOnline/app_old/src/main/res/layout/fragment_network_test.xml": "DEACTIVATED",
+    "SPLIT_EDITOR_MODE_C:/android/LDSOnline/app_old/src/main/res/layout/freewifi_status.xml": "DEACTIVATED",
+    "SPLIT_EDITOR_MODE_C:/android/LdsOnlineWebView/libs/no-internet/src/main/res/drawable/ic_airplanemode_inactive.xml": "DEACTIVATED",
+    "SPLIT_EDITOR_MODE_C:/android/ldsonline/app/src/main/res/drawable/ic_question_mark.xml": "SPLIT",
+    "SPLIT_EDITOR_MODE_C:/android/ldsonline/app_old/src/main/res/drawable/call_button.xml": "DEACTIVATED",
+    "SPLIT_EDITOR_MODE_C:/android/ldsonline/app_old/src/main/res/drawable/cancel_button.xml": "DEACTIVATED",
+    "SPLIT_EDITOR_MODE_C:/android/ldsonline/app_old/src/main/res/layout/activity_sip_call.xml": "DEACTIVATED",
     "SPLIT_EDITOR_MODE_G:/source/linphone-android-master/app/src/main/res/layout/account_list_cell.xml": "DEACTIVATED",
     "SPLIT_EDITOR_MODE_G:/source/linphone-android-master/app/src/main/res/navigation/assistant_nav_graph.xml": "DEACTIVATED",
     "SettingsSearchHistory": "plu\nlive\nexternal\nfile tem\nlive t",
     "Source Code Editor With PreviewLayout": "Editor only",
     "StudioBot.ActiveTab": "Ask",
-    "TextEditorWithPreview.SplitterProportionKey": "0.61140686",
+    "TextEditorWithPreview.SplitterProportionKey": "0.65141433",
     "android.apk.viewer": "0.80319804",
     "build.toolwindow.Build Output.selection.state": "com.intellij.build.BuildTreeConsoleView",
     "build.toolwindow.Sync.selection.state": "com.intellij.build.BuildTreeConsoleView",
@@ -155,7 +163,7 @@
     "defaultJdkConfigured": "true",
     "enter_selection_count": "5",
     "experimental.ui.used.version": "251.27812.49.2514.14217341",
-    "file.gist.reindex.count": "12",
+    "file.gist.reindex.count": "16",
     "fileTypeChangedCounter": "2",
     "fontSizeToResetConsole": "13.0",
     "fontSizeToResetEditor": "13.0",
@@ -164,7 +172,7 @@
     "got.it.tooltip.speed.search.shown": "1",
     "installed.kotlin.plugin.version": "251.27812.49.2514.14217341-AS",
     "kotlin.k2.features.in.k1.mode.notification.disabled": "true",
-    "kotlin.lastUpdateCheck": "1768394335045",
+    "kotlin.lastUpdateCheck": "1771314156415",
     "kotlin.updates.whats.new.shown.for": "2.1.10",
     "lvcs.diff.with.list.splitter.horizontal": "0.27187708",
     "migrate.android.sdk.path.to.roamable.storage": "false",
@@ -176,6 +184,7 @@
     "studio.ml.bot.history.legacySessionRestored": "true",
     "terminal.gen.one.option.visible": "false",
     "toolwindow.showToolWindowsNames.ts": "2025-10-22T16:41:25.4818288",
+    "updater.configure.platform.details.checkbox.selected": "true",
     "updater.configure.tools.details.checkbox.selected": "true"
   },
   "keyToStringList": {
@@ -224,7 +233,14 @@
       "2026-01-05T06:19:18.280586800Z",
       "2026-01-06T07:39:35.449637200Z",
       "2026-01-12T11:31:13.370489200Z",
-      "2026-01-14T07:57:29.675346800Z"
+      "2026-01-14T07:57:29.675346800Z",
+      "2026-01-15T11:22:26.435147400Z",
+      "2026-01-19T06:13:41.175409200Z",
+      "2026-01-20T06:36:01.535326700Z",
+      "2026-01-21T12:25:18.075956200Z",
+      "2026-01-22T12:28:27.746258500Z",
+      "2026-01-26T06:32:53.944959100Z",
+      "2026-01-27T09:22:01.714037900Z"
     ],
     "fileTypeDetectors": [
       "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",

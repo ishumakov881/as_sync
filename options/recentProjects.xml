@@ -224,67 +224,83 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="C:/android/cinemakmp">
-          <value>
-            <RecentProjectMetaInfo frameTitle="Cinema-Droid – theme\AppTheme.kt [Cinema-Droid.composeApp.main]" projectWorkspaceId="31XwO1urt6NDSaDvafPMkVG4m3M">
-              <option name="activationTimestamp" value="1767705110088" />
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="AI-251.27812.49.2514.14217341" />
-              <option name="buildTimestamp" value="1759726320000" />
-              <option name="colorInfo">
-                <RecentProjectColorInfo associatedIndex="8" />
-              </option>
-              <frame x="174" y="409" width="1774" height="922" />
-              <option name="productionCode" value="AI" />
-              <option name="projectOpenTimestamp" value="1767703802135" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
         <entry key="C:/android/LdsOnlineWebView">
           <value>
-            <RecentProjectMetaInfo frameTitle="WebView – ui\MainActivity.kt [WebView.app.main]" projectWorkspaceId="35n8Z2pnmRjG9c2NVW4cphYQaN9">
-              <option name="activationTimestamp" value="1767705208004" />
+            <RecentProjectMetaInfo frameTitle="WebView – settings.gradle.kts (WebView)" projectWorkspaceId="35n8Z2pnmRjG9c2NVW4cphYQaN9">
+              <option name="activationTimestamp" value="1769501165539" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="AI-251.27812.49.2514.14217341" />
               <option name="buildTimestamp" value="1759726320000" />
               <option name="colorInfo">
                 <RecentProjectColorInfo associatedIndex="1" />
               </option>
-              <frame x="92" y="83" width="1544" height="942" />
+              <frame x="59" y="28" width="1699" height="988" />
               <option name="productionCode" value="AI" />
-              <option name="projectOpenTimestamp" value="1767705122384" />
+              <option name="projectOpenTimestamp" value="1769496629877" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
         <entry key="$USER_HOME$/Desktop/MyApplication">
           <value>
             <RecentProjectMetaInfo frameTitle="My Application – AndroidManifest.xml [My_Application.app.main]" projectWorkspaceId="335zTkX8uWLFAc0SuMoylMdtEaE">
-              <option name="activationTimestamp" value="1767706945203" />
+              <option name="activationTimestamp" value="1769525935635" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="AI-251.27812.49.2514.14217341" />
               <option name="buildTimestamp" value="1759726320000" />
               <option name="colorInfo">
                 <RecentProjectColorInfo associatedIndex="4" />
               </option>
-              <frame x="129" y="25" width="1531" height="1001" />
+              <frame x="38" y="40" width="1531" height="1001" />
               <option name="productionCode" value="AI" />
-              <option name="projectOpenTimestamp" value="1767705515755" />
+              <option name="projectOpenTimestamp" value="1769525810507" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/MaterialThemePrefs">
+          <value>
+            <RecentProjectMetaInfo frameTitle="MaterialThemePrefs – C:\Users\reznichenko.i\Desktop\MaterialThemePrefs\sample\src\androidMain\AndroidManifest.xml" projectWorkspaceId="396RPrskkQ054M7gIHpNEMPW0Mu">
+              <option name="activationTimestamp" value="1770040651723" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-251.27812.49.2514.14217341" />
+              <option name="buildTimestamp" value="1759726320000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="0" />
+              </option>
+              <frame x="130" y="31" width="1400" height="1000" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1770014512928" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:/android/LdsOnlineWebView0">
+          <value>
+            <RecentProjectMetaInfo frameTitle="WebView – build.gradle.kts (WebView)" projectWorkspaceId="38poBmEQXPKpxrZIFf1h83cG1Nu">
+              <option name="activationTimestamp" value="1770121024307" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-251.27812.49.2514.14217341" />
+              <option name="buildTimestamp" value="1759726320000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="8" />
+              </option>
+              <frame x="62" y="36" width="1481" height="991" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1770120993409" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
         <entry key="C:/android/LDSOnline">
           <value>
-            <RecentProjectMetaInfo frameTitle="ЛДС онлайн – PaymentsScreen.kt [ЛДС_онлайн.app.main]" projectWorkspaceId="35unYhGKXwAZXvHrVstmrnkAtKo">
-              <option name="activationTimestamp" value="1768402663446" />
+            <RecentProjectMetaInfo frameTitle="ЛДС онлайн – ServicesScreen.kt [ЛДС_онлайн.app.main]" opened="true" projectWorkspaceId="39Hjcizg3yZQaLxurg9Po7Kla6H">
+              <option name="activationTimestamp" value="1771329409638" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="AI-251.27812.49.2514.14217341" />
               <option name="buildTimestamp" value="1759726320000" />
               <option name="colorInfo">
                 <RecentProjectColorInfo associatedIndex="2" />
               </option>
-              <frame x="34" y="19" width="1754" height="990" />
+              <frame x="69" y="132" width="1694" height="848" />
               <option name="productionCode" value="AI" />
-              <option name="projectOpenTimestamp" value="1768379229181" />
+              <option name="projectOpenTimestamp" value="1770807995982" />
             </RecentProjectMetaInfo>
           </value>
         </entry>

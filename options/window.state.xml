@@ -1,23 +1,31 @@
 <application>
   <component name="DimensionService">
-    <location key="find.popup.0.0.1920.1080" x="566" y="202" />
-    <size key="find.popup.0.0.1920.1080" width="875" height="774" />
-    <size key="GridCell.Tab.0.left.0.0.1920.1080" width="1656" height="314" />
-    <size key="GridCell.Tab.0.center.0.0.1920.1080" width="1656" height="314" />
-    <size key="GridCell.Tab.0.right.0.0.1920.1080" width="1656" height="314" />
-    <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="1656" height="314" />
+    <location key="find.popup.0.0.1920.1080" x="773" y="303" />
+    <size key="find.popup.0.0.1920.1080" width="875" height="746" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1080" width="1596" height="252" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080" width="1596" height="252" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080" width="1596" height="252" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="1596" height="252" />
+    <size key="GridCell.Tab.1.left.0.0.1920.1080" width="1596" height="291" />
+    <size key="GridCell.Tab.1.center.0.0.1920.1080" width="1596" height="291" />
+    <size key="GridCell.Tab.1.right.0.0.1920.1080" width="1596" height="291" />
+    <size key="GridCell.Tab.1.bottom.0.0.1920.1080" width="1596" height="291" />
   </component>
   <component name="WindowManager">
-    <frame x="34" y="19" width="1754" height="990" />
+    <frame x="69" y="132" width="1694" height="848" />
   </component>
   <component name="WindowStateApplicationService">
-    <state width="451" height="207" key="ShowUsagesActions.dimensionServiceKey" timestamp="1768300604339">
+    <state width="577" height="399" key="ShowUsagesActions.dimensionServiceKey" timestamp="1770015118391">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="451" height="207" key="ShowUsagesActions.dimensionServiceKey/0.0.1920.1050" timestamp="1768300604339" />
-    <state x="959" y="473" width="1445" height="741" key="WELCOME_SCREEN" timestamp="1768402674078">
+    <state width="577" height="399" key="ShowUsagesActions.dimensionServiceKey/0.0.1920.1050" timestamp="1770015118391" />
+    <state width="300" height="412" key="Vcs.CompareWithSelectedRevision.Popup" timestamp="1770358575057">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="959" y="473" width="1445" height="741" key="WELCOME_SCREEN/0.0.1920.1050" timestamp="1768402674078" />
+    <state width="300" height="412" key="Vcs.CompareWithSelectedRevision.Popup/0.0.1920.1050" timestamp="1770358575057" />
+    <state x="959" y="473" width="1445" height="741" key="WELCOME_SCREEN" timestamp="1770807986934">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="959" y="473" width="1445" height="741" key="WELCOME_SCREEN/0.0.1920.1050" timestamp="1770807986934" />
   </component>
 </application>

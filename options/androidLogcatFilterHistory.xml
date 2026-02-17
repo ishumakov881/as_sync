@@ -2,36 +2,37 @@
   <component name="AndroidLogcatFilterHistory">
     <option name="favorites">
       <list>
-        <option value="package:mine cwvc" />
         <option value="package:mine AuthToken:" />
+        <option value="package:mine FreeWifiMapScreen" />
+        <option value="package:mine cwvc" />
         <option value="package:mine @@@ restoreSeekPosition" />
         <option value="package:mine Unexpected" />
         <option value="package:mine No definition found for type" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine wwwa" />
+    <option name="mostRecentlyUsed" value="package:mine" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine wwwa" />
-        <option value="@@@@@@@@@@@@@" />
-        <option value="package:mine " />
         <option value="package:mine" />
-        <option value="package:mine WWWW " />
-        <option value="package:mine isn" />
-        <option value="package:mine isNetworkAvailable" />
-        <option value="package:mine &lt;onPageStarted&gt;" />
-        <option value="package:mine isErrorOnMainPage" />
-        <option value="package:mine &lt;onPageFinished&gt;" />
-        <option value="package:mine Nonnull" />
+        <option value="package:mine @@WW@@" />
         <option value="package:mine @@@" />
-        <option value="package:mine @@@CACHE: URL exists in cache" />
-        <option value="package:mine @@@@@@@@@" />
-        <option value="package:mine erroro" />
-        <option value="package:mine errorOnTheSamePage" />
-        <option value="is:error " />
-        <option value="token" />
-        <option value="Syncing" />
-        <option value="playFromHistory" />
+        <option value="package:mine is:error " />
+        <option value="package:mine " />
+        <option value="package:mine @@@@  ww @@" />
+        <option value="package:mine Coroutine " />
+        <option value="package:mine @@@@  ww @@ " />
+        <option value="package:mine @@@@@ ww @@@" />
+        <option value="package:mine AuthRepository: isAuthorized changed" />
+        <option value="package:mine AuthToken-" />
+        <option value="package:mine tokenFlow.first()" />
+        <option value="package:mine AuthToken: " />
+        <option value="package:mine @@@@ " />
+        <option value="package:mine WWW" />
+        <option value="package:mine WWWW" />
+        <option value="package:mine [REQUEST]" />
+        <option value="package:mine fcm" />
+        <option value="package:mine fc" />
+        <option value="package:mine MainActivity fc" />
       </list>
     </option>
   </component>
