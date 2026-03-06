@@ -10,29 +10,29 @@
         <option value="package:mine No definition found for type" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine" />
+    <option name="mostRecentlyUsed" value="[letter]" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
+        <option value="[letter]" />
+        <option value="device/stats" />
+        <option value="MSG: Received message from" />
+        <option value="fcm" />
+        <option value="CP_DEBUG" />
+        <option value="package:mine CP_DEBUG" />
+        <option value="package:mine Resource content" />
         <option value="package:mine" />
+        <option value="package:mine fc" />
+        <option value="package:mine @@w@@" />
+        <option value="package:mine @@" />
+        <option value="package:mine sss" />
+        <option value="@@@sss@@@" />
+        <option value="package:mine @@@sss@@@" />
+        <option value="package:mine ping" />
+        <option value="package:mine &lt;handleErrorCode&gt;" />
+        <option value="package:mine @@@WWW@@@" />
         <option value="package:mine @@WW@@" />
         <option value="package:mine @@@" />
-        <option value="package:mine is:error " />
-        <option value="package:mine " />
-        <option value="package:mine @@@@  ww @@" />
-        <option value="package:mine Coroutine " />
-        <option value="package:mine @@@@  ww @@ " />
-        <option value="package:mine @@@@@ ww @@@" />
-        <option value="package:mine AuthRepository: isAuthorized changed" />
-        <option value="package:mine AuthToken-" />
-        <option value="package:mine tokenFlow.first()" />
-        <option value="package:mine AuthToken: " />
-        <option value="package:mine @@@@ " />
-        <option value="package:mine WWW" />
-        <option value="package:mine WWWW" />
-        <option value="package:mine [REQUEST]" />
-        <option value="package:mine fcm" />
-        <option value="package:mine fc" />
-        <option value="package:mine MainActivity fc" />
       </list>
     </option>
   </component>

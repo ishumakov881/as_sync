@@ -1,13 +1,15 @@
 <application>
   <component name="KoinServiceState">
-    <option name="data" value="okDiRDL2vpDbAkImGR/MQoZv1McaMy823vu7bZ8e42nsWBpKSaiAqH5xhKtR2Lz94w4D5+AhwJ4E8QZlpqGvs3Funxut0R3k5CrhXE0QHP0SPH+uV8SdEKPODVOx1G5mTnJxc+8mMpFL3KZpMrz2XSCDywB+6TP295ur+75em3WpOIQT/nVWnJsDk4lnkR7fWlLOxw4MRK+Ao3CZzXwHDFGpvp3NO8e6MdbK6FgOUKGog72A8s9Vy34tY2nLkteMc3FOdqx0rYPE8EF/xczkNcT1j6cB+goeCw==" />
+    <option name="data" value="kae4h4RWWiE2i/Dy46lst2fraP13LB+5z4eVfhTbHveJ3/gKvROVqKaTg/4RwbrDsYuKv6t0CgvxE+lI1hxspHUXx56PY9IxpEAcJKL3ApUVc1Y6aJ1blkVC3PCwWFX6aD+jQCypiZ8SnsBLDqbJzI+9Ly/FwgEkB63dHNpzLZEHvYWDnNMUneM6wug83XZE9/Unl7ID4JjtqzuNrg2ixRjBiOrMYYrGCB5biia9ZeWcDTH8FnLtwRpDGTQrDJfYhU+fUfuZTgjZVIA/KNsPReTb6lFuhJm3fQ==" />
     <option name="deviceId" value="fc5c8af5-e67a-4437-bcc8-45399a9117f9" />
     <option name="f" value="true" />
     <option name="lastMetric">
       <map>
+        <entry key="2ab490c6" value="1772523980241" />
+        <entry key="2bf50472" value="1772437563134" />
         <entry key="39054671" value="1767685387712" />
         <entry key="4b861540" value="1770015439632" />
-        <entry key="5f9578b6" value="1770733913859" />
+        <entry key="5f9578b6" value="1772699363223" />
         <entry key="69353283" value="1769432628035" />
         <entry key="6f06bb65" value="1769435333754" />
         <entry key="a8fd0a72" value="1767705584351" />
@@ -16,6 +18,7 @@
         <entry key="cf242cf5" value="1768997104126" />
         <entry key="d4b2b881" value="1766666234114" />
         <entry key="e2293b3d" value="1768998390179" />
+        <entry key="f11efd0d" value="1772695551187" />
         <entry key="f72d7db5" value="1766738424101" />
       </map>
     </option>
