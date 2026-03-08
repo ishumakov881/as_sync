@@ -92,12 +92,11 @@
     <debuggers>
       <debugger id="ObjectiveC">
         <configuration>
+          <option name="LLDB_NATVIS_RENDERERS_ENABLED" value="false" />
+          <child-process-debugging-settings />
+          <macOS-symbol-settings />
+          <nt-symbol-settings />
           <option name="VALUES_FILTER_ENABLED" value="false" />
-        </configuration>
-      </debugger>
-      <debugger id="kotlin_debugger">
-        <configuration>
-          <option name="DEBUG_IS_FILTER_FOR_STDLIB_ALREADY_ADDED" value="true" />
         </configuration>
       </debugger>
     </debuggers>

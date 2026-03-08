@@ -2,6 +2,17 @@
   <component name="Trusted.Paths">
     <option name="TRUSTED_PROJECT_PATHS">
       <map>
+        <entry key="C:\Android\JCExample\JCTheme" value="true" />
+        <entry key="C:\SYNCED\Grimoire" value="true" />
+        <entry key="C:\SYNCED\WalhallaUI" value="true" />
+        <entry key="C:\SYNCED\ldsonline" value="true" />
+        <entry key="C:\SYNCED\quickdeal" value="true" />
+        <entry key="C:\Users\combo\Desktop\JCExample" value="true" />
+        <entry key="C:\Users\combo\Desktop\aaa\test1" value="true" />
+        <entry key="C:\Users\combo\Desktop\ap\ap001" value="true" />
+        <entry key="C:\Users\combo\Desktop\figma\FigmaAndroidTest" value="true" />
+        <entry key="C:\Users\combo\Desktop\gittest" value="true" />
+        <entry key="C:\Users\combo\Desktop\lk0example\DataMonitor" value="true" />
         <entry key="C:\Users\reznichenko.i\AppData\Roaming\Google\AndroidStudio2025.1.3" value="true" />
         <entry key="C:\Users\reznichenko.i\AppData\Roaming\Google\AndroidStudio2025.1.4" value="true" />
         <entry key="C:\Users\reznichenko.i\Desktop\BonjourBrowser" value="true" />
@@ -21,6 +32,7 @@
         <entry key="C:\Users\reznichenko.i\Desktop\libvlc-android-samples" value="true" />
         <entry key="C:\Users\reznichenko.i\Desktop\linphone-android-master" value="true" />
         <entry key="C:\Users\reznichenko.i\Desktop\openeuicc" value="true" />
+        <entry key="C:\android\JCExample" value="true" />
         <entry key="C:\android\LDSOnline" value="true" />
         <entry key="C:\android\LdsOnlineWebView" value="true" />
         <entry key="C:\android\QuickDeal" value="true" />
@@ -43,6 +55,7 @@
         <option value="C:\android" />
         <option value="C:\Users\reznichenko.i\Desktop" />
         <option value="G:\source" />
+        <option value="C:\SYNCED" />
       </list>
     </option>
   </component>

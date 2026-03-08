@@ -4,19 +4,22 @@
       <i a="3" c="1763992646828" />
     </e>
     <e id="ClassSearchEverywhereContributor">
-      <i a="132" c="1768393316798" />
+      <i a="148" c="1772610284051" />
     </e>
     <e id="FileSearchEverywhereContributor">
-      <i a="53" c="1768379647783" />
+      <i a="68" c="1771485570187" />
+    </e>
+    <e id="NonIndexableFilesSEContributor">
+      <i a="1" c="1772452456338" />
     </e>
     <e id="RecentFilesSEContributor">
-      <i a="270" c="1768380812041" />
+      <i a="301" c="1772631862872" />
     </e>
     <e id="SymbolSearchEverywhereContributor">
-      <i a="28" c="1767009581625" />
+      <i a="31" c="1772455205508" />
     </e>
     <e id="TextSearchContributor">
-      <i a="75" c="1768314185876" />
+      <i a="83" c="1772610265504" />
     </e>
   </component>
 </application>

@@ -192,22 +192,6 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="C:/android/QuickDeal">
-          <value>
-            <RecentProjectMetaInfo frameTitle="QuickDeal – TaskListViewModel.kt [QuickDeal.composeApp.commonMain]" projectWorkspaceId="2q1Eo0zwVwLKrWymbGu5k6gIAIS">
-              <option name="activationTimestamp" value="1766758950768" />
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="AI-251.27812.49.2514.14217341" />
-              <option name="buildTimestamp" value="1759726320000" />
-              <option name="colorInfo">
-                <RecentProjectColorInfo associatedIndex="8" />
-              </option>
-              <frame x="277" y="84" width="1400" height="904" />
-              <option name="productionCode" value="AI" />
-              <option name="projectOpenTimestamp" value="1766743222523" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
         <entry key="$USER_HOME$/Desktop/kwkTWA">
           <value>
             <RecentProjectMetaInfo frameTitle="kwkTWA – strings.xml [Android_TWA_Trusted_Web_Activity.app_scoreapp.main]" projectWorkspaceId="37sIFxUMaehejYAVRpprn9IOjBf">
@@ -272,25 +256,185 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="C:/android/LDSOnline">
+        <entry key="C:/SYNCED/quickdeal">
           <value>
-            <RecentProjectMetaInfo frameTitle="ЛДС онлайн – PaymentsScreen.kt [ЛДС_онлайн.app.main]" projectWorkspaceId="35unYhGKXwAZXvHrVstmrnkAtKo">
-              <option name="activationTimestamp" value="1768402663446" />
+            <RecentProjectMetaInfo frameTitle="QuickDeal – README.md [QuickDeal]" projectWorkspaceId="39OPT00N0XukadzrWTV0wfGrKaX">
+              <option name="activationTimestamp" value="1770578776404" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="AI-251.27812.49.2514.14217341" />
-              <option name="buildTimestamp" value="1759726320000" />
+              <option name="build" value="AI-252.28238.7.2523.14688667" />
+              <option name="buildTimestamp" value="1767949620000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="0" />
+              </option>
+              <frame x="-4" y="18" width="2520" height="1424" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1770578648686" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/gittest">
+          <value>
+            <RecentProjectMetaInfo frameTitle="gittest – README.md" projectWorkspaceId="39OtT4cGvWJk1ADRBDoGiwFqBPZ">
+              <option name="activationTimestamp" value="1770580114618" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-252.28238.7.2523.14688667" />
+              <option name="buildTimestamp" value="1767949620000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="1" />
+              </option>
+              <frame x="20" y="40" width="2520" height="1424" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1770579662415" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/JCExample">
+          <value>
+            <RecentProjectMetaInfo frameTitle="JCExample – settings.gradle.kts (JCExample)" projectWorkspaceId="39DDYCLvV4PgBTy8PkF0MpEEu1L">
+              <option name="activationTimestamp" value="1770727502357" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-252.28238.7.2523.14688667" />
+              <option name="buildTimestamp" value="1767949620000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="7" />
+              </option>
+              <frame x="20" y="40" width="2520" height="1380" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1770727502669" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/aaa/test1">
+          <value>
+            <RecentProjectMetaInfo frameTitle="test1" projectWorkspaceId="39o6qFV2gp3n9of0ZM8ibiWXymY">
+              <option name="activationTimestamp" value="1771603690916" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-253.29346.138.2531.14876573" />
+              <option name="buildTimestamp" value="1770882660000" />
               <option name="colorInfo">
                 <RecentProjectColorInfo associatedIndex="2" />
               </option>
-              <frame x="34" y="19" width="1754" height="990" />
+              <frame x="20" y="40" width="2520" height="1424" />
               <option name="productionCode" value="AI" />
-              <option name="projectOpenTimestamp" value="1768379229181" />
+              <option name="projectOpenTimestamp" value="1771603605802" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:/android/JCExample">
+          <value>
+            <RecentProjectMetaInfo frameTitle="JCExample – BaseScreenLayout.kt [JCExample.app.main]" projectWorkspaceId="39DDYCLvV4PgBTy8PkF0MpEEu1L">
+              <option name="activationTimestamp" value="1771870749239" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-253.29346.138.2531.14876573" />
+              <option name="buildTimestamp" value="1770882660000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="7" />
+              </option>
+              <frame x="-14" y="0" width="2580" height="1494" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1771603726621" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:/SYNCED/Grimoire">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Grimoire – CodegenViewModel.kt [Grimoire.composeApp.commonMain]" projectWorkspaceId="39DnPB3seLdasgToS6yGZa23RUd">
+              <option name="activationTimestamp" value="1772089789148" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-253.29346.138.2531.14876573" />
+              <option name="buildTimestamp" value="1770882660000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="8" />
+              </option>
+              <frame x="-10" y="68" width="2520" height="1430" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1772088477583" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/ap/ap001">
+          <value>
+            <RecentProjectMetaInfo frameTitle="ap001 – gradle-wrapper.properties [CaptivePortalAutologin]" projectWorkspaceId="3ADUEelLuuTJgWK2fYbXBpdnHgU">
+              <option name="activationTimestamp" value="1772136160430" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-253.29346.138.2531.14876573" />
+              <option name="buildTimestamp" value="1770882660000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="3" />
+              </option>
+              <frame x="20" y="40" width="2520" height="1424" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1772126525226" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/lk0example/DataMonitor">
+          <value>
+            <RecentProjectMetaInfo frameTitle="DataMonitor – gradle.properties" projectWorkspaceId="3AFGcJgYNbFniK6FH5zHELWcEkB">
+              <option name="activationTimestamp" value="1772181046501" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-253.29346.138.2531.14876573" />
+              <option name="buildTimestamp" value="1770882660000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="4" />
+              </option>
+              <frame x="20" y="40" width="2520" height="1424" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1772180983880" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:/SYNCED/WalhallaUI">
+          <value>
+            <RecentProjectMetaInfo frameTitle="ui – Module_U.kt [ui.shared.main]" projectWorkspaceId="3AO7vkNcmXEXdrcupHA1z0xP1UJ">
+              <option name="activationTimestamp" value="1772462965354" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-253.29346.138.2531.14876573" />
+              <option name="buildTimestamp" value="1770882660000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="5" />
+              </option>
+              <frame x="20" y="40" width="2520" height="1424" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1772451996749" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/figma/FigmaAndroidTest">
+          <value>
+            <RecentProjectMetaInfo frameTitle="FigmaAndroidTest – SpeedTestComponents.kt [FigmaAndroidTest.app.main]" projectWorkspaceId="3AOUHIDluTbtajnP5o1J2wcKtTT">
+              <option name="activationTimestamp" value="1772483644482" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-253.29346.138.2531.14876573" />
+              <option name="buildTimestamp" value="1770882660000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="6" />
+              </option>
+              <frame x="20" y="40" width="2520" height="1424" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1772463020666" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:/SYNCED/ldsonline">
+          <value>
+            <RecentProjectMetaInfo frameTitle="ЛДС онлайн – NetworkTestViewModel.kt [ЛДС_онлайн.ldscompose.main]" opened="true" projectWorkspaceId="38WnUOzQI1UYKv5NYiymTD37O9k">
+              <option name="activationTimestamp" value="1772731532824" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-253.29346.138.2531.14876573" />
+              <option name="buildTimestamp" value="1770882660000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="4" />
+              </option>
+              <frame x="-14" y="-14" width="2586" height="1530" extendedState="6" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1772631405652" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
       </map>
     </option>
-    <option name="lastOpenedProject" value="C:/android/LDSOnline" />
-    <option name="lastProjectLocation" value="C:/android" />
+    <option name="lastOpenedProject" value="C:/SYNCED/ldsonline" />
+    <option name="lastProjectLocation" value="$USER_HOME$/Desktop/figma" />
   </component>
 </application>
