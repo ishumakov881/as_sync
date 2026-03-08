@@ -2,13 +2,15 @@
   <component name="AndroidLogcatFilterHistory">
     <option name="favorites">
       <list>
-        <option value="package:mine cwvc" />
         <option value="package:mine AuthToken:" />
+        <option value="package:mine FreeWifiMapScreen" />
+        <option value="package:mine cwvc" />
         <option value="package:mine @@@ restoreSeekPosition" />
         <option value="package:mine Unexpected" />
         <option value="package:mine No definition found for type" />
       </list>
     </option>
+<<<<<<< HEAD
     <option name="mostRecentlyUsed" value="package:mine" />
     <option name="nonFavorites">
       <list>
@@ -32,6 +34,31 @@
         <option value="package:mine isNetworkAvailable" />
         <option value="package:mine &lt;onPageStarted&gt;" />
         <option value="package:mine isErrorOnMainPage" />
+=======
+    <option name="mostRecentlyUsed" value="[letter]" />
+    <option name="nonFavorites">
+      <list>
+        <option value="package:mine " />
+        <option value="[letter]" />
+        <option value="device/stats" />
+        <option value="MSG: Received message from" />
+        <option value="fcm" />
+        <option value="CP_DEBUG" />
+        <option value="package:mine CP_DEBUG" />
+        <option value="package:mine Resource content" />
+        <option value="package:mine" />
+        <option value="package:mine fc" />
+        <option value="package:mine @@w@@" />
+        <option value="package:mine @@" />
+        <option value="package:mine sss" />
+        <option value="@@@sss@@@" />
+        <option value="package:mine @@@sss@@@" />
+        <option value="package:mine ping" />
+        <option value="package:mine &lt;handleErrorCode&gt;" />
+        <option value="package:mine @@@WWW@@@" />
+        <option value="package:mine @@WW@@" />
+        <option value="package:mine @@@" />
+>>>>>>> 5ceaf3d439fc7ee901cfc7800b579948759094d9
       </list>
     </option>
   </component>

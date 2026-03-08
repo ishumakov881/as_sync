@@ -36,15 +36,20 @@
       <component name="ProjectViewState">
         <option name="showLibraryContents" value="true" />
       </component>
-      <component name="PropertiesComponent">
-        <property name="android.sdk.path" value="C:/android/sdk" />
-        <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
-      </component>
+      <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "settings.editor.selected.configurable": "com.android.studio.ml.McpConfigurable"
+  }
+}]]></component>
       <component name="WindowStateProjectService">
         <state x="552" y="154" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1766475173381">
           <screen x="0" y="0" width="1920" height="1050" />
         </state>
         <state x="552" y="154" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1050" timestamp="1766475173381" />
+        <state x="455" y="150" key="SettingsEditor" timestamp="1772699536736">
+          <screen x="0" y="0" width="1920" height="1050" />
+        </state>
+        <state x="455" y="150" key="SettingsEditor/0.0.1920.1050" timestamp="1772699536736" />
       </component>
     </defaultProject>
   </component>

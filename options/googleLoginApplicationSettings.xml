@@ -18,8 +18,12 @@
         <entry key="ishumakov881@gmail.com">
           <value>
             <set>
+              <option value="Android Vitals" />
               <option value="GiAS" />
+              <option value="Firebase" />
               <option value="User Info" />
+              <option value="Notifications" />
+              <option value="Backup and Sync" />
             </set>
           </value>
         </entry>

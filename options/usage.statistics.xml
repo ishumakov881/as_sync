@@ -1,14 +1,5 @@
 <application>
-  <component name="MainMenuCollector">
-    <counts>
-      <entry path="Build -&gt; Clean Project" count="1" />
-      <entry path="File -&gt; Close Project" count="4" />
-      <entry path="File -&gt; Exit" count="1" />
-      <entry path="File -&gt; Invalidate Caches / Restart..." count="1" />
-      <entry path="File -&gt; Settings..." count="4" />
-    </counts>
-  </component>
   <component name="UsagesStatistic">
-    <system-event-id recorder="ML" id="251" />
+    <system-event-id recorder="ML" id="18" />
   </component>
 </application>
