@@ -1,7 +1,27 @@
 <application>
   <component name="ContributorsLocalSummary">
+<<<<<<< Updated upstream
     <e id="FileSearchEverywhereContributor">
       <i a="18" c="1772965491541" />
+=======
+    <e id="ActionSearchEverywhereContributor">
+      <i a="4" c="1769782870464" />
+    </e>
+    <e id="ClassSearchEverywhereContributor">
+      <i a="173" b="1" c="1772784569420" d="1770282193779" />
+    </e>
+    <e id="FileSearchEverywhereContributor">
+      <i a="83" c="1771937639572" />
+    </e>
+    <e id="RecentFilesSEContributor">
+      <i a="376" c="1772784601981" />
+    </e>
+    <e id="SymbolSearchEverywhereContributor">
+      <i a="33" c="1771581131062" />
+    </e>
+    <e id="TextSearchContributor">
+      <i a="96" c="1772788227929" />
+>>>>>>> Stashed changes
     </e>
   </component>
 </application>

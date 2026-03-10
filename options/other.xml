@@ -157,8 +157,12 @@
     "Source Code Editor With PreviewLayout": "Editor only",
     "StudioBot.ActiveTab": "Agent",
     "StudioBot.Agent.MigratedToPermissions": "true",
+<<<<<<< Updated upstream
     "StudioBot.Agent.isAutoApprove": "true",
     "TextEditorWithPreview.SplitterProportionKey": "0.50729924",
+=======
+    "TextEditorWithPreview.SplitterProportionKey": "0.53239435",
+>>>>>>> Stashed changes
     "android.apk.viewer": "0.80319804",
     "build.toolwindow.Build Output.selection.state": "com.intellij.build.BuildTreeConsoleView",
     "build.toolwindow.Sync.selection.state": "com.intellij.build.BuildTreeConsoleView",
@@ -171,7 +175,11 @@
     "defaultJdkConfigured": "true",
     "enter_selection_count": "5",
     "experimental.ui.used.version": "253.30387.90.2532.14935130",
+<<<<<<< Updated upstream
     "file.gist.reindex.count": "20",
+=======
+    "file.gist.reindex.count": "18",
+>>>>>>> Stashed changes
     "fileTypeChangedCounter": "35",
     "fontSizeToResetConsole": "13.0",
     "fontSizeToResetEditor": "13.0",
@@ -182,7 +190,11 @@
     "ide.updates.old.dirs.scan.scheduled": "1773569072114",
     "installed.kotlin.plugin.version": "253.30387.90.2532.14935130-AS",
     "kotlin.k2.features.in.k1.mode.notification.disabled": "true",
+<<<<<<< Updated upstream
     "kotlin.lastUpdateCheck": "1772627083212",
+=======
+    "kotlin.lastUpdateCheck": "1773123212209",
+>>>>>>> Stashed changes
     "kotlin.updates.whats.new.shown.for": "2.2.20",
     "lvcs.diff.with.list.splitter.horizontal": "0.27187708",
     "migrate.android.sdk.path.to.roamable.storage": "false",
@@ -245,10 +257,23 @@
       "2026-01-06T07:39:35.449637200Z",
       "2026-01-12T11:31:13.370489200Z",
       "2026-01-14T07:57:29.675346800Z",
+<<<<<<< Updated upstream
       "2026-03-02T19:01:48.094088700Z",
       "2026-03-04T06:34:02.826482900Z",
       "2026-03-05T17:10:06.264402Z",
       "2026-03-08T09:52:51.735707900Z"
+=======
+      "2026-01-15T11:22:26.435147400Z",
+      "2026-01-19T06:13:41.175409200Z",
+      "2026-01-20T06:36:01.535326700Z",
+      "2026-01-21T12:25:18.075956200Z",
+      "2026-01-22T12:28:27.746258500Z",
+      "2026-01-26T06:32:53.944959100Z",
+      "2026-01-27T09:22:01.714037900Z",
+      "2026-03-03T08:09:21.644015400Z",
+      "2026-03-05T06:40:36.156002700Z",
+      "2026-03-10T06:13:03.644152Z"
+>>>>>>> Stashed changes
     ],
     "fileTypeDetectors": [
       "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",

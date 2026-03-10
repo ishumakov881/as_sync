@@ -2,7 +2,51 @@
   <component name="Trusted.Paths">
     <option name="TRUSTED_PROJECT_PATHS">
       <map>
+<<<<<<< Updated upstream
         <entry key="C:\Users\combo\AppData\Roaming\Google\AndroidStudio2025.3.2" value="true" />
+=======
+        <entry key="C:\Users\reznichenko.i\AppData\Roaming\Google\AndroidStudio2025.1.3" value="true" />
+        <entry key="C:\Users\reznichenko.i\AppData\Roaming\Google\AndroidStudio2025.1.4" value="true" />
+        <entry key="C:\Users\reznichenko.i\AppData\Roaming\Google\AndroidStudio2025.3.2" value="true" />
+        <entry key="C:\Users\reznichenko.i\Desktop\BonjourBrowser" value="true" />
+        <entry key="C:\Users\reznichenko.i\Desktop\ComposeTv" value="true" />
+        <entry key="C:\Users\reznichenko.i\Desktop\JetWoodBlockPuzzle" value="true" />
+        <entry key="C:\Users\reznichenko.i\Desktop\MaterialThemePrefs" value="true" />
+        <entry key="C:\Users\reznichenko.i\Desktop\MobileCabinet" value="true" />
+        <entry key="C:\Users\reznichenko.i\Desktop\MyApplication" value="true" />
+        <entry key="C:\Users\reznichenko.i\Desktop\Oops-No-Internet" value="true" />
+        <entry key="C:\Users\reznichenko.i\Desktop\P2" value="true" />
+        <entry key="C:\Users\reznichenko.i\Desktop\P2\LDSOnlineP2" value="true" />
+        <entry key="C:\Users\reznichenko.i\Desktop\Smstotelegram" value="true" />
+        <entry key="C:\Users\reznichenko.i\Desktop\TVTest" value="true" />
+        <entry key="C:\Users\reznichenko.i\Desktop\huaway" value="true" />
+        <entry key="C:\Users\reznichenko.i\Desktop\huaway\android" value="true" />
+        <entry key="C:\Users\reznichenko.i\Desktop\jetpack-compose-login-registration-samples\halloween" value="true" />
+        <entry key="C:\Users\reznichenko.i\Desktop\jetpack-compose-login-registration-samples\simple-login-screen" value="true" />
+        <entry key="C:\Users\reznichenko.i\Desktop\jetpack-compose-login-registration-samples\spotify-redesign" value="true" />
+        <entry key="C:\Users\reznichenko.i\Desktop\juicy-match" value="true" />
+        <entry key="C:\Users\reznichenko.i\Desktop\kwkGames" value="true" />
+        <entry key="C:\Users\reznichenko.i\Desktop\kwkTWA" value="true" />
+        <entry key="C:\Users\reznichenko.i\Desktop\libvlc-android-samples" value="true" />
+        <entry key="C:\Users\reznichenko.i\Desktop\linphone-android-master" value="true" />
+        <entry key="C:\Users\reznichenko.i\Desktop\lk0_ai\jp_figma" value="true" />
+        <entry key="C:\Users\reznichenko.i\Desktop\openeuicc" value="true" />
+        <entry key="C:\Users\reznichenko.i\Desktop\p\LDSOnline" value="true" />
+        <entry key="C:\Users\reznichenko.i\Desktop\zxing" value="true" />
+        <entry key="C:\android\LDSOnline" value="true" />
+        <entry key="C:\android\LdsOnlineWebView" value="true" />
+        <entry key="C:\android\LdsOnlineWebView0" value="true" />
+        <entry key="C:\android\QuickDeal" value="true" />
+        <entry key="C:\android\cinemakmp" value="true" />
+        <entry key="C:\android\cinemakmp\Example\bv" value="true" />
+        <entry key="C:\android\cinemakmp\Example\ttloader" value="true" />
+        <entry key="C:\android\cinemakmp\tv-samples\JetStreamCompose" value="true" />
+        <entry key="C:\android\ldsonline" value="true" />
+        <entry key="F:\TVTest" value="true" />
+        <entry key="F:\androidtv\TV_programguide\android-tv-program-guide" value="true" />
+        <entry key="F:\androidtv\TV_programguide\programguide" value="true" />
+        <entry key="G:\source\linphone-android-master" value="true" />
+>>>>>>> Stashed changes
       </map>
     </option>
   </component>

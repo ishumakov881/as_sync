@@ -1,5 +1,9 @@
 <application>
   <component name="UsagesStatistic">
+<<<<<<< Updated upstream
     <system-event-id recorder="ML" id="18" />
+=======
+    <system-event-id recorder="ML" id="125" />
+>>>>>>> Stashed changes
   </component>
 </application>

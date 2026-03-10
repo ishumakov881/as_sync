@@ -416,25 +416,106 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
+<<<<<<< Updated upstream
         <entry key="$APPLICATION_CONFIG_DIR$">
           <value>
             <RecentProjectMetaInfo frameTitle="AndroidStudio2025.3.2" opened="true" projectWorkspaceId="3AesFoNXHfVeBph12jecKoXps5F">
               <option name="activationTimestamp" value="1772965487590" />
+=======
+        <entry key="$USER_HOME$/Desktop/zxing">
+          <value>
+            <RecentProjectMetaInfo frameTitle="zxing – CaptureActivity.java [zxing.android.main]" projectWorkspaceId="3ANV4ktgAx43jGuyWCl7munfmch">
+              <option name="activationTimestamp" value="1772438967101" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-251.27812.49.2514.14217341" />
+              <option name="buildTimestamp" value="1759726320000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="1" />
+              </option>
+              <frame x="260" y="25" width="1400" height="1000" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1772438387713" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/huaway/android">
+          <value>
+            <RecentProjectMetaInfo frameTitle="android – AndroidManifest.xml [jpFigma.app.main]" projectWorkspaceId="3AQTR5uEHSZIhbPASIwwE30xp4N">
+              <option name="activationTimestamp" value="1772699242057" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-253.30387.90.2532.14935130" />
+              <option name="buildTimestamp" value="1772001660000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="2" />
+              </option>
+              <frame x="162" y="55" width="1593" height="970" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1772695529905" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:/android/LDSOnline">
+          <value>
+            <RecentProjectMetaInfo frameTitle="ЛДС онлайн – build.gradle.kts (:app)" projectWorkspaceId="39Hjcizg3yZQaLxurg9Po7Kla6H">
+              <option name="activationTimestamp" value="1772790042768" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-253.30387.90.2532.14935130" />
+              <option name="buildTimestamp" value="1772001660000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="2" />
+              </option>
+              <frame x="253" y="159" width="1615" height="886" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1772790044039" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/lk0_ai/jp_figma">
+          <value>
+            <RecentProjectMetaInfo frameTitle="jpFigma – app\…\MainActivity.kt [jpFigma.app.main]" projectWorkspaceId="3AQTR5uEHSZIhbPASIwwE30xp4N">
+              <option name="activationTimestamp" value="1772798293494" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-253.30387.90.2532.14935130" />
+              <option name="buildTimestamp" value="1772001660000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="2" />
+              </option>
+              <frame x="166" y="75" width="1627" height="947" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1772791222790" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$APPLICATION_CONFIG_DIR$">
+          <value>
+            <RecentProjectMetaInfo frameTitle="AndroidStudio2025.3.2 – _Me_Kts.xml" projectWorkspaceId="32Gujtm9RIMmBzRCk41luVGT4Pm">
+              <option name="activationTimestamp" value="1773123209381" />
+>>>>>>> Stashed changes
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="AI-253.30387.90.2532.14935130" />
               <option name="buildTimestamp" value="1772001660000" />
               <option name="colorInfo">
                 <RecentProjectColorInfo associatedIndex="1" />
               </option>
+<<<<<<< Updated upstream
               <frame x="242" y="102" width="1400" height="886" extendedState="6" />
               <option name="productionCode" value="AI" />
               <option name="projectOpenTimestamp" value="1772964366764" />
+=======
+              <frame x="243" y="103" width="1400" height="885" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1772798363649" />
+>>>>>>> Stashed changes
             </RecentProjectMetaInfo>
           </value>
         </entry>
       </map>
     </option>
     <option name="lastOpenedProject" value="$APPLICATION_CONFIG_DIR$" />
+<<<<<<< Updated upstream
     <option name="lastProjectLocation" value="$USER_HOME$/Desktop/figma" />
+=======
+    <option name="lastProjectLocation" value="$USER_HOME$/Desktop/lk0_ai" />
+>>>>>>> Stashed changes
   </component>
 </application>

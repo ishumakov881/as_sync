@@ -1,6 +1,7 @@
 <application>
   <component name="ActionsLocalSummary">
     <e n="$Copy">
+<<<<<<< Updated upstream
       <i c="2962" l="1772624423658" />
     </e>
     <e n="$Cut">
@@ -11,15 +12,34 @@
     </e>
     <e n="$Paste">
       <i c="2023" l="1772629131534" />
+=======
+      <i c="4112" l="1772798129222" />
+    </e>
+    <e n="$Cut">
+      <i c="2800" l="1772797601624" />
+    </e>
+    <e n="$Delete">
+      <i c="18" l="1772796933646" />
+    </e>
+    <e n="$Paste">
+      <i c="2787" l="1772789231057" />
+>>>>>>> Stashed changes
     </e>
     <e n="$Redo">
       <i c="31" l="1772616657253" />
     </e>
     <e n="$SelectAll">
+<<<<<<< Updated upstream
       <i c="421" l="1772964680187" />
     </e>
     <e n="$Undo">
       <i c="11760" l="1772964908425" />
+=======
+      <i c="469" l="1772798011729" />
+    </e>
+    <e n="$Undo">
+      <i c="13752" l="1772797115066" />
+>>>>>>> Stashed changes
     </e>
     <e n="About">
       <i c="4" l="1772044686193" />
@@ -31,7 +51,11 @@
       <i c="1" l="1761140462939" />
     </e>
     <e n="ActivityView.Revert">
+<<<<<<< Updated upstream
       <i c="197" l="1772964704034" />
+=======
+      <i c="224" l="1772797104246" />
+>>>>>>> Stashed changes
     </e>
     <e n="Adtui.ZoomInAction">
       <i c="22" l="1772627959560" />
@@ -100,7 +124,11 @@
       <i c="62" l="1770656385490" />
     </e>
     <e n="CloseAllEditorsButActive">
+<<<<<<< Updated upstream
       <i c="503" l="1772627914951" />
+=======
+      <i c="617" l="1772789341489" />
+>>>>>>> Stashed changes
     </e>
     <e n="CloseAllUnmodifiedEditors">
       <i c="1" l="1759993386528" />
@@ -112,7 +140,11 @@
       <i c="6" l="1770748388210" />
     </e>
     <e n="CloseProject">
+<<<<<<< Updated upstream
       <i c="408" l="1772964316092" />
+=======
+      <i c="444" l="1773123210503" />
+>>>>>>> Stashed changes
     </e>
     <e n="CodeCompletion">
       <i c="745" l="1772630231253" />
@@ -124,7 +156,11 @@
       <i c="1" l="1765367920349" />
     </e>
     <e n="CommentByLineComment">
+<<<<<<< Updated upstream
       <i c="1398" l="1772624915944" />
+=======
+      <i c="1569" l="1772781888909" />
+>>>>>>> Stashed changes
     </e>
     <e n="Compare.SameVersion">
       <i c="1" l="1770579819615" />
@@ -169,19 +205,33 @@
       <i c="1" l="1761738277000" />
     </e>
     <e n="EditorBackSpace">
+<<<<<<< Updated upstream
       <i c="24260" l="1772965438351" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="6620" l="1772630893580" />
+=======
+      <i c="23849" l="1772790813283" />
+    </e>
+    <e n="EditorChooseLookupItem">
+      <i c="8061" l="1772795554567" />
+>>>>>>> Stashed changes
     </e>
     <e n="EditorChooseLookupItemReplace">
       <i c="4" l="1770381324717" />
     </e>
     <e n="EditorCopy">
+<<<<<<< Updated upstream
       <i c="2813" l="1772631865395" />
     </e>
     <e n="EditorCut">
       <i c="1122" l="1772630628825" />
+=======
+      <i c="3331" l="1772797692501" />
+    </e>
+    <e n="EditorCut">
+      <i c="1241" l="1772795561318" />
+>>>>>>> Stashed changes
     </e>
     <e n="EditorDelete">
       <i c="3" l="1770382751144" />
@@ -193,16 +243,27 @@
       <i c="9" l="1770630294656" />
     </e>
     <e n="EditorDown">
+<<<<<<< Updated upstream
       <i c="8439" l="1772964880993" />
+=======
+      <i c="10357" l="1772790067594" />
+>>>>>>> Stashed changes
     </e>
     <e n="EditorDownWithSelection">
       <i c="569" l="1772627618358" />
     </e>
     <e n="EditorDuplicate">
+<<<<<<< Updated upstream
       <i c="304" l="1772627620298" />
     </e>
     <e n="EditorEnter">
       <i c="7132" l="1772965475090" />
+=======
+      <i c="348" l="1772789010325" />
+    </e>
+    <e n="EditorEnter">
+      <i c="8655" l="1772795552385" />
+>>>>>>> Stashed changes
     </e>
     <e n="EditorEscape">
       <i c="1" l="1762419996719" />
@@ -211,10 +272,17 @@
       <i c="2" l="1766652563527" />
     </e>
     <e n="EditorLeft">
+<<<<<<< Updated upstream
       <i c="18489" l="1772630318271" />
     </e>
     <e n="EditorLeftWithSelection">
       <i c="16544" l="1772630626491" />
+=======
+      <i c="24433" l="1772788908837" />
+    </e>
+    <e n="EditorLeftWithSelection">
+      <i c="18114" l="1772788909557" />
+>>>>>>> Stashed changes
     </e>
     <e n="EditorNextWord">
       <i c="3" l="1770570647808" />
@@ -223,13 +291,21 @@
       <i c="12" l="1758800980481" />
     </e>
     <e n="EditorPaste">
+<<<<<<< Updated upstream
       <i c="5658" l="1772965516356" />
+=======
+      <i c="7013" l="1772798012200" />
+>>>>>>> Stashed changes
     </e>
     <e n="EditorPreviousWord">
       <i c="10" l="1772035358499" />
     </e>
     <e n="EditorRight">
+<<<<<<< Updated upstream
       <i c="13158" l="1772964829283" />
+=======
+      <i c="16595" l="1772789464114" />
+>>>>>>> Stashed changes
     </e>
     <e n="EditorRightWithSelection">
       <i c="7506" l="1772629569472" />
@@ -262,10 +338,17 @@
       <i c="50" l="1768288286533" />
     </e>
     <e n="EditorUp">
+<<<<<<< Updated upstream
       <i c="5019" l="1772964506295" />
     </e>
     <e n="EditorUpWithSelection">
       <i c="1813" l="1772627619241" />
+=======
+      <i c="6169" l="1772790068561" />
+    </e>
+    <e n="EditorUpWithSelection">
+      <i c="937" l="1772788903636" />
+>>>>>>> Stashed changes
     </e>
     <e n="ExpandRecursively">
       <i c="4" l="1770655155732" />
@@ -286,10 +369,17 @@
       <i c="1" l="1770573057079" />
     </e>
     <e n="Floating.CodeToolbar.Extract">
+<<<<<<< Updated upstream
       <i c="131" l="1772175340660" />
     </e>
     <e n="Floating.CodeToolbar.Surround">
       <i c="111" l="1770808400366" />
+=======
+      <i c="179" l="1772788931988" />
+    </e>
+    <e n="Floating.CodeToolbar.Surround">
+      <i c="151" l="1772786551225" />
+>>>>>>> Stashed changes
     </e>
     <e n="Floating.CodeToolbar.SurroundWithTryCatch">
       <i c="1" l="1757946693522" />
@@ -331,7 +421,11 @@
       <i c="1" l="1763993078979" />
     </e>
     <e n="Github.Share">
+<<<<<<< Updated upstream
       <i c="4" l="1770654575882" />
+=======
+      <i c="4" l="1772798316268" />
+>>>>>>> Stashed changes
     </e>
     <e n="GoogleLoginV2.LoginService">
       <i c="1" l="1758015871376" />
@@ -343,7 +437,11 @@
       <i c="3" l="1772483427781" />
     </e>
     <e n="GotoDeclaration">
+<<<<<<< Updated upstream
       <i c="3387" l="1772629935565" />
+=======
+      <i c="4263" l="1772797687191" />
+>>>>>>> Stashed changes
     </e>
     <e n="GotoLine">
       <i c="2" l="1767690861338" />
@@ -376,7 +474,11 @@
       <i c="1" l="1770836572776" />
     </e>
     <e n="InsertInlineCompletionAction">
+<<<<<<< Updated upstream
       <i c="38" l="1772483313563" />
+=======
+      <i c="46" l="1772789365140" />
+>>>>>>> Stashed changes
     </e>
     <e n="IntroduceParameter">
       <i c="1" l="1764320635726" />
@@ -400,7 +502,11 @@
       <i c="5" l="1761036165142" />
     </e>
     <e n="LocalHistory.ShowHistory">
+<<<<<<< Updated upstream
       <i c="386" l="1772965319821" />
+=======
+      <i c="523" l="1772797097313" />
+>>>>>>> Stashed changes
     </e>
     <e n="LocalHistory.ShowProjectHistory">
       <i c="2" l="1771604125053" />
@@ -430,10 +536,20 @@
       <i c="2" l="1768389220531" />
     </e>
     <e n="NewFile">
+<<<<<<< Updated upstream
       <i c="3" l="1771259918260" />
     </e>
     <e n="NewModule">
       <i c="7" l="1766738602295" />
+=======
+      <i c="6" l="1772789448727" />
+    </e>
+    <e n="NewModule">
+      <i c="12" l="1772788609507" />
+    </e>
+    <e n="NewModuleInGroup">
+      <i c="2" l="1772789537714" />
+>>>>>>> Stashed changes
     </e>
     <e n="NewProject">
       <i c="3" l="1772730618525" />
@@ -442,7 +558,11 @@
       <i c="74" l="1772450659681" />
     </e>
     <e n="NextTemplateVariable">
+<<<<<<< Updated upstream
       <i c="253" l="1772629854807" />
+=======
+      <i c="328" l="1772786581611" />
+>>>>>>> Stashed changes
     </e>
     <e n="OpenFile">
       <i c="7" l="1772451988309" />
@@ -487,7 +607,11 @@
       <i c="6" l="1768311933113" />
     </e>
     <e n="RedesignedRunConfigurationSelector">
+<<<<<<< Updated upstream
       <i c="224" l="1772545954995" />
+=======
+      <i c="378" l="1772781710485" />
+>>>>>>> Stashed changes
     </e>
     <e n="ReformatCode">
       <i c="400" l="1772626171496" />
@@ -496,25 +620,46 @@
       <i c="1" l="1770814426953" />
     </e>
     <e n="RenameElement">
+<<<<<<< Updated upstream
       <i c="317" l="1772629846061" />
+=======
+      <i c="376" l="1772788873730" />
+>>>>>>> Stashed changes
     </e>
     <e n="RenameFile">
       <i c="5" l="1772452361207" />
     </e>
     <e n="Replace">
+<<<<<<< Updated upstream
       <i c="204" l="1772618226330" />
     </e>
     <e n="ReplaceInPath">
       <i c="2724" l="1772630794572" />
+=======
+      <i c="301" l="1772786416679" />
+    </e>
+    <e n="ReplaceInPath">
+      <i c="3690" l="1772797501390" />
+    </e>
+    <e n="RerunTests">
+      <i c="1" l="1772106075296" />
+>>>>>>> Stashed changes
     </e>
     <e n="RestoreFactoryDefaultLayout">
       <i c="1" l="1761140474065" />
     </e>
     <e n="RevealIn">
+<<<<<<< Updated upstream
       <i c="585" l="1772965030890" />
     </e>
     <e n="Run">
       <i c="7252" l="1772631033309" />
+=======
+      <i c="699" l="1773123203157" />
+    </e>
+    <e n="Run">
+      <i c="8974" l="1772798252813" />
+>>>>>>> Stashed changes
     </e>
     <e n="RunAnything">
       <i c="10" l="1770811348627" />
@@ -526,10 +671,17 @@
       <i c="1" l="1765443628748" />
     </e>
     <e n="SaveAll">
+<<<<<<< Updated upstream
       <i c="288" l="1772965517288" />
     </e>
     <e n="SearchEverywhere">
       <i c="747" l="1772965489143" />
+=======
+      <i c="376" l="1772781072605" />
+    </e>
+    <e n="SearchEverywhere">
+      <i c="887" l="1772798040048" />
+>>>>>>> Stashed changes
     </e>
     <e n="SettingsEntryPoint">
       <i c="33" l="1771313332568" />
@@ -538,19 +690,31 @@
       <i c="3" l="1771604146047" />
     </e>
     <e n="ShowIntentionActions">
+<<<<<<< Updated upstream
       <i c="860" l="1772618167159" />
+=======
+      <i c="915" l="1772796960122" />
+>>>>>>> Stashed changes
     </e>
     <e n="ShowPopupMenu">
       <i c="1" l="1764761923480" />
     </e>
     <e n="ShowSettings">
+<<<<<<< Updated upstream
       <i c="97" l="1772479571065" />
+=======
+      <i c="114" l="1772798008406" />
+>>>>>>> Stashed changes
     </e>
     <e n="SpeedSearch">
       <i c="4" l="1767700562402" />
     </e>
     <e n="Stop">
+<<<<<<< Updated upstream
       <i c="4558" l="1772630898254" />
+=======
+      <i c="5769" l="1772789737713" />
+>>>>>>> Stashed changes
     </e>
     <e n="SwitchCoverage">
       <i c="3" l="1770574604500" />
@@ -568,7 +732,11 @@
       <i c="2" l="1770544189472" />
     </e>
     <e n="Terminal.NewTab">
+<<<<<<< Updated upstream
       <i c="6" l="1770661987751" />
+=======
+      <i c="6" l="1772798388511" />
+>>>>>>> Stashed changes
     </e>
     <e n="Terminal.Paste">
       <i c="36" l="1772450392773" />
@@ -586,7 +754,11 @@
       <i c="1" l="1758718767345" />
     </e>
     <e n="ToggleLineBreakpoint">
+<<<<<<< Updated upstream
       <i c="62" l="1772455292508" />
+=======
+      <i c="73" l="1772796952028" />
+>>>>>>> Stashed changes
     </e>
     <e n="ToolWindowShowNamesAction">
       <i c="2" l="1761140485480" />
@@ -697,7 +869,11 @@
       <i c="6" l="1772462980437" />
     </e>
     <e n="WelcomeScreen.RevealIn">
+<<<<<<< Updated upstream
       <i c="26" l="1772963593578" />
+=======
+      <i c="29" l="1772798336625" />
+>>>>>>> Stashed changes
     </e>
     <e n="android.device.back.button">
       <i c="1" l="1762524452196" />
@@ -760,7 +936,11 @@
       <i c="6" l="1770275545295" />
     </e>
     <e n="com.intellij.codeInsight.daemon.NavigateAction">
+<<<<<<< Updated upstream
       <i c="221" l="1772624367275" />
+=======
+      <i c="291" l="1772786956034" />
+>>>>>>> Stashed changes
     </e>
     <e n="com.intellij.codeInsight.daemon.impl.DaemonTooltipWithActionRenderer$addActionsRow$1">
       <i c="1" l="1764761911823" />
@@ -787,7 +967,11 @@
       <i c="1" l="1770378686313" />
     </e>
     <e n="com.intellij.diff.tools.simple.SimpleDiffViewer$ReplaceSelectedChangesAction">
+<<<<<<< Updated upstream
       <i c="146" l="1772482407361" />
+=======
+      <i c="25" l="1772781640924" />
+>>>>>>> Stashed changes
     </e>
     <e n="com.intellij.execution.impl.ConsoleViewImpl$HyperlinkNavigationAction">
       <i c="2" l="1770376433306" />
@@ -796,13 +980,21 @@
       <i c="2" l="1765979165291" />
     </e>
     <e n="com.intellij.execution.ui.RunToolbarPopupKt$createRunConfigurationWithInlines$1">
+<<<<<<< Updated upstream
       <i c="6" l="1772545956569" />
+=======
+      <i c="5" l="1772781711811" />
+>>>>>>> Stashed changes
     </e>
     <e n="com.intellij.execution.ui.RunToolbarPopupKt$createRunConfigurationWithInlines$2">
       <i c="150" l="1770619144587" />
     </e>
     <e n="com.intellij.find.SearchReplaceComponent$CloseAction">
+<<<<<<< Updated upstream
       <i c="496" l="1772618237091" />
+=======
+      <i c="606" l="1772786444428" />
+>>>>>>> Stashed changes
     </e>
     <e n="com.intellij.find.SearchReplaceComponent$ModeAction">
       <i c="3" l="1765195288253" />
@@ -838,7 +1030,14 @@
       <i c="25" l="1772608077979" />
     </e>
     <e n="com.intellij.ide.ReopenProjectAction">
+<<<<<<< Updated upstream
       <i c="122" l="1772479530970" />
+=======
+      <i c="132" l="1772787988227" />
+    </e>
+    <e n="com.intellij.ide.actions.ApplyIntentionAction">
+      <i c="1" d="1" l="1769782870476" k="1769782870476" />
+>>>>>>> Stashed changes
     </e>
     <e n="com.intellij.ide.actions.ChangeMainMenuModeAction">
       <i c="2" l="1757059381034" />
@@ -901,10 +1100,14 @@
       <i c="1" l="1760529947753" />
     </e>
     <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+<<<<<<< Updated upstream
       <i c="1382" l="1772965511756" />
     </e>
     <e n="com.intellij.openapi.keymap.impl.ui.KeymapPanel$AddKeyboardShortcutAction">
       <i c="1" l="1770275032706" />
+=======
+      <i c="1586" l="1772788318335" />
+>>>>>>> Stashed changes
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
       <i c="31" l="1770889344792" />
@@ -928,7 +1131,11 @@
       <i c="1" l="1762419643563" />
     </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
+<<<<<<< Updated upstream
       <i c="2494" l="1772964425146" />
+=======
+      <i c="3028" l="1772798364957" />
+>>>>>>> Stashed changes
     </e>
     <e n="com.intellij.openapi.wm.impl.ToolWindowImpl$ToggleContentUiTypeAction">
       <i c="2" l="1763731963976" />
@@ -939,6 +1146,12 @@
     <e n="com.intellij.openapi.wm.impl.welcomeScreen.WelcomeScreenComponentFactory$4">
       <i c="1" l="1764765745754" />
     </e>
+<<<<<<< Updated upstream
+=======
+    <e n="com.intellij.platform.lvcs.impl.ui.ActivityViewKt$dumbAwareAction$1">
+      <i c="2" l="1772781631270" />
+    </e>
+>>>>>>> Stashed changes
     <e n="com.intellij.refactoring.suggested.RefactoringAvailableGutterIconRenderer$getClickAction$1">
       <i c="1" l="1765979068546" />
     </e>
@@ -946,13 +1159,21 @@
       <i c="107" l="1768395317125" />
     </e>
     <e n="com.intellij.terminal.frontend.action.SendShortcutToTerminalAction">
+<<<<<<< Updated upstream
       <i c="4171" l="1772631561912" />
+=======
+      <i c="78" l="1772798405380" />
+>>>>>>> Stashed changes
     </e>
     <e n="com.intellij.toolWindow.ShowMoreToolWindowsAction">
       <i c="7" l="1770560394502" />
     </e>
     <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
+<<<<<<< Updated upstream
       <i c="3668" l="1772964802821" />
+=======
+      <i c="4444" l="1773123192861" />
+>>>>>>> Stashed changes
     </e>
     <e n="com.intellij.toolWindow.ToolWindowHeader$ShowOptionsAction">
       <i c="21" l="1772482835027" />
@@ -986,6 +1207,9 @@
     </e>
     <e n="editRunConfigurations">
       <i c="15" l="1770366299116" />
+    </e>
+    <e n="mobi.hsz.idea.gitignore.actions.NewFileGroupAction$3$1">
+      <i c="1" l="1772789477691" />
     </e>
     <e n="org.jetbrains.android.AndroidAnnotatorUtil$ColorRenderer$1">
       <i c="1" l="1770797956051" />

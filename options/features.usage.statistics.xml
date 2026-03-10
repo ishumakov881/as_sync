@@ -8,7 +8,11 @@
     <feature id="editing.completion.finishBySmartEnter" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="navigation.popup.symbol" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="switcher" count="0" last-shown="0" last-used="0" shown-count="0" />
+<<<<<<< Updated upstream
     <feature id="editing.completion.replace" count="4" last-shown="1772964968248" last-used="1770381324717" shown-count="2" />
+=======
+    <feature id="editing.completion.replace" count="3" last-shown="1772795552739" last-used="1768402101069" shown-count="42285" />
+>>>>>>> Stashed changes
     <feature id="codeassists.complete.statement" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="vcs.show.quick.list" count="1" last-shown="0" last-used="1770579809876" shown-count="0" />
     <feature id="editing.completion.smarttype.casting" count="0" last-shown="0" last-used="0" shown-count="0" />
@@ -24,12 +28,18 @@
     <feature id="editing.copy.line" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="navigation.find.in.files" count="3" last-shown="0" last-used="1770570208468" shown-count="0" />
     <feature id="editing.completion.finishByExclamation" count="0" last-shown="0" last-used="0" shown-count="0" />
+<<<<<<< Updated upstream
     <feature id="ui.hide.tool.window" count="1" last-shown="0" last-used="1772964802828" shown-count="0" />
     <feature id="navigation.find.replace.in.files.toggle" count="25" last-shown="0" last-used="1772608077979" shown-count="0" />
+=======
+    <feature id="ui.hide.tool.window" count="4444" last-shown="0" last-used="1773123192932" shown-count="0" />
+    <feature id="navigation.find.replace.in.files.toggle" count="15" last-shown="0" last-used="1771418939553" shown-count="0" />
+>>>>>>> Stashed changes
     <feature id="move.element.left.right" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="jar.diff" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="intentions.check.regexp" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="profiler.open.snapshot" count="0" last-shown="0" last-used="0" shown-count="0" />
+<<<<<<< Updated upstream
     <feature id="codeassists.comment.line" count="1398" last-shown="0" last-used="1772624915944" shown-count="0" />
     <feature id="editing.completion.second.smarttype.chain" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="editing.completion.second.smarttype.toar" count="0" last-shown="0" last-used="0" shown-count="0" />
@@ -47,6 +57,25 @@
     <feature id="navigation.recent.locations" count="6" last-shown="0" last-used="1768311933113" shown-count="0" />
     <feature id="editing.select.word" count="1" last-shown="0" last-used="1767085904620" shown-count="0" />
     <feature id="ui.close.other.editors" count="503" last-shown="0" last-used="1772627914951" shown-count="0" />
+=======
+    <feature id="codeassists.comment.line" count="1569" last-shown="0" last-used="1772781888940" shown-count="0" />
+    <feature id="editing.completion.second.smarttype.chain" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.completion.second.smarttype.toar" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="SearchEverywhere" count="888" last-shown="0" last-used="1772798040096" shown-count="0" />
+    <feature id="editor.delete.line" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="navigation.inheritance.hierarchy" count="2" last-shown="0" last-used="1772018027261" shown-count="0" />
+    <feature id="editing.duplicate" count="348" last-shown="0" last-used="1772789010427" shown-count="0" />
+    <feature id="editing.copy.reference" count="9" last-shown="0" last-used="1770895940411" shown-count="0" />
+    <feature id="codeassists.highlight.throws" count="33" last-shown="0" last-used="1767690592928" shown-count="0" />
+    <feature id="navigation.find" count="888" last-shown="0" last-used="1772202576857" shown-count="0" />
+    <feature id="codeassists.quickdefinition" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.completion.basic" count="8065" last-shown="0" last-used="1772795555692" shown-count="0" />
+    <feature id="editing.completion.postfix" count="7" last-shown="0" last-used="1770122577948" shown-count="0" />
+    <feature id="dir.diff" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="navigation.recent.locations" count="8" last-shown="0" last-used="1771252168687" shown-count="0" />
+    <feature id="editing.select.word" count="1" last-shown="0" last-used="1767085904626" shown-count="0" />
+    <feature id="ui.close.other.editors" count="617" last-shown="0" last-used="1772789341489" shown-count="0" />
+>>>>>>> Stashed changes
     <feature id="debugger.evaluate.expression" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="codeassists.highlight.usages" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="codeassists.highlight.implements" count="0" last-shown="0" last-used="0" shown-count="0" />
@@ -59,6 +88,7 @@
     <feature id="intentions.edit.regexp" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="codeassists.quickdefinition.lookup" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="navigation.find.usages" count="0" last-shown="0" last-used="0" shown-count="0" />
+<<<<<<< Updated upstream
     <feature id="editing.clipboard.history" count="3" last-shown="0" last-used="1770556562422" shown-count="0" />
     <feature id="editing.compare.editor.with.clipboard" count="1" last-shown="0" last-used="1763447974726" shown-count="0" />
     <feature id="refactoring.rename" count="317" last-shown="0" last-used="1772629846061" shown-count="0" />
@@ -70,6 +100,19 @@
     <feature id="vcs.show.local.history" count="386" last-shown="0" last-used="1772965319880" shown-count="0" />
     <feature id="editing.completion.variable.name" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="vcs.use.integration" count="162" last-shown="0" last-used="1772089763683" shown-count="0" />
+=======
+    <feature id="editing.clipboard.history" count="2" last-shown="0" last-used="1766585705949" shown-count="0" />
+    <feature id="editing.compare.editor.with.clipboard" count="1" last-shown="0" last-used="1763447974981" shown-count="0" />
+    <feature id="refactoring.rename" count="376" last-shown="0" last-used="1772788879698" shown-count="0" />
+    <feature id="navigation.popup.action" count="1" last-shown="0" last-used="1762336478948" shown-count="0" />
+    <feature id="refactoring.show.quick.list" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.completion.cancelByControlArrows" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="find.recent.search" count="163" last-shown="0" last-used="1772026841097" shown-count="0" />
+    <feature id="navigation.goto.inspection" count="1" last-shown="0" last-used="1765443628840" shown-count="0" />
+    <feature id="vcs.show.local.history" count="523" last-shown="0" last-used="1772797097359" shown-count="0" />
+    <feature id="editing.completion.variable.name" count="9" last-shown="0" last-used="1763474391750" shown-count="0" />
+    <feature id="vcs.use.integration" count="187" last-shown="0" last-used="1772117245443" shown-count="0" />
+>>>>>>> Stashed changes
     <feature id="navigation.popup.file" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="codeassists.overrideimplement" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="ui.close.all.editors" count="62" last-shown="0" last-used="1770656385490" shown-count="0" />
@@ -78,21 +121,35 @@
     <feature id="refactoring.extractMethod" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="codeassists.javadoc.external" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="codeassists.surroundwith.expression" count="0" last-shown="0" last-used="0" shown-count="0" />
+<<<<<<< Updated upstream
     <feature id="codeassists.generate.code" count="15" last-shown="0" last-used="1767686895895" shown-count="0" />
     <feature id="navigation.goto.declaration" count="3387" last-shown="0" last-used="1772629935565" shown-count="0" />
     <feature id="editing.completion.finishByDotEtc" count="0" last-shown="0" last-used="0" shown-count="0" />
+=======
+    <feature id="codeassists.generate.code" count="22" last-shown="0" last-used="1772011034980" shown-count="0" />
+    <feature id="navigation.goto.declaration" count="4264" last-shown="0" last-used="1772797687218" shown-count="0" />
+    <feature id="editing.completion.finishByDotEtc" count="16" last-shown="0" last-used="1771940710380" shown-count="0" />
+>>>>>>> Stashed changes
     <feature id="ui.open.project.tool.window" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="editing.join.lines" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="navigation.goto.implementation" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="debugger.breakpoint.non.suspending" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="editing.completion.finishByCtrlDot" count="0" last-shown="0" last-used="0" shown-count="0" />
+<<<<<<< Updated upstream
     <feature id="codeassists.context.actions" count="860" last-shown="0" last-used="1772618167159" shown-count="0" />
+=======
+    <feature id="codeassists.context.actions" count="1222" last-shown="0" last-used="1772797060812" shown-count="0" />
+>>>>>>> Stashed changes
     <feature id="navigation.select.in" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="editing.completion.global.member.name" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="intentions.fix.javadoc" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="ui.tree.speedsearch" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="ui.horizontal.scrolling" count="0" last-shown="0" last-used="0" shown-count="0" />
+<<<<<<< Updated upstream
     <feature id="navigation.replace" count="204" last-shown="0" last-used="1772618226330" shown-count="0" />
+=======
+    <feature id="navigation.replace" count="302" last-shown="0" last-used="1772786416733" shown-count="0" />
+>>>>>>> Stashed changes
     <feature id="refactoring.copyClass" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="codeassists.highlight.return" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="ant.quickfix.CreateProperty" count="0" last-shown="0" last-used="0" shown-count="0" />
@@ -108,7 +165,11 @@
     <feature id="editing.add.carets.using.double.ctrl" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="codeassists.quickjavadoc.lookup" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="ui.scheme.quickswitch" count="0" last-shown="0" last-used="0" shown-count="0" />
+<<<<<<< Updated upstream
     <feature id="navigation.replace.in.files" count="2724" last-shown="0" last-used="1772630794572" shown-count="0" />
+=======
+    <feature id="navigation.replace.in.files" count="3691" last-shown="0" last-used="1772797501483" shown-count="0" />
+>>>>>>> Stashed changes
     <feature id="navigation.popup.file.structure" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="ant.quickfix.CreateTarget" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="codeassists.quickjavadoc.ctrln" count="0" last-shown="0" last-used="0" shown-count="0" />
@@ -117,7 +178,23 @@
     <feature id="editing.move.statement.up.down" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="editing.completion.second.basic" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="editing.completion.changeSorting" count="0" last-shown="0" last-used="0" shown-count="0" />
+<<<<<<< Updated upstream
     <completionStatsTag />
     <fixesStatsTag />
+=======
+    <completionStatsTag>
+      <option name="sparedCharacters" value="101682" />
+      <option name="invocations" value="6468" />
+      <option name="startDate" value="1742850000000" />
+      <option name="dayCount" value="114" />
+      <option name="lastDate" value="1772744400000" />
+    </completionStatsTag>
+    <fixesStatsTag>
+      <option name="invocations" value="3701" />
+      <option name="startDate" value="1742850000000" />
+      <option name="dayCount" value="118" />
+      <option name="lastDate" value="1772744400000" />
+    </fixesStatsTag>
+>>>>>>> Stashed changes
   </component>
 </application>
