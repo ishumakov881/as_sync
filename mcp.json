@@ -1,8 +1,8 @@
 {
-  "mcpServers": {
+  "mcpServers00": {
     "Figma Dev Mode MCP": {
       "httpUrl": "https://mcp.figma.com/mcp",
-"123":"123"
+"123":"12345"
     }
   }
 }

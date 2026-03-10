@@ -38,7 +38,7 @@
       </component>
       <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "settings.editor.selected.configurable": "com.android.studio.ml.McpConfigurable"
+    "settings.editor.selected.configurable": "studioLabs"
   }
 }]]></component>
       <component name="WindowStateProjectService">
@@ -46,9 +46,10 @@
           <screen x="0" y="0" width="1920" height="1050" />
         </state>
         <state x="552" y="154" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1050" timestamp="1766475173381" />
-        <state x="455" y="150" key="SettingsEditor" timestamp="1772699536736">
-          <screen x="0" y="0" width="1920" height="1050" />
+        <state x="271" y="12" key="SettingsEditor" timestamp="1773051340206">
+          <screen x="0" y="0" width="1280" height="752" />
         </state>
+        <state x="271" y="12" key="SettingsEditor/0.0.1280.752" timestamp="1773051340206" />
         <state x="455" y="150" key="SettingsEditor/0.0.1920.1050" timestamp="1772699536736" />
       </component>
     </defaultProject>

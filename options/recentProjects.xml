@@ -320,22 +320,6 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="C:/SYNCED/Grimoire">
-          <value>
-            <RecentProjectMetaInfo frameTitle="Grimoire – CodegenViewModel.kt [Grimoire.composeApp.commonMain]" projectWorkspaceId="39DnPB3seLdasgToS6yGZa23RUd">
-              <option name="activationTimestamp" value="1772089789148" />
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="AI-253.29346.138.2531.14876573" />
-              <option name="buildTimestamp" value="1770882660000" />
-              <option name="colorInfo">
-                <RecentProjectColorInfo associatedIndex="8" />
-              </option>
-              <frame x="-10" y="68" width="2520" height="1430" />
-              <option name="productionCode" value="AI" />
-              <option name="projectOpenTimestamp" value="1772088477583" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
         <entry key="$USER_HOME$/Desktop/ap/ap001">
           <value>
             <RecentProjectMetaInfo frameTitle="ap001 – gradle-wrapper.properties [CaptivePortalAutologin]" projectWorkspaceId="3ADUEelLuuTJgWK2fYbXBpdnHgU">
@@ -418,7 +402,7 @@
         </entry>
         <entry key="$APPLICATION_CONFIG_DIR$">
           <value>
-            <RecentProjectMetaInfo frameTitle="AndroidStudio2025.3.2" opened="true" projectWorkspaceId="3AesFoNXHfVeBph12jecKoXps5F">
+            <RecentProjectMetaInfo frameTitle="AndroidStudio2025.3.2 – .gitignore [AndroidStudio2025.3.2]" projectWorkspaceId="3AesFoNXHfVeBph12jecKoXps5F">
               <option name="activationTimestamp" value="1772965487590" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="AI-253.30387.90.2532.14935130" />
@@ -426,15 +410,47 @@
               <option name="colorInfo">
                 <RecentProjectColorInfo associatedIndex="1" />
               </option>
-              <frame x="242" y="102" width="1400" height="886" extendedState="6" />
+              <frame x="-14" y="-14" width="2586" height="1530" extendedState="6" />
               <option name="productionCode" value="AI" />
               <option name="projectOpenTimestamp" value="1772964366764" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
+        <entry key="C:/SYNCED/Grimoire">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Grimoire – VectorConverterScreen.kt [Grimoire.composeApp.commonMain]" projectWorkspaceId="39DnPB3seLdasgToS6yGZa23RUd">
+              <option name="activationTimestamp" value="1773069042825" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-253.30387.90.2532.14935130" />
+              <option name="buildTimestamp" value="1772001660000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="8" />
+              </option>
+              <frame x="-10" y="68" width="2520" height="1430" extendedState="1" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1773066869831" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:/GEMINI/lk0_ai/jp_figma">
+          <value>
+            <RecentProjectMetaInfo frameTitle="jpFigma – PaymentMethodComponents.kt [jpFigma.app.main]" projectWorkspaceId="3AQTR5uEHSZIhbPASIwwE30xp4N">
+              <option name="activationTimestamp" value="1773124260235" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-253.30387.90.2532.14935130" />
+              <option name="buildTimestamp" value="1772001660000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="2" />
+              </option>
+              <frame x="20" y="40" width="2520" height="1424" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1773072512814" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
       </map>
     </option>
-    <option name="lastOpenedProject" value="$APPLICATION_CONFIG_DIR$" />
+    <option name="lastOpenedProject" value="C:/GEMINI/lk0_ai/jp_figma" />
     <option name="lastProjectLocation" value="$USER_HOME$/Desktop/figma" />
   </component>
 </application>
