@@ -1,64 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="favorites">
-      <list>
-        <option value="package:mine AuthToken:" />
-        <option value="package:mine FreeWifiMapScreen" />
-        <option value="package:mine cwvc" />
-        <option value="package:mine @@@ restoreSeekPosition" />
-        <option value="package:mine Unexpected" />
-        <option value="package:mine No definition found for type" />
-      </list>
-    </option>
-<<<<<<< HEAD
-    <option name="mostRecentlyUsed" value="package:mine" />
+    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine" />
-        <option value="package:mine CP_DEBUG" />
+        <option value="canScrollUpFromDom" />
         <option value="is:error " />
-        <option value="fcm" />
-        <option value="package:mine detail" />
         <option value="package:mine " />
-        <option value="exce" />
-        <option value="www:" />
-        <option value="package:mine www" />
-        <option value="package:mine is:error Exception" />
-        <option value="package:mine git status" />
-        <option value="package:mine is:error " />
-        <option value="package:mine err" />
-        <option value="package:mine wwwa" />
-        <option value="@@@@@@@@@@@@@" />
-        <option value="package:mine WWWW " />
-        <option value="package:mine isn" />
-        <option value="package:mine isNetworkAvailable" />
-        <option value="package:mine &lt;onPageStarted&gt;" />
-        <option value="package:mine isErrorOnMainPage" />
-=======
-    <option name="mostRecentlyUsed" value="[letter]" />
-    <option name="nonFavorites">
-      <list>
-        <option value="package:mine " />
-        <option value="[letter]" />
-        <option value="device/stats" />
-        <option value="MSG: Received message from" />
-        <option value="fcm" />
-        <option value="CP_DEBUG" />
-        <option value="package:mine CP_DEBUG" />
-        <option value="package:mine Resource content" />
-        <option value="package:mine" />
-        <option value="package:mine fc" />
-        <option value="package:mine @@w@@" />
-        <option value="package:mine @@" />
-        <option value="package:mine sss" />
-        <option value="@@@sss@@@" />
-        <option value="package:mine @@@sss@@@" />
-        <option value="package:mine ping" />
-        <option value="package:mine &lt;handleErrorCode&gt;" />
-        <option value="package:mine @@@WWW@@@" />
-        <option value="package:mine @@WW@@" />
-        <option value="package:mine @@@" />
->>>>>>> 5ceaf3d439fc7ee901cfc7800b579948759094d9
       </list>
     </option>
   </component>
