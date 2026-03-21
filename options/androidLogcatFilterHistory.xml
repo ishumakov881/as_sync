@@ -9,13 +9,19 @@
         <option value="package:mine No definition found for type" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine wwwa" />
+    <option name="mostRecentlyUsed" value="package:mine fcm" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine fcm" />
+        <option value="package:mine /stat" />
+        <option value="package:mine" />
+        <option value="package:mine stats" />
+        <option value="package:mine device/stats" />
+        <option value="package:mine MSG: Received message from" />
+        <option value="package:mine " />
+        <option value="package:mine fir" />
         <option value="package:mine wwwa" />
         <option value="@@@@@@@@@@@@@" />
-        <option value="package:mine " />
-        <option value="package:mine" />
         <option value="package:mine WWWW " />
         <option value="package:mine isn" />
         <option value="package:mine isNetworkAvailable" />
@@ -26,12 +32,6 @@
         <option value="package:mine @@@" />
         <option value="package:mine @@@CACHE: URL exists in cache" />
         <option value="package:mine @@@@@@@@@" />
-        <option value="package:mine erroro" />
-        <option value="package:mine errorOnTheSamePage" />
-        <option value="is:error " />
-        <option value="token" />
-        <option value="Syncing" />
-        <option value="playFromHistory" />
       </list>
     </option>
   </component>

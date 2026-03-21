@@ -24,15 +24,21 @@
         <entry key="C:\android\LDSOnline" value="true" />
         <entry key="C:\android\LdsOnlineWebView" value="true" />
         <entry key="C:\android\QuickDeal" value="true" />
+        <entry key="C:\android\anonymouschatroulette" value="true" />
         <entry key="C:\android\cinemakmp" value="true" />
         <entry key="C:\android\cinemakmp\Example\bv" value="true" />
         <entry key="C:\android\cinemakmp\Example\ttloader" value="true" />
         <entry key="C:\android\cinemakmp\tv-samples\JetStreamCompose" value="true" />
         <entry key="C:\android\ldsonline" value="true" />
+        <entry key="C:\src\Synced\Grimoire" value="true" />
+        <entry key="C:\src\Synced\KotlinCodeGen" value="true" />
+        <entry key="C:\src\Synced\KotlinCodeGen\Grimoire" value="true" />
+        <entry key="C:\src\Synced\ldsonline" value="true" />
         <entry key="F:\TVTest" value="true" />
         <entry key="F:\androidtv\TV_programguide\android-tv-program-guide" value="true" />
         <entry key="F:\androidtv\TV_programguide\programguide" value="true" />
         <entry key="G:\source\linphone-android-master" value="true" />
+        <entry key="G:\source\walhalla\MtProtoList\mtproto" value="true" />
       </map>
     </option>
   </component>
@@ -43,6 +49,7 @@
         <option value="C:\android" />
         <option value="C:\Users\reznichenko.i\Desktop" />
         <option value="G:\source" />
+        <option value="C:\src\Synced" />
       </list>
     </option>
   </component>

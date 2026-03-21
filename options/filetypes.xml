@@ -3,6 +3,12 @@
     <extensionMap>
       <mapping ext="" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="csv" approved="true" type="CSV/TSV" />
+      <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
+      <removed_mapping ext="postman_collection" approved="true" type="JSON" />
+      <removed_mapping ext="postman_collection.json" approved="true" type="JSON" />
+      <removed_mapping ext="postman_environment" approved="true" type="JSON" />
+      <removed_mapping ext="postman_environment.json" approved="true" type="JSON" />
       <removed_mapping ext="psd" approved="true" type="Image" />
     </extensionMap>
   </component>
