@@ -1,5 +1,20 @@
 <application>
   <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
+    <group value="Git.MainMenu" is_group="true" forse_popup="false" action_type="-1" position="1">
+      <path value="root" />
+      <path value="Main Menu" />
+      <path value="Git" />
+    </group>
+    <group value="Vcs.MainMenu" is_group="true" forse_popup="false" action_type="-1" position="0">
+      <path value="root" />
+      <path value="Main Menu" />
+      <path value="Git" />
+    </group>
+    <group value="Tool_Git_Git add and commit" is_action="true" action_type="1" position="0">
+      <path value="root" />
+      <path value="Main Menu" />
+      <path value="Git" />
+    </group>
     <group seperator="true" action_type="1" position="7">
       <path value="root" />
       <path value="Main Toolbar" />
@@ -23,6 +38,10 @@
       <path value="Main Menu" />
     </group>
     <group value="Tools_Windows" is_group="true" forse_popup="true" action_type="1" position="15">
+      <path value="root" />
+      <path value="Main Menu" />
+    </group>
+    <group value="Tools_Git" is_group="true" forse_popup="true" action_type="1" position="16">
       <path value="root" />
       <path value="Main Menu" />
     </group>
