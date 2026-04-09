@@ -1,11 +1,24 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="package:mine @@@@WWW" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine is:error " />
+        <option value="package:mine @@@@WWW" />
+        <option value="package:mine @@@@WWW " />
+        <option value="package:mine @@@canScrollUpFromDom" />
+        <option value="package:mine" />
+        <option value="package:mine @@@" />
+        <option value="package:mine @@@ handleUrl" />
+        <option value="package:mine handl" />
+        <option value="@@@@@@@@@" />
+        <option value="@@@@@@" />
+        <option value="package:mine " />
+        <option value="@@@ ACCOUNT: " />
+        <option value="login" />
+        <option value="serial" />
         <option value="canScrollUpFromDom" />
         <option value="is:error " />
-        <option value="package:mine " />
       </list>
     </option>
   </component>

@@ -2,4 +2,13 @@
   <component name="ExternalDiffSettings">
     <option name="MIGRATE_OLD_SETTINGS" value="true" />
   </component>
+  <component name="TextDiffSettings">
+    <option name="PLACES_MAP">
+      <entry key="ChangesTreeDiffPreview">
+        <PlaceSettings>
+          <option name="HIGHLIGHT_POLICY" value="BY_LINE" />
+        </PlaceSettings>
+      </entry>
+    </option>
+  </component>
 </application>
