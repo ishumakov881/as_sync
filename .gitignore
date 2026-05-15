@@ -25,9 +25,6 @@
 /user.token
 /studio64.exe.jdk
 /AndroidStudio2025.1.3.iml
-<<<<<<< HEAD
-/options/
-=======
 /options/jdk.table.xml
 /options/kotlin-onboarding.xml
 /options/window.state.xml
@@ -46,4 +43,13 @@
 /options/ManagedVirtualDeviceCatalogService.xml
 /options/androidStudioFirstRun.xml
 /options/features.usage.statistics.xml
->>>>>>> 18357bb779f134398f625ab7f67c75abd4e27000
+/options/ManagedVirtualDeviceCatalogService.xml
+/options/androidLogcatFilterHistory.xml
+/options/androidStudioFirstRun.xml
+/options/contributorSummary.xml
+/options/file.template.settings.xml
+/options/filetypes.xml
+/options/ide.general.xml
+/options/jdk.table.xml
+/options/studiobot.xml
+/options/window.state.xml

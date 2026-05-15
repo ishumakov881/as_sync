@@ -192,17 +192,57 @@
     <jdk version="2">
       <name value="Android API 36.0, extension level 17 Platform" />
       <type value="Android SDK" />
+<<<<<<< HEAD
       <homePath value="C:/android/sdk" />
       <roots>
         <annotationsPath>
           <root type="composite">
             <root url="jar://C:/android/sdk/platforms/android-36/data/annotations.zip!/" type="simple" />
+=======
+      <homePath value="C:/Android/Sdk" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://C:/Android/Sdk/platforms/android-36/data/annotations.zip!/" type="simple" />
+>>>>>>> a2fa15ab32332911b2d6d88220ff28ff55ab4085
           </root>
         </annotationsPath>
         <classPath>
           <root type="composite">
+<<<<<<< HEAD
             <root url="jar://C:/android/sdk/platforms/android-36/android.jar!/" type="simple" />
             <root url="file://C:/android/sdk/platforms/android-36/data/res" type="simple" />
+=======
+            <root url="jar://C:/Android/Sdk/platforms/android-36/android.jar!/" type="simple" />
+            <root url="file://C:/Android/Sdk/platforms/android-36/data/res" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite">
+            <root url="http://developer.android.com/reference/" type="simple" />
+          </root>
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional sdk="android-36" />
+    </jdk>
+    <jdk version="2">
+      <name value="Android API 36.1, extension level 20 Platform" />
+      <type value="Android SDK" />
+      <homePath value="C:/Android/Sdk" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://C:/Android/Sdk/platforms/android-36.1/data/annotations.zip!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jar://C:/Android/Sdk/platforms/android-36.1/android.jar!/" type="simple" />
+            <root url="file://C:/Android/Sdk/platforms/android-36.1/data/res" type="simple" />
+>>>>>>> a2fa15ab32332911b2d6d88220ff28ff55ab4085
           </root>
         </classPath>
         <javadocPath>
@@ -210,16 +250,26 @@
         </javadocPath>
         <sourcePath>
           <root type="composite">
+<<<<<<< HEAD
             <root url="file://C:/android/sdk/sources/android-36" type="simple" />
           </root>
         </sourcePath>
       </roots>
       <additional sdk="android-36" />
+=======
+            <root url="file://C:/Android/Sdk/sources/android-36.1" type="simple" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional sdk="android-36.1" />
+>>>>>>> a2fa15ab32332911b2d6d88220ff28ff55ab4085
     </jdk>
     <jdk version="2">
       <name value="jbr-21" />
       <type value="JavaSDK" />
       <version value="JetBrains Runtime 21.0.10" />
+<<<<<<< HEAD
+=======
       <homePath value="$APPLICATION_HOME_DIR$/jbr" />
       <roots>
         <annotationsPath>
@@ -299,6 +349,90 @@
       </roots>
     </jdk>
     <jdk version="2">
+      <name value="jbr-21 (2)" />
+      <type value="JavaSDK" />
+      <version value="JetBrains Runtime 21.0.9" />
+>>>>>>> a2fa15ab32332911b2d6d88220ff28ff55ab4085
+      <homePath value="$APPLICATION_HOME_DIR$/jbr" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://$APPLICATION_HOME_DIR$/plugins/java/lib/resources/jdkAnnotations.jar!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/java.base" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/java.compiler" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/java.datatransfer" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/java.desktop" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/java.instrument" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/java.logging" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/java.management" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/java.management.rmi" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/java.naming" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/java.net.http" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/java.prefs" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/java.rmi" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/java.scripting" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/java.se" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/java.security.jgss" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/java.security.sasl" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/java.smartcardio" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/java.sql" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/java.sql.rowset" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/java.transaction.xa" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/java.xml" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/java.xml.crypto" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.accessibility" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.attach" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.charsets" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.compiler" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.crypto.cryptoki" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.crypto.ec" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.dynalink" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.hotspot.agent" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.httpserver" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.internal.ed" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.internal.jvmstat" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.internal.le" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.internal.opt" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.internal.vm.ci" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.jartool" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.javadoc" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.jcmd" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.jdeps" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.jdi" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.jdwp.agent" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.jfr" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.jlink" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.jsobject" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.localedata" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.management" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.management.agent" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.management.jfr" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.naming.dns" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.naming.rmi" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.net" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.sctp" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.security.auth" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.security.jgss" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.unsupported" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.unsupported.desktop" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.xml.dom" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.zipfs" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+    </jdk>
+    <jdk version="2">
+<<<<<<< HEAD
       <name value="Kotlin SDK" />
       <type value="KotlinSDK" />
       <homePath value="/" />
@@ -325,24 +459,143 @@
         <annotationsPath>
           <root type="composite">
             <root url="jar://$APPLICATION_HOME_DIR$/plugins/android/resources/androidAnnotations.jar!/" type="simple" />
+=======
+      <name value="jbr-21 (3)" />
+      <type value="JavaSDK" />
+      <version value="JetBrains Runtime 21.0.6" />
+      <homePath value="C:/Android/Android Studio/jbr" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://$APPLICATION_HOME_DIR$/plugins/java/lib/resources/jdkAnnotations.jar!/" type="simple" />
+>>>>>>> a2fa15ab32332911b2d6d88220ff28ff55ab4085
           </root>
         </annotationsPath>
         <classPath>
           <root type="composite">
+<<<<<<< HEAD
             <root url="jar://C:/android/sdk/platforms/android-18/android.jar!/" type="simple" />
             <root url="file://C:/android/sdk/platforms/android-18/data/res" type="simple" />
+=======
+            <root url="jrt://C:/Android/Android Studio/jbr!/java.base" type="simple" />
+            <root url="jrt://C:/Android/Android Studio/jbr!/java.compiler" type="simple" />
+            <root url="jrt://C:/Android/Android Studio/jbr!/java.datatransfer" type="simple" />
+            <root url="jrt://C:/Android/Android Studio/jbr!/java.desktop" type="simple" />
+            <root url="jrt://C:/Android/Android Studio/jbr!/java.instrument" type="simple" />
+            <root url="jrt://C:/Android/Android Studio/jbr!/java.logging" type="simple" />
+            <root url="jrt://C:/Android/Android Studio/jbr!/java.management" type="simple" />
+            <root url="jrt://C:/Android/Android Studio/jbr!/java.management.rmi" type="simple" />
+            <root url="jrt://C:/Android/Android Studio/jbr!/java.naming" type="simple" />
+            <root url="jrt://C:/Android/Android Studio/jbr!/java.net.http" type="simple" />
+            <root url="jrt://C:/Android/Android Studio/jbr!/java.prefs" type="simple" />
+            <root url="jrt://C:/Android/Android Studio/jbr!/java.rmi" type="simple" />
+            <root url="jrt://C:/Android/Android Studio/jbr!/java.scripting" type="simple" />
+            <root url="jrt://C:/Android/Android Studio/jbr!/java.se" type="simple" />
+            <root url="jrt://C:/Android/Android Studio/jbr!/java.security.jgss" type="simple" />
+            <root url="jrt://C:/Android/Android Studio/jbr!/java.security.sasl" type="simple" />
+            <root url="jrt://C:/Android/Android Studio/jbr!/java.smartcardio" type="simple" />
+            <root url="jrt://C:/Android/Android Studio/jbr!/java.sql" type="simple" />
+            <root url="jrt://C:/Android/Android Studio/jbr!/java.sql.rowset" type="simple" />
+            <root url="jrt://C:/Android/Android Studio/jbr!/java.transaction.xa" type="simple" />
+            <root url="jrt://C:/Android/Android Studio/jbr!/java.xml" type="simple" />
+            <root url="jrt://C:/Android/Android Studio/jbr!/java.xml.crypto" type="simple" />
+            <root url="jrt://C:/Android/Android Studio/jbr!/jdk.accessibility" type="simple" />
+            <root url="jrt://C:/Android/Android Studio/jbr!/jdk.attach" type="simple" />
+            <root url="jrt://C:/Android/Android Studio/jbr!/jdk.charsets" type="simple" />
+            <root url="jrt://C:/Android/Android Studio/jbr!/jdk.compiler" type="simple" />
+            <root url="jrt://C:/Android/Android Studio/jbr!/jdk.crypto.cryptoki" type="simple" />
+            <root url="jrt://C:/Android/Android Studio/jbr!/jdk.crypto.ec" type="simple" />
+            <root url="jrt://C:/Android/Android Studio/jbr!/jdk.dynalink" type="simple" />
+            <root url="jrt://C:/Android/Android Studio/jbr!/jdk.hotspot.agent" type="simple" />
+            <root url="jrt://C:/Android/Android Studio/jbr!/jdk.httpserver" type="simple" />
+            <root url="jrt://C:/Android/Android Studio/jbr!/jdk.internal.ed" type="simple" />
+            <root url="jrt://C:/Android/Android Studio/jbr!/jdk.internal.jvmstat" type="simple" />
+            <root url="jrt://C:/Android/Android Studio/jbr!/jdk.internal.le" type="simple" />
+            <root url="jrt://C:/Android/Android Studio/jbr!/jdk.internal.opt" type="simple" />
+            <root url="jrt://C:/Android/Android Studio/jbr!/jdk.internal.vm.ci" type="simple" />
+            <root url="jrt://C:/Android/Android Studio/jbr!/jdk.jartool" type="simple" />
+            <root url="jrt://C:/Android/Android Studio/jbr!/jdk.javadoc" type="simple" />
+            <root url="jrt://C:/Android/Android Studio/jbr!/jdk.jcmd" type="simple" />
+            <root url="jrt://C:/Android/Android Studio/jbr!/jdk.jdeps" type="simple" />
+            <root url="jrt://C:/Android/Android Studio/jbr!/jdk.jdi" type="simple" />
+            <root url="jrt://C:/Android/Android Studio/jbr!/jdk.jdwp.agent" type="simple" />
+            <root url="jrt://C:/Android/Android Studio/jbr!/jdk.jfr" type="simple" />
+            <root url="jrt://C:/Android/Android Studio/jbr!/jdk.jlink" type="simple" />
+            <root url="jrt://C:/Android/Android Studio/jbr!/jdk.jsobject" type="simple" />
+            <root url="jrt://C:/Android/Android Studio/jbr!/jdk.localedata" type="simple" />
+            <root url="jrt://C:/Android/Android Studio/jbr!/jdk.management" type="simple" />
+            <root url="jrt://C:/Android/Android Studio/jbr!/jdk.management.agent" type="simple" />
+            <root url="jrt://C:/Android/Android Studio/jbr!/jdk.management.jfr" type="simple" />
+            <root url="jrt://C:/Android/Android Studio/jbr!/jdk.naming.dns" type="simple" />
+            <root url="jrt://C:/Android/Android Studio/jbr!/jdk.naming.rmi" type="simple" />
+            <root url="jrt://C:/Android/Android Studio/jbr!/jdk.net" type="simple" />
+            <root url="jrt://C:/Android/Android Studio/jbr!/jdk.sctp" type="simple" />
+            <root url="jrt://C:/Android/Android Studio/jbr!/jdk.security.auth" type="simple" />
+            <root url="jrt://C:/Android/Android Studio/jbr!/jdk.security.jgss" type="simple" />
+            <root url="jrt://C:/Android/Android Studio/jbr!/jdk.unsupported" type="simple" />
+            <root url="jrt://C:/Android/Android Studio/jbr!/jdk.unsupported.desktop" type="simple" />
+            <root url="jrt://C:/Android/Android Studio/jbr!/jdk.xml.dom" type="simple" />
+            <root url="jrt://C:/Android/Android Studio/jbr!/jdk.zipfs" type="simple" />
+>>>>>>> a2fa15ab32332911b2d6d88220ff28ff55ab4085
           </root>
         </classPath>
         <javadocPath>
-          <root type="composite">
-            <root url="http://developer.android.com/reference/" type="simple" />
-          </root>
+          <root type="composite" />
         </javadocPath>
         <sourcePath>
           <root type="composite" />
         </sourcePath>
       </roots>
+<<<<<<< HEAD
       <additional sdk="android-18" />
+=======
+    </jdk>
+    <jdk version="2">
+      <name value="Kotlin SDK" />
+      <type value="KotlinSDK" />
+      <homePath value="/" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite" />
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+    </jdk>
+    <jdk version="2">
+      <name value="Android API 35, extension level 13 Platform (2)" />
+      <type value="Android SDK" />
+      <homePath value="C:/Android/Sdk" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://C:/Android/Sdk/platforms/android-35/data/annotations.zip!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jar://C:/Android/Sdk/platforms/android-35/android.jar!/" type="simple" />
+            <root url="file://C:/Android/Sdk/platforms/android-35/data/res" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root url="file://C:/Android/Sdk/sources/android-35" type="simple" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional sdk="android-35" />
+>>>>>>> a2fa15ab32332911b2d6d88220ff28ff55ab4085
     </jdk>
     <jdk version="2">
       <name value="jbr-17" />
@@ -890,6 +1143,7 @@
       </roots>
     </jdk>
     <jdk version="2">
+<<<<<<< HEAD
       <name value="17" />
       <type value="JavaSDK" />
       <version value="Oracle OpenJDK 17.0.12" />
@@ -898,10 +1152,20 @@
         <annotationsPath>
           <root type="composite">
             <root url="jar://$APPLICATION_HOME_DIR$/plugins/java/lib/resources/jdkAnnotations.jar!/" type="simple" />
+=======
+      <name value="Android API 37.0, extension level 22 Platform" />
+      <type value="Android SDK" />
+      <homePath value="C:/Android/Sdk" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://C:/Android/Sdk/platforms/android-37.0/data/annotations.zip!/" type="simple" />
+>>>>>>> a2fa15ab32332911b2d6d88220ff28ff55ab4085
           </root>
         </annotationsPath>
         <classPath>
           <root type="composite">
+<<<<<<< HEAD
             <root url="jrt://C:/Program Files/Java/jdk-17!/java.base" type="simple" />
             <root url="jrt://C:/Program Files/Java/jdk-17!/java.compiler" type="simple" />
             <root url="jrt://C:/Program Files/Java/jdk-17!/java.datatransfer" type="simple" />
@@ -977,6 +1241,16 @@
         </classPath>
         <javadocPath>
           <root type="composite" />
+=======
+            <root url="jar://C:/Android/Sdk/platforms/android-37.0/android.jar!/" type="simple" />
+            <root url="file://C:/Android/Sdk/platforms/android-37.0/data/res" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite">
+            <root url="http://developer.android.com/reference/" type="simple" />
+          </root>
+>>>>>>> a2fa15ab32332911b2d6d88220ff28ff55ab4085
         </javadocPath>
         <sourcePath>
           <root type="composite">
@@ -1054,6 +1328,7 @@
           </root>
         </sourcePath>
       </roots>
+      <additional sdk="android-37.0" />
     </jdk>
     <jdk version="2">
       <name value="Android API 36.1, extension level 20 Platform" />

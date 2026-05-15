@@ -1,5 +1,14 @@
 <application>
   <component name="PromptTemplates">
+    <option name="builtInPromptOverrides">
+      <list>
+        <BuiltInPromptOverride>
+          <option name="groupId" value="rules" />
+          <option name="promptId" value="ide" />
+          <option name="text" value="Главное правило не удаляй мною закоментированный код, также не удаляй пустые строки" />
+        </BuiltInPromptOverride>
+      </list>
+    </option>
     <option name="examplesProvided" value="true" />
     <option name="prompts">
       <list>
