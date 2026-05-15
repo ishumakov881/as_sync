@@ -1,4 +1,4 @@
-<toolSet name="Git">
+<toolSet name="Git_">
   <tool name="Git add and commit" description="Git add and commit" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="false">
     <exec>
       <option name="COMMAND" value="cmd" />

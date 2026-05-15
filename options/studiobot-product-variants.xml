@@ -1,8 +1,17 @@
 <application>
   <component name="ProductVariantPersister">
-    <option name="entries">
+    <option name="userEntries">
       <map>
-        <entry key="alexvarboffin@gmail.com" value="Free" />
+        <entry key="alexvarboffin@gmail.com">
+          <value>
+            <UserEntryState>
+              <option name="tierId" value="free-tier" />
+              <option name="tierName" value="Limited" />
+              <option name="type" value="Consumer" />
+              <option name="upgradePath" value="This base tier comes with Android Studio, allowing you to explore how Gemini can enhance your development workflows.&#10;&#10;It is available to Google accounts without a Google One plan, and those with unqualified Google One plans.&#10;&#10;[Upgrade to a qualified Google AI plan](https://one.google.com/ai?g1_landing_page=75)↗ to get higher limits and access to larger models." />
+            </UserEntryState>
+          </value>
+        </entry>
       </map>
     </option>
   </component>

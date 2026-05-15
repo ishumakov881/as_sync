@@ -1,5 +1,11 @@
 <application>
   <component name="StudioBotSettings">
+    <option name="chatModelId">
+      <ModelIdState>
+        <option name="id" value="&lt;Default&gt;" />
+        <option name="providerName" value="AICode" />
+      </ModelIdState>
+    </option>
     <option name="contextSharingModeV2" value="AlwaysShare" />
     <option name="onboardedVersion" value="3" />
     <option name="queryHistory">

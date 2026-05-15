@@ -1,19 +1,8 @@
 <application>
   <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
-    <group value="Git.MainMenu" is_group="true" forse_popup="false" action_type="-1" position="1">
+    <group value="VcsGroups" is_group="true" forse_popup="false" action_type="-1" position="9">
       <path value="root" />
       <path value="Main Menu" />
-      <path value="Git" />
-    </group>
-    <group value="Vcs.MainMenu" is_group="true" forse_popup="false" action_type="-1" position="0">
-      <path value="root" />
-      <path value="Main Menu" />
-      <path value="Git" />
-    </group>
-    <group value="Tool_Git_Git add and commit" is_action="true" action_type="1" position="0">
-      <path value="root" />
-      <path value="Main Menu" />
-      <path value="Git" />
     </group>
     <group seperator="true" action_type="1" position="7">
       <path value="root" />
@@ -25,23 +14,23 @@
       <path value="Main Toolbar" />
       <path value="Right" />
     </group>
-    <group value="Tools_🟢 KMP 🟢" is_group="true" forse_popup="true" action_type="1" position="12">
+    <group value="Tools_🟢 KMP 🟢" is_group="true" forse_popup="true" action_type="1" position="11">
       <path value="root" />
       <path value="Main Menu" />
     </group>
-    <group value="Tools_🟢Gradle🟢" is_group="true" forse_popup="true" action_type="1" position="13">
+    <group value="Tools_🟢Gradle🟢" is_group="true" forse_popup="true" action_type="1" position="12">
       <path value="root" />
       <path value="Main Menu" />
     </group>
-    <group value="Tools_OpenAPI Generator" is_group="true" forse_popup="true" action_type="1" position="14">
+    <group value="Tools_OpenAPI Generator" is_group="true" forse_popup="true" action_type="1" position="13">
       <path value="root" />
       <path value="Main Menu" />
     </group>
-    <group value="Tools_Windows" is_group="true" forse_popup="true" action_type="1" position="15">
+    <group value="Tools_Windows" is_group="true" forse_popup="true" action_type="1" position="14">
       <path value="root" />
       <path value="Main Menu" />
     </group>
-    <group value="Tools_Git" is_group="true" forse_popup="true" action_type="1" position="16">
+    <group value="Tools_Git_" is_group="true" forse_popup="true" action_type="1" position="15">
       <path value="root" />
       <path value="Main Menu" />
     </group>
