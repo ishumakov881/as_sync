@@ -71,12 +71,12 @@
           </root>
         </classPath>
         <javadocPath>
-          <root type="composite">
-            <root url="http://developer.android.com/reference/" type="simple" />
-          </root>
+          <root type="composite" />
         </javadocPath>
         <sourcePath>
-          <root type="composite" />
+          <root type="composite">
+            <root url="file://C:/android/sdk/sources/android-31" type="simple" />
+          </root>
         </sourcePath>
       </roots>
       <additional sdk="android-31" />
@@ -98,12 +98,12 @@
           </root>
         </classPath>
         <javadocPath>
-          <root type="composite">
-            <root url="http://developer.android.com/reference/" type="simple" />
-          </root>
+          <root type="composite" />
         </javadocPath>
         <sourcePath>
-          <root type="composite" />
+          <root type="composite">
+            <root url="file://C:/android/sdk/sources/android-32" type="simple" />
+          </root>
         </sourcePath>
       </roots>
       <additional sdk="android-32" />
@@ -125,12 +125,12 @@
           </root>
         </classPath>
         <javadocPath>
-          <root type="composite">
-            <root url="http://developer.android.com/reference/" type="simple" />
-          </root>
+          <root type="composite" />
         </javadocPath>
         <sourcePath>
-          <root type="composite" />
+          <root type="composite">
+            <root url="file://C:/android/sdk/sources/android-33" type="simple" />
+          </root>
         </sourcePath>
       </roots>
       <additional sdk="android-33" />
@@ -152,12 +152,12 @@
           </root>
         </classPath>
         <javadocPath>
-          <root type="composite">
-            <root url="http://developer.android.com/reference/" type="simple" />
-          </root>
+          <root type="composite" />
         </javadocPath>
         <sourcePath>
-          <root type="composite" />
+          <root type="composite">
+            <root url="file://C:/android/sdk/sources/android-34" type="simple" />
+          </root>
         </sourcePath>
       </roots>
       <additional sdk="android-34" />
@@ -219,7 +219,7 @@
     <jdk version="2">
       <name value="jbr-21" />
       <type value="JavaSDK" />
-      <version value="JetBrains Runtime 21.0.8" />
+      <version value="JetBrains Runtime 21.0.10" />
       <homePath value="$APPLICATION_HOME_DIR$/jbr" />
       <roots>
         <annotationsPath>
@@ -1054,6 +1054,33 @@
           </root>
         </sourcePath>
       </roots>
+    </jdk>
+    <jdk version="2">
+      <name value="Android API 36.1, extension level 20 Platform" />
+      <type value="Android SDK" />
+      <homePath value="C:/android/sdk" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://C:/android/sdk/platforms/android-36.1/data/annotations.zip!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jar://C:/android/sdk/platforms/android-36.1/android.jar!/" type="simple" />
+            <root url="file://C:/android/sdk/platforms/android-36.1/data/res" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite">
+            <root url="http://developer.android.com/reference/" type="simple" />
+          </root>
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional sdk="android-36.1" />
     </jdk>
   </component>
 </application>

@@ -1,5 +1,12 @@
 <application>
   <component name="StudioBotSettings">
+    <option name="chatModelId">
+      <ModelIdState>
+        <option name="groupName" value="ollama" />
+        <option name="id" value="11434/deepseek-coder:6.7b" />
+        <option name="providerName" value="Local" />
+      </ModelIdState>
+    </option>
     <option name="contextSharingModeV2" value="AlwaysShare" />
     <option name="onboardedVersion" value="3" />
     <option name="queryHistory">

@@ -2,6 +2,13 @@
   <component name="Trusted.Paths">
     <option name="TRUSTED_PROJECT_PATHS">
       <map>
+        <entry key="C:\Users\combo\Desktop\AndroidBluetoothHIDDevice" value="true" />
+        <entry key="C:\Users\combo\Desktop\kmp_lk0" value="true" />
+        <entry key="C:\Users\combo\Desktop\mtproto\MtProtoList" value="true" />
+        <entry key="C:\Users\combo\Desktop\org.telegram.messenger_42759_src\Telegram" value="true" />
+        <entry key="C:\Users\combo\Desktop\org.telegram.messenger_42759_src\org.telegram.messenger_42759_src.tar.gz" value="true" />
+        <entry key="C:\Users\combo\Desktop\test\00" value="true" />
+        <entry key="C:\Users\combo\Desktop\test\01" value="true" />
         <entry key="C:\Users\reznichenko.i\AppData\Roaming\Google\AndroidStudio2025.1.3" value="true" />
         <entry key="C:\Users\reznichenko.i\AppData\Roaming\Google\AndroidStudio2025.1.4" value="true" />
         <entry key="C:\Users\reznichenko.i\Desktop\BonjourBrowser" value="true" />
@@ -21,6 +28,9 @@
         <entry key="C:\Users\reznichenko.i\Desktop\libvlc-android-samples" value="true" />
         <entry key="C:\Users\reznichenko.i\Desktop\linphone-android-master" value="true" />
         <entry key="C:\Users\reznichenko.i\Desktop\openeuicc" value="true" />
+        <entry key="C:\android\GEMINI\jpFigma_alexvarboffin" value="true" />
+        <entry key="C:\android\GEMINI\jpFigma_ishumakov" value="true" />
+        <entry key="C:\android\GEMINI\jpFigma_lazagne" value="true" />
         <entry key="C:\android\LDSOnline" value="true" />
         <entry key="C:\android\LdsOnlineWebView" value="true" />
         <entry key="C:\android\QuickDeal" value="true" />
@@ -34,6 +44,7 @@
         <entry key="C:\src\Synced\KotlinCodeGen" value="true" />
         <entry key="C:\src\Synced\KotlinCodeGen\Grimoire" value="true" />
         <entry key="C:\src\Synced\ldsonline" value="true" />
+        <entry key="C:\src\WebViewAdvear" value="true" />
         <entry key="F:\TVTest" value="true" />
         <entry key="F:\androidtv\TV_programguide\android-tv-program-guide" value="true" />
         <entry key="F:\androidtv\TV_programguide\programguide" value="true" />

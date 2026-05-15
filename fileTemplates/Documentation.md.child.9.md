@@ -1,38 +1,39 @@
-# 📱 Material 3 и оптимизация для ИИ
+Скрины:
+Скрины не принимают навигатор, а колбеком отстукивают наверх.
+Не писать все состояния скрина единым блоком кода, а разбивать на функции
+Пример:
+- Неправильно
+// Отображаем состояние загрузки
+        if (uiState.isLoading) {
+            Box(
+                modifier = Modifier.fillMaxSize(),
+                contentAlignment = Alignment.Center
+            ) {
+                CircularProgressIndicator()
+            }
+        }
+- Правильно
+// Отображаем состояние загрузки
+        if (uiState.isLoading) {
+ContentLoadingIndicator()
+}            
 
-## Используй актуальные компоненты Material 3
-| ❌ Устаревшие | ✅ Актуальные |
-|------------|------------|
-| `Divider` | `HorizontalDivider` |
-| `Icons.Default.ArrowBack` | `Icons.AutoMirrored.Filled.ArrowBack` |
-| `CircularProgressIndicator` | `CircularProgressIndicator(strokeCap = StrokeCap.Round)` |
-| `FloatingActionButton` | `FloatingActionButton(elevation = FloatingActionButtonDefaults.elevation())` |
-| `TopAppBar` | `TopAppBar()` с М3 параметрами |
-| `BottomNavigation` | `NavigationBar` |
-| `TabRow` | `SecondaryTabRow` или `PrimaryTabRow` (в зависимости от уровня важности) |
+Это позволит каждое состояние тестировать, и под каждое делать Preview если необходимо
 
-## 🧠 Оптимизация промптов для ИИ
-1. **Краткость**: Минимум текста, максимум контекста
-2. **Структура**: Используй ключевые слова в начале предложений
-3. **Специфика**: Конкретные запросы вместо общих указаний
-4. **Примеры**: Добавляй сниппеты кода для контекста
-5. **Форматирование**: Используй маркеры, заголовки, эмодзи
+1. пиши все полученные функции в классе скрина
 
-## 📋 Образец эффективного промпта
-```
-Измени:
-- Замени Divider на HorizontalDivider
-- Используй Icons.AutoMirrored.Filled вместо Icons.Default
-- Замени TabRow на SecondaryTabRow
+1. пиши все полученные функции в классе скрина
+2. CircularProgressIndicator() - должен быть по центру экрана
+3. Если функция принимает `Modifier` в качестве параметра, он должен быть первым необязательным параметром. Это стандартная конвенция в Jetpack Compose, которая улучшает читаемость и консистентность кода.
 
+- Неправильно:
+  ```kotlin
+  @Composable
+  fun MyComponent(text: String, modifier: Modifier = Modifier) { ... }
+  ```
 
-Контекст:
-```kotlin
-// Пример текущего кода для контекста
-```
-```
-
-## 🌟 Соглашения по стилю
-- Используй [M3 Color System](https://m3.material.io/styles/color/the-color-system/color-roles)
-- Применяй `contentColorFor()` для автоматического подбора цвета контента
-- Предпочитай композиционный подход: маленькие переиспользуемые компоненты 
+- Правильно:
+  ```kotlin
+  @Composable
+  fun MyComponent(modifier: Modifier = Modifier, text: String) { ... }
+  ```

@@ -34,19 +34,23 @@
         </code_scheme>
       </component>
       <component name="ProjectViewState">
-        <option name="flattenPackages" value="true" />
-        <option name="hideEmptyMiddlePackages" value="true" />
         <option name="showLibraryContents" value="true" />
       </component>
-      <component name="PropertiesComponent">
-        <property name="android.sdk.path" value="C:/android/sdk" />
-        <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
-      </component>
+      <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;settings.editor.selected.configurable&quot;: &quot;studioLabs&quot;
+  }
+}</component>
       <component name="WindowStateProjectService">
-        <state x="552" y="154" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1766475173381">
-          <screen x="0" y="0" width="1920" height="1050" />
+        <state x="772" y="220" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1777999565750">
+          <screen x="0" y="0" width="2560" height="1392" />
         </state>
-        <state x="552" y="154" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1050" timestamp="1766475173381" />
+        <state x="772" y="220" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.2560.1392" timestamp="1777999565750" />
+        <state x="271" y="12" key="SettingsEditor" timestamp="1773051340206">
+          <screen x="0" y="0" width="1280" height="752" />
+        </state>
+        <state x="271" y="12" key="SettingsEditor/0.0.1280.752" timestamp="1773051340206" />
+        <state x="455" y="150" key="SettingsEditor/0.0.1920.1050" timestamp="1772699536736" />
       </component>
     </defaultProject>
   </component>
