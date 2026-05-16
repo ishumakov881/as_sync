@@ -1,10 +1,12 @@
 <application>
-  <component name="FileEditorProviderManager"><![CDATA[{}]]></component>
+  <component name="FileEditorProviderManager">{}</component>
   <component name="NotRoamableUiSettings">
+    <option name="fontSize" value="12.0" />
     <option name="presentationModeIdeScale" value="1.75" />
   </component>
   <component name="PropertyService"><![CDATA[{
   "keyToString": {
+    "FileTemplates.SelectedTemplate": "Compose UI Screen with ViewModel.kt.child.2",
     "NextRunPlatformUpdateBuild": "AI-253.31033.145.2533.15176040",
     "NextRunPlatformUpdateSelfBuild": "AI-253.31033.145.2533.15113396",
     "NextRunPlatformUpdateVersion": "Panda 3 | 2025.3.3 Patch 1",
@@ -17,17 +19,17 @@
     "RunOnceActivity.git.modal.commit.toggle": "true",
     "RunOnceActivity.reset.auto.reparse.settings.to.default": "true",
     "RunOnceActivity.set.chat.model.provider.canary4": "true",
-    "SettingsSearchHistory": "file t",
+    "SettingsSearchHistory": "liv\nfile t",
     "com.google.aiplugin.rag.indexer.implementation": "com.google.aiplugin.rag.bm25.CrawlerBm25Indexer/v3",
     "experimental.ui.used.version": "253.31033.145.2533.15113396",
     "fileTypeChangedCounter": "1",
-    "fontSizeToResetConsole": "13.0",
-    "fontSizeToResetEditor": "13.0",
+    "fontSizeToResetConsole": "14.0",
+    "fontSizeToResetEditor": "14.0",
     "installed.kotlin.plugin.version": "253.31033.145.2533.15113396-AS",
     "migrate.android.sdk.path.to.roamable.storage": "false",
-    "previousColorScheme": "_@user_Islands Dark",
+    "previousColorScheme": "_@user_Dark",
     "registry.to.advanced.settings.migration.build": "AI-253.31033.145.2533.15113396",
-    "studio.activity.count": "50",
+    "studio.activity.count": "17",
     "studio.ml.bot.history.legacySessionRestored": "true",
     "terminal.gen.one.option.visible": "false"
   },

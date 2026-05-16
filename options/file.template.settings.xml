@@ -1,10 +1,20 @@
 <application>
   <component name="ExportableFileTemplateSettings">
     <default_templates>
-
+      <template name="Compose UI Screen with ViewModel.kt" reformat="true" live-template-enabled="false">
+        <template name="Compose UI Screen with ViewModel.kt.child.0.kt" file-name="${NAME}ViewModel" reformat="true" live-template-enabled="false" />
+        <template name="Compose UI Screen with ViewModel.kt.child.1.kt" file-name="${NAME}Action" reformat="true" live-template-enabled="false" />
+        <template name="Compose UI Screen with ViewModel.kt.child.2.kt" file-name="${NAME}State" reformat="true" live-template-enabled="false" />
+      </template>
+      <template name="Compose UI Screen with ViewModel.kt.child.0.kt" file-name="${NAME}ViewModel" reformat="true" live-template-enabled="false" />
+      <template name="Compose UI Screen with ViewModel.kt.child.1.kt" file-name="${NAME}Action" reformat="true" live-template-enabled="false" />
+      <template name="Compose UI Screen with ViewModel.kt.child.2.kt" file-name="${NAME}State" reformat="true" live-template-enabled="false" />
       <template name="Documentation.md" file-name="Documentation/Documentation" reformat="false" live-template-enabled="false">
         <template name="Documentation.md.child.0.md" file-name="Documentation/01_Description" reformat="true" live-template-enabled="false" />
         <template name="Documentation.md.child.1.md" file-name="Documentation/cards/00_example" reformat="true" live-template-enabled="false" />
+        <template name="Documentation.md.child.10.md" file-name="Documentation/crashlytics/report" reformat="true" live-template-enabled="false" />
+        <template name="Documentation.md.child.11.md" file-name="Documentation/TASKS\history\history" reformat="true" live-template-enabled="false" />
+        <template name="Documentation.md.child.12.md" file-name="Documentation/ARCHITECTURE/material3-components" reformat="true" live-template-enabled="false" />
         <template name="Documentation.md.child.2.md" file-name="Documentation/ARCHITECTURE/compose-architecture" reformat="true" live-template-enabled="false" />
         <template name="Documentation.md.child.3.md" file-name="Documentation/guidelines/VIEWMODEL_COMPOSE_GUIDELINE.md" reformat="true" live-template-enabled="false" />
         <template name="Documentation.md.child.4.md" file-name="Documentation/guidelines/Compose_Refactoring" reformat="true" live-template-enabled="false" />
@@ -13,17 +23,26 @@
         <template name="Documentation.md.child.7.md" file-name="Documentation/Roadmap" reformat="true" live-template-enabled="false" />
         <template name="Documentation.md.child.8.md" file-name="Documentation/components/00" reformat="true" live-template-enabled="false" />
         <template name="Documentation.md.child.9.md" file-name="Documentation/Whatsnew" reformat="true" live-template-enabled="false" />
-        <template name="Documentation.md.child.10.md" file-name="Documentation/crashlytics/report" reformat="true" live-template-enabled="false" />
-        <template name="Documentation.md.child.11.md" file-name="Documentation/TASKS\history\history" reformat="true" live-template-enabled="false" />
-        <template name="Documentation.md.child.12.md" file-name="Documentation/ARCHITECTURE/material3-components" reformat="true" live-template-enabled="false" />
       </template>
-
-      <template name="KMP-MODULE." file-name="${NAME}/.gitignore" reformat="true" live-template-enabled="false">
-          <template name="KMP-MODULE..child.0.kts" file-name="${NAME}/build.gradle" reformat="true" live-template-enabled="false" />
-          <template name="KMP-MODULE..child.1.kt" file-name="${NAME}/src/commonMain/kotlin/net/lds/Platform" reformat="true" live-template-enabled="false" />
-          <template name="KMP-MODULE..child.2." file-name="${NAME}/src/commonMain/kotlin/net/lds/${NAME}" reformat="true" live-template-enabled="false" />
+      <template name="Documentation.md.child.0.md" file-name="Documentation/01_Description" reformat="true" live-template-enabled="false" />
+      <template name="Documentation.md.child.1.md" file-name="Documentation/cards/00_example" reformat="true" live-template-enabled="false" />
+      <template name="Documentation.md.child.10.md" file-name="Documentation/crashlytics/report" reformat="true" live-template-enabled="false" />
+      <template name="Documentation.md.child.11.md" file-name="Documentation/TASKS\history\history" reformat="true" live-template-enabled="false" />
+      <template name="Documentation.md.child.12.md" file-name="Documentation/ARCHITECTURE/material3-components" reformat="true" live-template-enabled="false" />
+      <template name="Documentation.md.child.2.md" file-name="Documentation/ARCHITECTURE/compose-architecture" reformat="true" live-template-enabled="false" />
+      <template name="Documentation.md.child.3.md" file-name="Documentation/guidelines/VIEWMODEL_COMPOSE_GUIDELINE.md" reformat="true" live-template-enabled="false" />
+      <template name="Documentation.md.child.4.md" file-name="Documentation/guidelines/Compose_Refactoring" reformat="true" live-template-enabled="false" />
+      <template name="Documentation.md.child.5.md" file-name="Documentation/guidelines/material_surface_guideline" reformat="true" live-template-enabled="false" />
+      <template name="Documentation.md.child.6.md" file-name="Documentation/guidelines/00_guidelines" reformat="true" live-template-enabled="false" />
+      <template name="Documentation.md.child.7.md" file-name="Documentation/Roadmap" reformat="true" live-template-enabled="false" />
+      <template name="Documentation.md.child.8.md" file-name="Documentation/components/00" reformat="true" live-template-enabled="false" />
+      <template name="Documentation.md.child.9.md" file-name="Documentation/Whatsnew" reformat="true" live-template-enabled="false" />
+      <template name="KMP-MODULE." reformat="true" live-template-enabled="false">
+        <template name="KMP-MODULE..child.0.kts" file-name="111" reformat="true" live-template-enabled="false" />
+        <template name="KMP-MODULE..child.1.kt" file-name="222" reformat="true" live-template-enabled="false" />
       </template>
-
+      <template name="KMP-MODULE..child.0.kts" file-name="111" reformat="true" live-template-enabled="false" />
+      <template name="KMP-MODULE..child.1.kt" file-name="222" reformat="true" live-template-enabled="false" />
     </default_templates>
   </component>
 </application>
