@@ -4,54 +4,6 @@
       <component name="AutoImportSettings">
         <option name="autoReloadType" value="NONE" />
       </component>
-      <component name="ProjectCodeStyleConfiguration">
-        <code_scheme name="Project" version="173">
-          <Objective-C-extensions>
-            <file>
-              <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="Import" />
-              <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="Macro" />
-              <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="Typedef" />
-              <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="Enum" />
-              <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="Constant" />
-              <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="Global" />
-              <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="Struct" />
-              <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="FunctionPredecl" />
-              <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="Function" />
-            </file>
-            <class>
-              <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="Property" />
-              <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="Synthesize" />
-              <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="InitMethod" />
-              <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="StaticMethod" />
-              <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="InstanceMethod" />
-              <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="DeallocMethod" />
-            </class>
-            <extensions>
-              <pair source="cpp" header="h" fileNamingConvention="NONE" />
-              <pair source="c" header="h" fileNamingConvention="NONE" />
-            </extensions>
-          </Objective-C-extensions>
-        </code_scheme>
-      </component>
-      <component name="ProjectViewState">
-        <option name="showLibraryContents" value="true" />
-      </component>
-      <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;settings.editor.selected.configurable&quot;: &quot;studioLabs&quot;
-  }
-}</component>
-      <component name="WindowStateProjectService">
-        <state x="772" y="220" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1777999565750">
-          <screen x="0" y="0" width="2560" height="1392" />
-        </state>
-        <state x="772" y="220" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.2560.1392" timestamp="1777999565750" />
-        <state x="271" y="12" key="SettingsEditor" timestamp="1773051340206">
-          <screen x="0" y="0" width="1280" height="752" />
-        </state>
-        <state x="271" y="12" key="SettingsEditor/0.0.1280.752" timestamp="1773051340206" />
-        <state x="455" y="150" key="SettingsEditor/0.0.1920.1050" timestamp="1772699536736" />
-      </component>
     </defaultProject>
   </component>
 </application>
