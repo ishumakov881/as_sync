@@ -50,22 +50,6 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="C:/src/Synced/ldsonline">
-          <value>
-            <RecentProjectMetaInfo frameTitle="LDSOnline – NetworkTestInfo.kt [LDSOnline.kmp.accesspoint.commonMain]" projectWorkspaceId="38qYNMjZAF9tYzjpuptSphB5ADc">
-              <option name="activationTimestamp" value="1780424083975" />
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="AI-253.32098.37.2534.15336583" />
-              <option name="buildTimestamp" value="1777872780000" />
-              <option name="colorInfo">
-                <RecentProjectColorInfo associatedIndex="2" />
-              </option>
-              <frame x="240" y="27" width="1934" height="1242" />
-              <option name="productionCode" value="AI" />
-              <option name="projectOpenTimestamp" value="1780337916479" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
         <entry key="$USER_HOME$/Desktop/KMP">
           <value>
             <RecentProjectMetaInfo frameTitle="KMP – local.properties [KMP]" projectWorkspaceId="3EalxWGN5nI2GN41K9P1NH8nfKE">
@@ -79,22 +63,6 @@
               <frame x="384" y="54" width="1861" height="1150" />
               <option name="productionCode" value="AI" />
               <option name="projectOpenTimestamp" value="1780425879432" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
-        <entry key="C:/src/Synced/quickdeal">
-          <value>
-            <RecentProjectMetaInfo frameTitle="QuickDeal – SettingsRepository.kt [QuickDeal.composeApp.commonMain]" projectWorkspaceId="3EJSoMUVDCV769RKNiLnhzwP5AQ">
-              <option name="activationTimestamp" value="1780506218591" />
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="AI-253.32098.37.2534.15336583" />
-              <option name="buildTimestamp" value="1777872780000" />
-              <option name="colorInfo">
-                <RecentProjectColorInfo associatedIndex="7" />
-              </option>
-              <frame x="234" y="96" width="1861" height="1166" />
-              <option name="productionCode" value="AI" />
-              <option name="projectOpenTimestamp" value="1780500230807" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
@@ -114,8 +82,56 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
+        <entry key="C:/src/Synced/quickdeal">
+          <value>
+            <RecentProjectMetaInfo frameTitle="QuickDeal – SettingsRepository.kt [QuickDeal.composeApp.commonMain]" projectWorkspaceId="3EJSoMUVDCV769RKNiLnhzwP5AQ">
+              <option name="activationTimestamp" value="1780513303751" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-253.32098.37.2534.15336583" />
+              <option name="buildTimestamp" value="1777872780000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="7" />
+              </option>
+              <frame x="207" y="92" width="1861" height="1166" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1780512092699" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:/src/Synced/ldsonline">
+          <value>
+            <RecentProjectMetaInfo frameTitle="LDSOnline – MyAccountScreen.kt [LDSOnline.kmp.shared.commonMain]" projectWorkspaceId="38qYNMjZAF9tYzjpuptSphB5ADc">
+              <option name="activationTimestamp" value="1780596798995" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-253.32098.37.2534.15336583" />
+              <option name="buildTimestamp" value="1777872780000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="2" />
+              </option>
+              <frame x="164" y="67" width="2077" height="1242" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1780514617013" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/keepass2android">
+          <value>
+            <RecentProjectMetaInfo frameTitle="keepass2android – EntryActivity.cs" projectWorkspaceId="3EjKh9aD1kTRUBIpphbUyTiD8su">
+              <option name="activationTimestamp" value="1780690040787" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-253.32098.37.2534.15336583" />
+              <option name="buildTimestamp" value="1777872780000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="0" />
+              </option>
+              <frame x="210" y="196" width="1955" height="1063" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1780686655675" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
       </map>
     </option>
-    <option name="lastOpenedProject" value="C:/src/Synced/quickdeal" />
+    <option name="lastOpenedProject" value="D:/keepass2android" />
   </component>
 </application>
