@@ -98,22 +98,6 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="C:/src/Synced/ldsonline">
-          <value>
-            <RecentProjectMetaInfo frameTitle="LDSOnline – MyAccountScreen.kt [LDSOnline.kmp.shared.commonMain]" projectWorkspaceId="38qYNMjZAF9tYzjpuptSphB5ADc">
-              <option name="activationTimestamp" value="1780596798995" />
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="AI-253.32098.37.2534.15336583" />
-              <option name="buildTimestamp" value="1777872780000" />
-              <option name="colorInfo">
-                <RecentProjectColorInfo associatedIndex="2" />
-              </option>
-              <frame x="164" y="67" width="2077" height="1242" />
-              <option name="productionCode" value="AI" />
-              <option name="projectOpenTimestamp" value="1780514617013" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
         <entry key="D:/keepass2android">
           <value>
             <RecentProjectMetaInfo frameTitle="keepass2android – EntryActivity.cs" projectWorkspaceId="3EjKh9aD1kTRUBIpphbUyTiD8su">
@@ -130,8 +114,24 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
+        <entry key="C:/src/Synced/ldsonline">
+          <value>
+            <RecentProjectMetaInfo frameTitle="LDSOnline – ConnectivityReceiver.kt [LDSOnline.accesspoint.main]" opened="true" projectWorkspaceId="38qYNMjZAF9tYzjpuptSphB5ADc">
+              <option name="activationTimestamp" value="1780940241696" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-253.32098.37.2534.15336583" />
+              <option name="buildTimestamp" value="1777872780000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="2" />
+              </option>
+              <frame x="187" y="91" width="2077" height="1242" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1780932933724" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
       </map>
     </option>
-    <option name="lastOpenedProject" value="D:/keepass2android" />
+    <option name="lastOpenedProject" value="C:/src/Synced/ldsonline" />
   </component>
 </application>
