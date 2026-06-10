@@ -50,22 +50,6 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="$USER_HOME$/Desktop/KMP">
-          <value>
-            <RecentProjectMetaInfo frameTitle="KMP – local.properties [KMP]" projectWorkspaceId="3EalxWGN5nI2GN41K9P1NH8nfKE">
-              <option name="activationTimestamp" value="1780435806676" />
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="AI-253.32098.37.2534.15336583" />
-              <option name="buildTimestamp" value="1777872780000" />
-              <option name="colorInfo">
-                <RecentProjectColorInfo associatedIndex="8" />
-              </option>
-              <frame x="384" y="54" width="1861" height="1150" />
-              <option name="productionCode" value="AI" />
-              <option name="projectOpenTimestamp" value="1780425879432" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
         <entry key="$USER_HOME$/StudioProjects/webview_ios">
           <value>
             <RecentProjectMetaInfo frameTitle="WebView_iOS – README.md [WebView_iOS]" projectWorkspaceId="3DuBWJWOHIbOuWbQWcnSb3cVITe">
@@ -114,24 +98,40 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
+        <entry key="$USER_HOME$/Desktop/KMP">
+          <value>
+            <RecentProjectMetaInfo frameTitle="KMP – App.kt [walhalla-kmp.composeApp.commonMain]" opened="true" projectWorkspaceId="3EalxWGN5nI2GN41K9P1NH8nfKE">
+              <option name="activationTimestamp" value="1781033439098" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-253.32098.37.2534.15336583" />
+              <option name="buildTimestamp" value="1777872780000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="8" />
+              </option>
+              <frame x="288" y="86" width="1861" height="1204" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1781018229874" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
         <entry key="C:/src/Synced/ldsonline">
           <value>
-            <RecentProjectMetaInfo frameTitle="LDSOnline – ConnectivityReceiver.kt [LDSOnline.accesspoint.main]" opened="true" projectWorkspaceId="38qYNMjZAF9tYzjpuptSphB5ADc">
-              <option name="activationTimestamp" value="1780940241696" />
+            <RecentProjectMetaInfo frameTitle="LDSOnline – SipCallScreen.kt [LDSOnline.kmp.ldscompose.commonMain]" projectWorkspaceId="38qYNMjZAF9tYzjpuptSphB5ADc">
+              <option name="activationTimestamp" value="1781020925484" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="AI-253.32098.37.2534.15336583" />
               <option name="buildTimestamp" value="1777872780000" />
               <option name="colorInfo">
                 <RecentProjectColorInfo associatedIndex="2" />
               </option>
-              <frame x="187" y="91" width="2077" height="1242" />
+              <frame x="409" y="275" width="2077" height="1242" extendedState="1" />
               <option name="productionCode" value="AI" />
-              <option name="projectOpenTimestamp" value="1780932933724" />
+              <option name="projectOpenTimestamp" value="1781018308031" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
       </map>
     </option>
-    <option name="lastOpenedProject" value="C:/src/Synced/ldsonline" />
+    <option name="lastOpenedProject" value="$USER_HOME$/Desktop/KMP" />
   </component>
 </application>
