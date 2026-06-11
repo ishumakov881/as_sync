@@ -1,16 +1,16 @@
 <application>
   <component name="ActionsLocalSummary">
     <e n="$Copy">
-      <i c="277" l="1781026620650" />
+      <i c="284" l="1781111849155" />
     </e>
     <e n="$Cut">
-      <i c="153" l="1781020601712" />
+      <i c="158" l="1781111738210" />
     </e>
     <e n="$Delete">
       <i c="18" l="1779650412318" />
     </e>
     <e n="$Paste">
-      <i c="129" l="1781022228314" />
+      <i c="136" l="1781111856300" />
     </e>
     <e n="$SelectAll">
       <i c="15" l="1780514643218" />
@@ -37,7 +37,7 @@
       <i c="6" l="1780511482206" />
     </e>
     <e n="CloseAllEditorsButActive">
-      <i c="33" l="1780938696369" />
+      <i c="34" l="1781111669553" />
     </e>
     <e n="CloseProject">
       <i c="36" l="1781018221833" />
@@ -52,7 +52,7 @@
       <i c="6" l="1780507871363" />
     </e>
     <e n="CommentByLineComment">
-      <i c="22" l="1780935883332" />
+      <i c="23" l="1781111933234" />
     </e>
     <e n="ConvertJavaToKotlin">
       <i c="53" l="1780508728182" />
@@ -67,10 +67,10 @@
       <i c="1" l="1779993831194" />
     </e>
     <e n="EditorBackSpace">
-      <i c="636" l="1781020860801" />
+      <i c="645" l="1781111894427" />
     </e>
     <e n="EditorChooseLookupItem">
-      <i c="77" l="1780938240449" />
+      <i c="83" l="1781111871491" />
     </e>
     <e n="EditorCopy">
       <i c="40" l="1781022230519" />
@@ -79,22 +79,22 @@
       <i c="7" l="1780596049822" />
     </e>
     <e n="EditorDown">
-      <i c="75" l="1781019529181" />
+      <i c="83" l="1781111827022" />
     </e>
     <e n="EditorDuplicate">
       <i c="2" l="1780516939194" />
     </e>
     <e n="EditorEnter">
-      <i c="77" l="1781019203168" />
+      <i c="78" l="1781111812941" />
     </e>
     <e n="EditorLeft">
-      <i c="169" l="1781019705870" />
+      <i c="173" l="1781111742673" />
     </e>
     <e n="EditorLeftWithSelection">
       <i c="40" l="1781019532236" />
     </e>
     <e n="EditorPaste">
-      <i c="143" l="1781020196062" />
+      <i c="144" l="1781111813955" />
     </e>
     <e n="EditorRight">
       <i c="126" l="1781019520311" />
@@ -109,7 +109,7 @@
       <i c="2" l="1779388250273" />
     </e>
     <e n="EditorUp">
-      <i c="35" l="1781019518863" />
+      <i c="36" l="1781111827759" />
     </e>
     <e n="EditorUpWithSelection">
       <i c="2" l="1780516937721" />
@@ -145,7 +145,7 @@
       <i c="1" l="1778950875407" />
     </e>
     <e n="GotoDeclaration">
-      <i c="176" l="1781020252155" />
+      <i c="179" l="1781111844154" />
     </e>
     <e n="GotoTest">
       <i c="1" l="1779306716394" />
@@ -193,7 +193,7 @@
       <i c="19" l="1780515218117" />
     </e>
     <e n="Replace">
-      <i c="25" l="1780592964229" />
+      <i c="27" l="1781111879482" />
     </e>
     <e n="ReplaceInPath">
       <i c="184" l="1781020932921" />
@@ -202,7 +202,7 @@
       <i c="43" l="1781020866782" />
     </e>
     <e n="Run">
-      <i c="336" l="1781019249426" />
+      <i c="339" l="1781111745328" />
     </e>
     <e n="RunAnything">
       <i c="1" l="1779640950318" />
@@ -217,7 +217,7 @@
       <i c="7" l="1780688741910" />
     </e>
     <e n="ShowIntentionActions">
-      <i c="22" l="1781019701615" />
+      <i c="25" l="1781111832162" />
     </e>
     <e n="ShowProjectStructureSettings">
       <i c="1" l="1780504582246" />
@@ -268,7 +268,7 @@
       <i c="20" l="1780596831389" />
     </e>
     <e n="Tool_Git__Git add and commit">
-      <i c="215" l="1780939568454" />
+      <i c="217" l="1781111935716" />
     </e>
     <e n="Tool_Gradle_.\gradlew :composeApp:compileKotlinIosArm64  :composeApp:compileKotlinIosSimulatorArm64 :composeApp:compileKotlinIosX64 --no-daemon">
       <i c="5" l="1780504631878" />
@@ -310,13 +310,13 @@
       <i c="1" l="1779636268360" />
     </e>
     <e n="com.intellij.codeInsight.daemon.NavigateAction">
-      <i c="56" l="1781020090648" />
+      <i c="57" l="1781111520031" />
     </e>
     <e n="com.intellij.execution.ui.RunToolbarPopupKt$createRunConfigurationWithInlines$1">
       <i c="53" l="1781018691685" />
     </e>
     <e n="com.intellij.find.SearchReplaceComponent$CloseAction">
-      <i c="17" l="1780592971721" />
+      <i c="19" l="1781111883954" />
     </e>
     <e n="com.intellij.find.SearchReplaceComponent$ModeAction">
       <i c="1" l="1780336229003" />
@@ -361,7 +361,7 @@
       <i c="32" l="1780940081798" />
     </e>
     <e n="com.intellij.openapi.project.LightEditActionFactory$SimpleLightEditCompatibleAction">
-      <i c="17" l="1780507824429" />
+      <i c="18" l="1781111587369" />
     </e>
     <e n="com.intellij.openapi.updateSettings.impl.UpdateSettingsEntryPointActionProvider$2">
       <i c="2" l="1779376849979" />
@@ -370,16 +370,16 @@
       <i c="3" l="1780688742727" />
     </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
-      <i c="174" l="1781020862501" />
+      <i c="176" l="1781111786089" />
     </e>
     <e n="com.intellij.terminal.frontend.action.SendShortcutToTerminalAction">
-      <i c="1171" l="1781018326012" />
+      <i c="1172" l="1781111313108" />
     </e>
     <e n="com.intellij.toolWindow.ShowMoreToolWindowsAction">
       <i c="2" l="1778950608991" />
     </e>
     <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
-      <i c="491" l="1781022212089" />
+      <i c="497" l="1781111937339" />
     </e>
     <e n="com.intellij.toolWindow.ToolWindowHeader$ShowOptionsAction">
       <i c="1" l="1780339835101" />
