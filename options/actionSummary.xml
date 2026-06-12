@@ -1,7 +1,7 @@
 <application>
   <component name="ActionsLocalSummary">
     <e n="$Copy">
-      <i c="284" l="1781111849155" />
+      <i c="285" l="1781194220406" />
     </e>
     <e n="$Cut">
       <i c="158" l="1781111738210" />
@@ -214,7 +214,7 @@
       <i c="37" l="1781018337360" />
     </e>
     <e n="SettingsEntryPoint">
-      <i c="7" l="1780688741910" />
+      <i c="8" l="1781197244854" />
     </e>
     <e n="ShowIntentionActions">
       <i c="25" l="1781111832162" />
@@ -268,7 +268,7 @@
       <i c="20" l="1780596831389" />
     </e>
     <e n="Tool_Git__Git add and commit">
-      <i c="217" l="1781111935716" />
+      <i c="218" l="1781194212304" />
     </e>
     <e n="Tool_Gradle_.\gradlew :composeApp:compileKotlinIosArm64  :composeApp:compileKotlinIosSimulatorArm64 :composeApp:compileKotlinIosX64 --no-daemon">
       <i c="5" l="1780504631878" />
@@ -364,7 +364,7 @@
       <i c="18" l="1781111587369" />
     </e>
     <e n="com.intellij.openapi.updateSettings.impl.UpdateSettingsEntryPointActionProvider$2">
-      <i c="2" l="1779376849979" />
+      <i c="3" l="1781197245599" />
     </e>
     <e n="com.intellij.openapi.updateSettings.impl.UpdateSettingsEntryPointActionProvider$IdeUpdateAction">
       <i c="3" l="1780688742727" />
