@@ -199,7 +199,7 @@
       <i c="184" l="1781020932921" />
     </e>
     <e n="RevealIn">
-      <i c="43" l="1781020866782" />
+      <i c="46" l="1781716364217" />
     </e>
     <e n="Run">
       <i c="339" l="1781111745328" />
@@ -214,7 +214,7 @@
       <i c="37" l="1781018337360" />
     </e>
     <e n="SettingsEntryPoint">
-      <i c="8" l="1781197244854" />
+      <i c="9" l="1781717753670" />
     </e>
     <e n="ShowIntentionActions">
       <i c="25" l="1781111832162" />
@@ -235,7 +235,7 @@
       <i c="1" l="1780588454135" />
     </e>
     <e n="Terminal.CopySelectedText">
-      <i c="11" l="1780688509862" />
+      <i c="12" l="1781717316687" />
     </e>
     <e n="Terminal.Find">
       <i c="1" l="1780506405946" />
@@ -244,7 +244,7 @@
       <i c="4" l="1780687301340" />
     </e>
     <e n="Terminal.Paste">
-      <i c="43" l="1780687435791" />
+      <i c="48" l="1781717093452" />
     </e>
     <e n="Terminal.SelectAll">
       <i c="1" l="1780510334754" />
@@ -265,7 +265,7 @@
       <i c="2" l="1779379428438" />
     </e>
     <e n="Tool_Git__Git Push">
-      <i c="20" l="1780596831389" />
+      <i c="21" l="1781717637493" />
     </e>
     <e n="Tool_Git__Git add and commit">
       <i c="218" l="1781194212304" />
@@ -352,7 +352,7 @@
       <i c="1" l="1778950665245" />
     </e>
     <e n="com.intellij.notification.NotificationAction$Simple">
-      <i c="10" l="1779896082049" />
+      <i c="11" l="1781717831600" />
     </e>
     <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
       <i c="210" l="1781020181945" />
@@ -367,19 +367,19 @@
       <i c="3" l="1781197245599" />
     </e>
     <e n="com.intellij.openapi.updateSettings.impl.UpdateSettingsEntryPointActionProvider$IdeUpdateAction">
-      <i c="3" l="1780688742727" />
+      <i c="4" l="1781717754801" />
     </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
-      <i c="176" l="1781111786089" />
+      <i c="180" l="1781715941855" />
     </e>
     <e n="com.intellij.terminal.frontend.action.SendShortcutToTerminalAction">
-      <i c="1172" l="1781111313108" />
+      <i c="1218" l="1781717632933" />
     </e>
     <e n="com.intellij.toolWindow.ShowMoreToolWindowsAction">
       <i c="2" l="1778950608991" />
     </e>
     <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
-      <i c="497" l="1781111937339" />
+      <i c="499" l="1781717693934" />
     </e>
     <e n="com.intellij.toolWindow.ToolWindowHeader$ShowOptionsAction">
       <i c="1" l="1780339835101" />
