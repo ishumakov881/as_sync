@@ -4,6 +4,12 @@
       <path value="root" />
       <path value="Main Menu" />
     </group>
+    <group value="SaveAll" is_action="true" action_type="1" position="1">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <path value="Left" />
+      <path value="General Actions" />
+    </group>
     <group seperator="true" action_type="1" position="7">
       <path value="root" />
       <path value="Main Toolbar" />
