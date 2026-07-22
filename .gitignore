@@ -57,3 +57,4 @@
 !/options/window.state.xml
 trusted-paths.xml
 window.state.xml
+!/options/inline.factors.completion.xml
