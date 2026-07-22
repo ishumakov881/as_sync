@@ -2,24 +2,169 @@
   <component name="RecentProjectsManager">
     <option name="additionalInfo">
       <map>
-        <entry key="$APPLICATION_CONFIG_DIR$">
+        <entry key="$USER_HOME$/Desktop/tmp/jpFigma/jp_figma">
           <value>
-            <RecentProjectMetaInfo frameTitle="AndroidStudio2025.3.3 – file.template.settings.xml" opened="true" projectWorkspaceId="2wK5IyeUQNFBrDJ2RaJqknrrOS2">
-              <option name="activationTimestamp" value="1778950033137" />
+            <RecentProjectMetaInfo frameTitle="jpFigma – MainActivity.kt [jpFigma.app.main]" projectWorkspaceId="3BA73RN07eIoUQQavnxmW1I4o7l">
+              <option name="activationTimestamp" value="1774427434420" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="AI-253.31033.145.2533.15113396" />
-              <option name="buildTimestamp" value="1774851420000" />
+              <option name="build" value="AI-253.30387.90.2532.14935130" />
+              <option name="buildTimestamp" value="1772001660000" />
               <option name="colorInfo">
                 <RecentProjectColorInfo associatedIndex="8" />
               </option>
-              <frame x="308" y="252" width="1978" height="1000" />
+              <frame x="218" y="33" width="1497" height="1000" />
               <option name="productionCode" value="AI" />
-              <option name="projectOpenTimestamp" value="1778949962265" />
+              <option name="projectOpenTimestamp" value="1773919821703" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AndroidStudioProjects/MyApplication">
+          <value>
+            <RecentProjectMetaInfo frameTitle="My Application – TariffMeter.kt [My_Application.app.main]" projectWorkspaceId="3D1gHRoBgqHAWoLEyjZxyIF0nm5">
+              <option name="activationTimestamp" value="1777474547387" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-253.32098.37.2534.15232325" />
+              <option name="buildTimestamp" value="1776457080000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="1" />
+              </option>
+              <frame x="260" y="25" width="1400" height="1000" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1777454902199" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$APPLICATION_CONFIG_DIR$">
+          <value>
+            <RecentProjectMetaInfo frameTitle="AndroidStudio2025.3.4 – ManagedVirtualDeviceCatalogService.xml" projectWorkspaceId="32Gujtm9RIMmBzRCk41luVGT4Pm">
+              <option name="activationTimestamp" value="1779096180882" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-253.32098.37.2534.15232325" />
+              <option name="buildTimestamp" value="1776457080000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="1" />
+              </option>
+              <frame x="260" y="25" width="1400" height="1000" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1779096091557" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/KMPNotifier">
+          <value>
+            <RecentProjectMetaInfo frameTitle="KMPNotifierLib – App.kt [KMPNotifierLib.sample.commonMain]" projectWorkspaceId="3Dtr4bvtkFCBpSud2D9RTnkpF4i">
+              <option name="activationTimestamp" value="1779713750327" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-253.32098.37.2534.15232325" />
+              <option name="buildTimestamp" value="1776457080000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="2" />
+              </option>
+              <frame x="260" y="25" width="1400" height="1000" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1779713596330" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:/xampp/htdocs">
+          <value>
+            <RecentProjectMetaInfo frameTitle="htdocs – index.php" projectWorkspaceId="3EvwprnJKV3fLCfPp1xz1JOrTRC">
+              <option name="activationTimestamp" value="1781083789143" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-253.32098.37.2534.15336583" />
+              <option name="buildTimestamp" value="1777872780000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="6" />
+              </option>
+              <frame x="167" y="36" width="1549" height="959" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1781080945256" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/walhalla-kmp">
+          <value>
+            <RecentProjectMetaInfo frameTitle="walhalla-kmp – WakeLockHandler.kt [walhalla-kmp]" projectWorkspaceId="3Ef8Irjiq4XK6FdIcGnuvEbibYq">
+              <option name="activationTimestamp" value="1781187032747" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-253.32098.37.2534.15336583" />
+              <option name="buildTimestamp" value="1777872780000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="3" />
+              </option>
+              <frame x="147" y="16" width="1400" height="1000" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1781185771905" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AndroidStudioProjects/cinemakmp">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Cinema-Droid – TvComposeUtils.kt [Cinema-Droid.composeApp.main]" projectWorkspaceId="3Etgoq5Qym7IPP9yRIuLeIuUTcH">
+              <option name="activationTimestamp" value="1781620406159" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-253.32098.37.2534.15336583" />
+              <option name="buildTimestamp" value="1777872780000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="5" />
+              </option>
+              <frame x="247" y="176" width="1400" height="1000" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1781602061945" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:/android/ldsonline">
+          <value>
+            <RecentProjectMetaInfo frameTitle="LDSOnline – build.gradle.kts (:app)" projectWorkspaceId="39Hjcizg3yZQaLxurg9Po7Kla6H">
+              <option name="activationTimestamp" value="1781878615754" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-253.32098.37.2534.15336583" />
+              <option name="buildTimestamp" value="1777872780000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="2" />
+              </option>
+              <frame x="95" y="25" width="1773" height="1000" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1781680433918" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/webview_ios">
+          <value>
+            <RecentProjectMetaInfo frameTitle="WebView_iOS" projectWorkspaceId="3DhlO0g4qJn0qD8jeFGkwPEgGci">
+              <option name="activationTimestamp" value="1782217979686" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-253.32098.37.2534.15336583" />
+              <option name="buildTimestamp" value="1777872780000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="2" />
+              </option>
+              <frame x="100" y="29" width="1556" height="983" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1781878671892" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/KMPEXample">
+          <value>
+            <RecentProjectMetaInfo frameTitle="KMPEXample – README.md" opened="true" projectWorkspaceId="3FXOXhaXhGpk19UanHddoXNgJBH">
+              <option name="activationTimestamp" value="1782218324699" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-253.32098.37.2534.15336583" />
+              <option name="buildTimestamp" value="1777872780000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="8" />
+              </option>
+              <frame x="71" y="25" width="1489" height="1000" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1782217989041" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
       </map>
     </option>
-    <option name="lastOpenedProject" value="$APPLICATION_CONFIG_DIR$" />
+    <option name="lastOpenedProject" value="$USER_HOME$/Desktop/KMPEXample" />
+    <option name="lastProjectLocation" value="$USER_HOME$/AndroidStudioProjects" />
   </component>
 </application>

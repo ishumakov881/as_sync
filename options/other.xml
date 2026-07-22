@@ -1,15 +1,36 @@
 <application>
-  <component name="FileEditorProviderManager">{}</component>
+  <component name="DeviceScreenRecordingSettings">
+    <option name="recordingCount" value="3" />
+  </component>
+  <component name="DeviceScreenshotSettings">
+    <option name="screenshotCount" value="21" />
+  </component>
+  <component name="FileEditorProviderManager">{
+  &quot;selectedProviders&quot;: {
+    &quot;text-editor,android-manifest&quot;: &quot;text-editor&quot;
+  }
+}</component>
   <component name="NotRoamableUiSettings">
     <option name="fontSize" value="12.0" />
     <option name="presentationModeIdeScale" value="1.75" />
   </component>
   <component name="PropertyService"><![CDATA[{
   "keyToString": {
-    "FileTemplates.SelectedTemplate": "Compose UI Screen with ViewModel.kt.child.2",
-    "NextRunPlatformUpdateBuild": "AI-253.31033.145.2533.15176040",
-    "NextRunPlatformUpdateSelfBuild": "AI-253.31033.145.2533.15113396",
-    "NextRunPlatformUpdateVersion": "Panda 3 | 2025.3.3 Patch 1",
+    "ATTACHED_TOOL_WINDOW.Compose Preview.TOOL_ORDER": "",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.Compose Preview.TOOL_ORDER": "",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.DESIGN_FILES_PREVIEW_EDITOR.TOOL_ORDER": "",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.Main Preview.TOOL_ORDER": "",
+    "ATTACHED_TOOL_WINDOW.DESIGN_FILES_PREVIEW_EDITOR.TOOL_ORDER": "",
+    "ATTACHED_TOOL_WINDOW.Main Preview.TOOL_ORDER": "",
+    "ColorChooser.RecentColors": "204-15-15-255,,,0-0-0-255",
+    "FindSplitterProportion": "0.30122593",
+    "LAST_CALCULATED_COLOR_INDEX_KEY": "8",
+    "Markdown Split EditorLayout": "Editor only",
+    "MarketplacePluginsSearchHistory": "mul\nmu",
+    "MemberChooser.copyJavadoc": "false",
+    "MemberChooser.showClasses": "true",
+    "MoveFile.OpenInEditor": "true",
+    "PluginConfigurable.selectionTab": "1",
     "RunOnceActivity.TerminalFontSettingsService.fixStoredNonMonospacedFonts": "true",
     "RunOnceActivity.TerminalOptionsProvider.migration.2025.1.1": "true",
     "RunOnceActivity.VFSInitializationConditionsToFusReporter": "true",
@@ -19,19 +40,47 @@
     "RunOnceActivity.git.modal.commit.toggle": "true",
     "RunOnceActivity.reset.auto.reparse.settings.to.default": "true",
     "RunOnceActivity.set.chat.model.provider.canary4": "true",
-    "SettingsSearchHistory": "liv\nfile t",
+    "SAVED_ANDROID_NPW_ASKED_LANGUAGE": "true",
+    "SAVED_ANDROID_NPW_LANGUAGE": "Kotlin",
+    "SAVED_ANDROID_PACKAGE": "com.example",
+    "SPLIT_EDITOR_MODE_C:/Users/reznichenko.i/Desktop/webview_ios/composeApp/src/androidMain/res/mipmap-anydpi-v26/ic_launcher.xml": "DEACTIVATED",
+    "SPLIT_EDITOR_MODE_C:/Users/reznichenko.i/Desktop/webview_ios/composeApp/src/main/res/mipmap-anydpi-v26/ic_launcher.xml": "DEACTIVATED",
+    "SPLIT_EDITOR_MODE_C:/android/ldsonline/appWebView/src/main/res/drawable/ic_wifi.xml": "DEACTIVATED",
+    "SettingsSearchHistory": "plu\nexternal t\nai",
+    "Source Code Editor With PreviewLayout": "Editor only",
+    "StudioBot.ActiveTab": "Agent",
+    "StudioBot.Agent.MigratedToPermissions": "true",
+    "StudioBot.Agent.isAutoApprove": "true",
+    "TextEditorWithPreview.SplitterProportionKey": "0.5368782",
+    "USER_CLOSED_ANALYZING_BANNER_KEY": "true",
+    "build.toolwindow.Build Output.selection.state": "com.intellij.build.BuildTreeConsoleView",
+    "build.toolwindow.Sync.selection.state": "com.intellij.build.BuildTreeConsoleView",
+    "build.toolwindow.run.selection.state": "com.intellij.build.BuildTreeConsoleView",
+    "colorPickerCategoryProperty": "MATERIAL_500",
     "com.google.aiplugin.rag.indexer.implementation": "com.google.aiplugin.rag.bm25.CrawlerBm25Indexer/v3",
-    "experimental.ui.used.version": "253.31033.145.2533.15113396",
-    "fileTypeChangedCounter": "1",
-    "fontSizeToResetConsole": "14.0",
-    "fontSizeToResetEditor": "14.0",
-    "installed.kotlin.plugin.version": "253.31033.145.2533.15113396-AS",
-    "migrate.android.sdk.path.to.roamable.storage": "false",
+    "decompiler.legal.notice.accepted": "true",
+    "defaultJdkConfigured": "true",
+    "enter_selection_count": "5",
+    "experimental.ui.used.version": "253.32098.37.2534.15336583",
+    "file.gist.reindex.count": "5",
+    "fileTypeChangedCounter": "2",
+    "fontSizeToResetConsole": "13.0",
+    "fontSizeToResetEditor": "13.0",
+    "got.it.tooltip.Plugins Auto-Update": "1",
+    "got.it.tooltip.filter.tip": "1",
+    "ide.islands.ab3": "true",
+    "ide.self.update.started.for.build": "AI-253.32098.37.2534.15336583",
+    "installed.kotlin.plugin.version": "253.32098.37.2534.15336583-AS",
+    "kotlin.lastUpdateCheck": "1781857420306",
+    "kotlin.updates.whats.new.shown.for": "2.2.20",
+    "lvcs.diff.with.list.splitter.horizontal": "0.11903286",
     "previousColorScheme": "_@user_Dark",
-    "registry.to.advanced.settings.migration.build": "AI-253.31033.145.2533.15113396",
-    "studio.activity.count": "17",
+    "promo.ignore.suggested.ide": "true",
+    "registry.to.advanced.settings.migration.build": "AI-253.32098.37.2534.15336583",
+    "studio.bot.shown": "true",
     "studio.ml.bot.history.legacySessionRestored": "true",
-    "terminal.gen.one.option.visible": "false"
+    "terminal.gen.one.option.visible": "false",
+    "updater.configure.tools.details.checkbox.selected": "true"
   },
   "keyToStringList": {
     "fileTypeDetectors": [
