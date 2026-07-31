@@ -114,22 +114,6 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="$USER_HOME$/Desktop/webview_ios">
-          <value>
-            <RecentProjectMetaInfo frameTitle="WebView_iOS – settings.gradle.kts (WebView_iOS)" projectWorkspaceId="3DhlO0g4qJn0qD8jeFGkwPEgGci">
-              <option name="activationTimestamp" value="1783080466841" />
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="AI-261.23567.138.2611.15646644" />
-              <option name="buildTimestamp" value="1781560680000" />
-              <option name="colorInfo">
-                <RecentProjectColorInfo associatedIndex="2" />
-              </option>
-              <frame x="76" y="31" width="1556" height="983" />
-              <option name="productionCode" value="AI" />
-              <option name="projectOpenTimestamp" value="1783000725375" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
         <entry key="C:/JC_Vault">
           <value>
             <RecentProjectMetaInfo frameTitle="JC_Vault – app.json" projectWorkspaceId="3Ff7KYt3wgeRPReGe41TXRwXgrv">
@@ -146,58 +130,10 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="$USER_HOME$/Desktop/KMPEXample">
-          <value>
-            <RecentProjectMetaInfo frameTitle="KMPEXample – build.gradle.kts (:app:androidApp)" projectWorkspaceId="3FXOXhaXhGpk19UanHddoXNgJBH">
-              <option name="activationTimestamp" value="1784721725163" />
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="AI-261.23567.138.2611.15646644" />
-              <option name="buildTimestamp" value="1781560680000" />
-              <option name="colorInfo">
-                <RecentProjectColorInfo associatedIndex="8" />
-              </option>
-              <frame x="71" y="25" width="1489" height="1000" />
-              <option name="productionCode" value="AI" />
-              <option name="projectOpenTimestamp" value="1784721680583" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
-        <entry key="C:/android/ldsonline">
-          <value>
-            <RecentProjectMetaInfo frameTitle="LDSOnline – libs.versions.toml [LDSOnline]" projectWorkspaceId="39Hjcizg3yZQaLxurg9Po7Kla6H">
-              <option name="activationTimestamp" value="1784728372922" />
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="AI-261.23567.138.2611.15646644" />
-              <option name="buildTimestamp" value="1781560680000" />
-              <option name="colorInfo">
-                <RecentProjectColorInfo associatedIndex="2" />
-              </option>
-              <frame x="27" y="20" width="1773" height="1000" />
-              <option name="productionCode" value="AI" />
-              <option name="projectOpenTimestamp" value="1784728303457" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
-        <entry key="$USER_HOME$/Desktop/quickdeal">
-          <value>
-            <RecentProjectMetaInfo frameTitle="QuickDeal – FormScreen.kt [QuickDeal.composeApp.commonMain]" projectWorkspaceId="3FwjIBI2aQDlu60eKo2RgG45Erg">
-              <option name="activationTimestamp" value="1784729856907" />
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="AI-261.23567.138.2611.15646644" />
-              <option name="buildTimestamp" value="1781560680000" />
-              <option name="colorInfo">
-                <RecentProjectColorInfo associatedIndex="2" />
-              </option>
-              <frame x="77" y="22" width="1495" height="999" />
-              <option name="productionCode" value="AI" />
-              <option name="projectOpenTimestamp" value="1784728380631" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
         <entry key="$APPLICATION_CONFIG_DIR$">
           <value>
-            <RecentProjectMetaInfo frameTitle="AndroidStudio2026.1.1 – ManagedVirtualDeviceCatalogService.xml" projectWorkspaceId="32Gujtm9RIMmBzRCk41luVGT4Pm">
-              <option name="activationTimestamp" value="1784729553422" />
+            <RecentProjectMetaInfo frameTitle="AndroidStudio2026.1.1 – BestsellersSCREEN.kt.child.0.kt" projectWorkspaceId="32Gujtm9RIMmBzRCk41luVGT4Pm">
+              <option name="activationTimestamp" value="1784730207468" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="AI-261.23567.138.2611.15646644" />
               <option name="buildTimestamp" value="1781560680000" />
@@ -206,13 +142,109 @@
               </option>
               <frame x="260" y="25" width="1400" height="1000" />
               <option name="productionCode" value="AI" />
-              <option name="projectOpenTimestamp" value="1784729544043" />
+              <option name="projectOpenTimestamp" value="1784730112561" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/KMPEXample">
+          <value>
+            <RecentProjectMetaInfo frameTitle="KMPEXample – README.md [KMPEXample]" projectWorkspaceId="3FXOXhaXhGpk19UanHddoXNgJBH">
+              <option name="activationTimestamp" value="1784811238082" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-261.23567.138.2611.15646644" />
+              <option name="buildTimestamp" value="1781560680000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="8" />
+              </option>
+              <frame x="71" y="25" width="1489" height="1000" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1784811239413" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/webview_ios">
+          <value>
+            <RecentProjectMetaInfo frameTitle="WebView_iOS – README.md [WebView_iOS]" projectWorkspaceId="3DhlO0g4qJn0qD8jeFGkwPEgGci">
+              <option name="activationTimestamp" value="1784814988745" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-261.23567.138.2611.15646644" />
+              <option name="buildTimestamp" value="1781560680000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="2" />
+              </option>
+              <frame x="321" y="249" width="1556" height="851" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1784811249482" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AndroidStudioProjects/AItest">
+          <value>
+            <RecentProjectMetaInfo frameTitle="AItest – BakingScreen.kt [AItest.app.main]" projectWorkspaceId="3HGIwRuDuHRYbLOUWGzHEiiBJI6">
+              <option name="activationTimestamp" value="1785496755462" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-261.25134.95.2612.15914620" />
+              <option name="buildTimestamp" value="1784714640000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="4" />
+              </option>
+              <frame x="157" y="25" width="1567" height="1000" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1785488216399" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/quickdeal">
+          <value>
+            <RecentProjectMetaInfo frameTitle="QuickDeal – libs.versions.toml [QuickDeal]" projectWorkspaceId="3FwjIBI2aQDlu60eKo2RgG45Erg">
+              <option name="activationTimestamp" value="1785490021760" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-261.25134.95.2612.15914620" />
+              <option name="buildTimestamp" value="1784714640000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="2" />
+              </option>
+              <frame x="77" y="22" width="1579" height="1008" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1785490023017" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/NotShareUi">
+          <value>
+            <RecentProjectMetaInfo frameTitle="NotShareUi – Application.kt [NotShareUi.server.main]" projectWorkspaceId="3HDDFMtQxSfyWzkhEWk5UGLzNVi">
+              <option name="activationTimestamp" value="1785502897882" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-261.25134.95.2612.15914620" />
+              <option name="buildTimestamp" value="1784714640000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="3" />
+              </option>
+              <frame x="105" y="41" width="1523" height="965" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1785496764838" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:/android/ldsonline">
+          <value>
+            <RecentProjectMetaInfo frameTitle="LDSOnline – LkApp.kt [LDSOnline.appWebView.main]" projectWorkspaceId="39Hjcizg3yZQaLxurg9Po7Kla6H">
+              <option name="activationTimestamp" value="1785502871517" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-261.25134.95.2612.15914620" />
+              <option name="buildTimestamp" value="1784714640000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="2" />
+              </option>
+              <frame x="38" y="17" width="1662" height="966" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1785496927593" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
       </map>
     </option>
-    <option name="lastOpenedProject" value="$USER_HOME$/Desktop/quickdeal" />
+    <option name="lastOpenedProject" value="$USER_HOME$/Desktop/NotShareUi" />
     <option name="lastProjectLocation" value="$USER_HOME$/AndroidStudioProjects" />
   </component>
 </application>

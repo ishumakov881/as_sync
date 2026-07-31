@@ -1,21 +1,23 @@
 <application>
   <component name="KoinServiceState">
-    <option name="data" value="QqyRS1zF4RsPmPeSa7KDYZEU5LrN3g0ZzVqHeYtIv58KxGs++Yxow/eGDFKzjcGOO9ASASay/V/E8E5bsbFtyQwZdeQ/fTw3OmkVyEmhPXLMTpi3i/fkqPaO31ErZGEj/vqn5zpQcO2xfXjA6HJZPeNByFYq5JHynh4OTPSDTr9DZJxqgkqonrkTtZPU+IpeMWqeUbcOI7hgwUO6n0lrFvlNIsXvbPqQzsXHKzYsvmKH+yNlNzM5mjBuyOay+ec8JysM0wisji9zTrv+QEGYoLIqyZpkPEEA9A==" />
+    <option name="data" value="s/IYxf4qFdAVFS/YoAUNCT8d+OhtK+01WtToLyALE2rulL6ExE6PVUYc4yUmlZQ63uL15xcb4iU8rca9tJJceRsmfMpf3Dy01HJOzhvew2719UA488uSWhR7JHdE7PttlI8B6niI5Uoln8u42C6b8WHLFPHY7dGgCeqq0NzANlyJe+i8mkFDskxu3Xp4fnKRKRExgzUf4FN0VD2qOu2gyLQXrca9QKpF3gbW5R0sLzNIN/GJ0Q5hrFzlLUzxH2jJP7vGhikNRfyd4bNeULBJvayREI1xiyVOZA==" />
     <option name="deviceId" value="fc5c8af5-e67a-4437-bcc8-45399a9117f9" />
     <option name="f" value="true" />
     <option name="lastMetric">
       <map>
         <entry key="2ab490c6" value="1772523980241" />
         <entry key="2bf50472" value="1772437563134" />
-        <entry key="3590e8d5" value="1781878686717" />
+        <entry key="3590e8d5" value="1784811268356" />
         <entry key="39054671" value="1767685387712" />
         <entry key="4b861540" value="1770015439632" />
+        <entry key="4f6349a9" value="1785488825825" />
+        <entry key="51b460d2" value="1785394671406" />
         <entry key="5f9578b6" value="1772699363223" />
         <entry key="659cbd02" value="1779112126285" />
         <entry key="69353283" value="1769432628035" />
         <entry key="6f06bb65" value="1769435333754" />
         <entry key="a8fd0a72" value="1767705584351" />
-        <entry key="b7ab70b6" value="1781678708494" />
+        <entry key="b7ab70b6" value="1785404367107" />
         <entry key="b8978259" value="1781185786583" />
         <entry key="bd711e0d" value="1770121024443" />
         <entry key="be243522" value="1765978858893" />
@@ -23,6 +25,7 @@
         <entry key="d4b2b881" value="1766666234114" />
         <entry key="e2293b3d" value="1768998390179" />
         <entry key="e2b44f6e" value="1781077184018" />
+        <entry key="e7b01967" value="1785404861076" />
         <entry key="f11efd0d" value="1772695551187" />
         <entry key="f72d7db5" value="1766738424101" />
       </map>
