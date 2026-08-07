@@ -26,15 +26,12 @@
     "Copy.OpenInEditor": "true",
     "FindSplitterProportion": "0.30122593",
     "InstalledPluginsSearchHistory": "git\ngi\ng\nvcs\nvc",
-    "LAST_CALCULATED_COLOR_INDEX_KEY": "4",
+    "LAST_CALCULATED_COLOR_INDEX_KEY": "6",
     "Markdown Split EditorLayout": "Editor only",
     "MarketplacePluginsSearchHistory": "git\nmul\nmu",
     "MemberChooser.copyJavadoc": "false",
     "MemberChooser.showClasses": "true",
     "MoveFile.OpenInEditor": "true",
-    "NextRunPlatformUpdateBuild": "AI-261.26222.65.2613.15948027",
-    "NextRunPlatformUpdateSelfBuild": "AI-261.25134.95.2612.15914620",
-    "NextRunPlatformUpdateVersion": "Quail 3 | 2026.1.3",
     "PluginConfigurable.selectionTab": "1",
     "RunOnceActivity.TerminalFontSettingsService.fixStoredNonMonospacedFonts": "true",
     "RunOnceActivity.TerminalOptionsProvider.TerminalEngineMigration.2026.1": "true",
@@ -51,6 +48,7 @@
     "SAVED_ANDROID_NPW_DSL_LANGUAGE": "KTS",
     "SAVED_ANDROID_NPW_LANGUAGE": "Kotlin",
     "SAVED_ANDROID_PACKAGE": "com.example",
+    "SPLIT_EDITOR_MODE_C:/Users/reznichenko.i/Desktop/KotlinProject/androidApp/src/main/res/drawable-v24/ic_launcher_foreground.xml": "DEACTIVATED",
     "SPLIT_EDITOR_MODE_C:/Users/reznichenko.i/Desktop/webview_ios/composeApp/src/androidMain/res/mipmap-anydpi-v26/ic_launcher.xml": "DEACTIVATED",
     "SPLIT_EDITOR_MODE_C:/Users/reznichenko.i/Desktop/webview_ios/composeApp/src/main/res/mipmap-anydpi-v26/ic_launcher.xml": "DEACTIVATED",
     "SPLIT_EDITOR_MODE_C:/android/ldsonline/appWebView/src/main/res/drawable/ic_wifi.xml": "DEACTIVATED",
@@ -60,7 +58,7 @@
     "StudioBot.Agent.MigratedToPermissions": "true",
     "StudioBot.Agent.isAutoApprove": "true",
     "TerminalCompletionPopupPromotion.shownCount": "3",
-    "TextEditorWithPreview.SplitterProportionKey": "0.8611111",
+    "TextEditorWithPreview.SplitterProportionKey": "0.6983857",
     "USER_CLOSED_ANALYZING_BANNER_KEY": "true",
     "build.toolwindow.Build Output.selection.state": "com.intellij.build.BuildTreeConsoleView",
     "build.toolwindow.Sync.selection.state": "com.intellij.build.BuildTreeConsoleView",
@@ -71,7 +69,7 @@
     "decompiler.legal.notice.accepted": "true",
     "defaultJdkConfigured": "true",
     "enter_selection_count": "5",
-    "experimental.ui.used.version": "261.25134.95.2612.15914620",
+    "experimental.ui.used.version": "261.26222.65.2613.15948027",
     "file.gist.reindex.count": "5",
     "fileTypeChangedCounter": "3",
     "fontSizeToResetConsole": "13.0",
@@ -81,15 +79,15 @@
     "got.it.tooltip.filter.tip": "1",
     "ide.islands.ab3": "true",
     "ide.islands.new.darcula": "true",
-    "ide.updates.old.dirs.scan.scheduled": "1785741900942",
-    "installed.kotlin.plugin.version": "261.25134.95.2612.15914620-AS",
-    "kotlin.lastUpdateCheck": "1785482249029",
+    "ide.updates.old.dirs.scan.scheduled": "1786361358249",
+    "installed.kotlin.plugin.version": "261.26222.65.2613.15948027-AS",
+    "kotlin.lastUpdateCheck": "1785829568525",
     "kotlin.updates.whats.new.shown.for": "2.3.10",
     "lvcs.diff.with.list.splitter.horizontal": "0.2866242",
     "previousColorScheme": "_@user_Dark",
     "promo.ignore.suggested.ide": "true",
-    "registry.to.advanced.settings.migration.build": "AI-261.25134.95.2612.15914620",
-    "studio.activity.count": "11",
+    "registry.to.advanced.settings.migration.build": "AI-261.26222.65.2613.15948027",
+    "studio.activity.count": "1",
     "studio.bot.first.time.shown": "true",
     "studio.bot.shown": "true",
     "studio.ml.bot.history.legacySessionRestored": "true",
@@ -105,13 +103,13 @@
     ]
   }
 }]]></component>
-  <component name="ReworkedTerminalUsage"><![CDATA[{
-  "enterKeyPressedTimes": 6191,
-  "completionPopupShownTimes": 5,
-  "completionItemChosenTimes": 3,
-  "firstIdeSessionMoment": {
-    "type": "org.jetbrains.plugins.terminal.TerminalFirstIdeSessionMoment.BeforeTrackingStarted"
+  <component name="ReworkedTerminalUsage">{
+  &quot;enterKeyPressedTimes&quot;: 6215,
+  &quot;completionPopupShownTimes&quot;: 5,
+  &quot;completionItemChosenTimes&quot;: 3,
+  &quot;firstIdeSessionMoment&quot;: {
+    &quot;type&quot;: &quot;org.jetbrains.plugins.terminal.TerminalFirstIdeSessionMoment.BeforeTrackingStarted&quot;
   }
-}]]></component>
+}</component>
   <component name="TerminalAgentsState">{}</component>
 </application>
