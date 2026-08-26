@@ -3,7 +3,7 @@
     <option name="recordingCount" value="3" />
   </component>
   <component name="DeviceScreenshotSettings">
-    <option name="screenshotCount" value="26" />
+    <option name="screenshotCount" value="29" />
   </component>
   <component name="FileEditorProviderManager">{
   &quot;selectedProviders&quot;: {
@@ -22,17 +22,18 @@
     "ATTACHED_TOOL_WINDOW.DEFAULT.Main Preview.TOOL_ORDER": "",
     "ATTACHED_TOOL_WINDOW.DESIGN_FILES_PREVIEW_EDITOR.TOOL_ORDER": "",
     "ATTACHED_TOOL_WINDOW.Main Preview.TOOL_ORDER": "",
-    "ColorChooser.RecentColors": "204-15-15-255,,,0-0-0-255",
+    "ColorChooser.RecentColors": "255-255-255-255,,,204-15-15-255,,,0-0-0-255",
     "Copy.OpenInEditor": "true",
     "FindSplitterProportion": "0.30122593",
-    "InstalledPluginsSearchHistory": "git\ngi\ng\nvcs\nvc",
-    "LAST_CALCULATED_COLOR_INDEX_KEY": "6",
+    "GEMINI_INTELLIJ_INSTALLATION_ID": "f8cc680b-4b82-47ad-84c2-69577b843bac",
+    "InstalledPluginsSearchHistory": "openapi\nopenap\nopena\nopen\nope",
+    "LAST_CALCULATED_COLOR_INDEX_KEY": "5",
     "Markdown Split EditorLayout": "Editor only",
-    "MarketplacePluginsSearchHistory": "git\nmul\nmu",
+    "MarketplacePluginsSearchHistory": "Compose Stability Analyzer\nopenapi\nopena\nopen\ngit",
     "MemberChooser.copyJavadoc": "false",
     "MemberChooser.showClasses": "true",
     "MoveFile.OpenInEditor": "true",
-    "PluginConfigurable.selectionTab": "1",
+    "NEXT_SURVEY_TIMESTAMP": "2026-08-31T09:46:34.961625200Z",
     "RunOnceActivity.TerminalFontSettingsService.fixStoredNonMonospacedFonts": "true",
     "RunOnceActivity.TerminalOptionsProvider.TerminalEngineMigration.2026.1": "true",
     "RunOnceActivity.TerminalOptionsProvider.appTitleMigration.2026.1.1": "true",
@@ -52,7 +53,7 @@
     "SPLIT_EDITOR_MODE_C:/Users/reznichenko.i/Desktop/webview_ios/composeApp/src/androidMain/res/mipmap-anydpi-v26/ic_launcher.xml": "DEACTIVATED",
     "SPLIT_EDITOR_MODE_C:/Users/reznichenko.i/Desktop/webview_ios/composeApp/src/main/res/mipmap-anydpi-v26/ic_launcher.xml": "DEACTIVATED",
     "SPLIT_EDITOR_MODE_C:/android/ldsonline/appWebView/src/main/res/drawable/ic_wifi.xml": "DEACTIVATED",
-    "SettingsSearchHistory": "vcs\nplu\next\nextern\nexternal t",
+    "SettingsSearchHistory": "tools\nai\nexter\nvcs\nplu",
     "Source Code Editor With PreviewLayout": "Editor only",
     "StudioBot.ActiveTab": "Agent",
     "StudioBot.Agent.MigratedToPermissions": "true",
@@ -69,8 +70,8 @@
     "decompiler.legal.notice.accepted": "true",
     "defaultJdkConfigured": "true",
     "enter_selection_count": "5",
-    "experimental.ui.used.version": "261.26222.65.2613.15948027",
-    "file.gist.reindex.count": "5",
+    "experimental.ui.used.version": "261.26222.65.2613.16025427",
+    "file.gist.reindex.count": "6",
     "fileTypeChangedCounter": "3",
     "fontSizeToResetConsole": "13.0",
     "fontSizeToResetEditor": "13.0",
@@ -79,15 +80,14 @@
     "got.it.tooltip.filter.tip": "1",
     "ide.islands.ab3": "true",
     "ide.islands.new.darcula": "true",
-    "ide.updates.old.dirs.scan.scheduled": "1786361358249",
-    "installed.kotlin.plugin.version": "261.26222.65.2613.15948027-AS",
-    "kotlin.lastUpdateCheck": "1785829568525",
+    "installed.kotlin.plugin.version": "261.26222.65.2613.16025427-AS",
+    "kotlin.lastUpdateCheck": "1787742932884",
     "kotlin.updates.whats.new.shown.for": "2.3.10",
     "lvcs.diff.with.list.splitter.horizontal": "0.2866242",
     "previousColorScheme": "_@user_Dark",
     "promo.ignore.suggested.ide": "true",
-    "registry.to.advanced.settings.migration.build": "AI-261.26222.65.2613.15948027",
-    "studio.activity.count": "1",
+    "registry.to.advanced.settings.migration.build": "AI-261.26222.65.2613.16025427",
+    "studio.activity.count": "50",
     "studio.bot.first.time.shown": "true",
     "studio.bot.shown": "true",
     "studio.ml.bot.history.legacySessionRestored": "true",
@@ -95,6 +95,10 @@
     "updater.configure.tools.details.checkbox.selected": "true"
   },
   "keyToStringList": {
+    "DAILY_ACTION_TIMESTAMPS": [
+      "2026-08-24T09:46:34.959617500Z",
+      "2026-08-25T11:12:18.849955300Z"
+    ],
     "fileTypeDetectors": [
       "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
       "com.android.tools.idea.profilers.capture.MemoryCaptureFileType$Detector",
@@ -103,13 +107,13 @@
     ]
   }
 }]]></component>
-  <component name="ReworkedTerminalUsage">{
-  &quot;enterKeyPressedTimes&quot;: 6215,
-  &quot;completionPopupShownTimes&quot;: 5,
-  &quot;completionItemChosenTimes&quot;: 3,
-  &quot;firstIdeSessionMoment&quot;: {
-    &quot;type&quot;: &quot;org.jetbrains.plugins.terminal.TerminalFirstIdeSessionMoment.BeforeTrackingStarted&quot;
+  <component name="ReworkedTerminalUsage"><![CDATA[{
+  "enterKeyPressedTimes": 6522,
+  "completionPopupShownTimes": 7,
+  "completionItemChosenTimes": 3,
+  "firstIdeSessionMoment": {
+    "type": "org.jetbrains.plugins.terminal.TerminalFirstIdeSessionMoment.BeforeTrackingStarted"
   }
-}</component>
+}]]></component>
   <component name="TerminalAgentsState">{}</component>
 </application>

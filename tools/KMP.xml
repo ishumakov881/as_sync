@@ -97,4 +97,18 @@
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
+  <tool name="[WASM] gradlew :sample:web:wasmJsBrowserDevelopmentRun" description=".\gradlew :sample:web:wasmJsBrowserDevelopmentRun" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="false">
+    <exec>
+      <option name="COMMAND" value="$ProjectFileDir$\gradlew.bat" />
+      <option name="PARAMETERS" value=":sample:web:wasmJsBrowserDevelopmentRun --info" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+  <tool name="[wasm demo run]" description=".\gradlew.bat :composeApp:wasmJsBrowserDevelopmentRun" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="false">
+    <exec>
+      <option name="COMMAND" value="$ProjectFileDir$\gradlew.bat" />
+      <option name="PARAMETERS" value=":composeApp:wasmJsBrowserDevelopmentRun" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
 </toolSet>

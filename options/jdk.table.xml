@@ -172,12 +172,12 @@
           </root>
         </classPath>
         <javadocPath>
-          <root type="composite">
-            <root url="http://developer.android.com/reference/" type="simple" />
-          </root>
+          <root type="composite" />
         </javadocPath>
         <sourcePath>
-          <root type="composite" />
+          <root type="composite">
+            <root url="file://C:/android/sdk/sources/android-37.0" type="simple" />
+          </root>
         </sourcePath>
       </roots>
       <additional sdk="android-37.0" />
@@ -1483,6 +1483,33 @@
           </root>
         </sourcePath>
       </roots>
+    </jdk>
+    <jdk version="2">
+      <name value="Android API 37.1, extension level 23 Platform" />
+      <type value="Android SDK" />
+      <homePath value="C:/android/sdk" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://C:/android/sdk/platforms/android-37.1/data/annotations.zip!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jar://C:/android/sdk/platforms/android-37.1/android.jar!/" type="simple" />
+            <root url="file://C:/android/sdk/platforms/android-37.1/data/res" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root url="file://C:/android/sdk/sources/android-37.1" type="simple" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional sdk="android-37.1" />
     </jdk>
   </component>
 </application>

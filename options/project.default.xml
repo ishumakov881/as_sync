@@ -4,6 +4,12 @@
       <component name="AutoImportSettings">
         <option name="autoReloadType" value="NONE" />
       </component>
+      <component name="WindowStateProjectService">
+        <state x="552" y="181" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1786434034669">
+          <screen x="0" y="0" width="1920" height="1050" />
+        </state>
+        <state x="552" y="181" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1050" timestamp="1786434034669" />
+      </component>
     </defaultProject>
   </component>
 </application>

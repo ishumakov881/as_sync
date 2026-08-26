@@ -1,24 +1,12 @@
 <application>
   <component name="GoogleLoginApplicationSettings">
-    <option name="activeUser" value="ishumakov881@gmail.com" />
+    <option name="activeUser" value="lazagne47@gmail.com" />
     <option name="userEmail2FeaturesStore">
       <map>
-        <entry key="alexvarboffin@gmail.com">
+        <entry key="lazagne47@gmail.com">
           <value>
             <set>
               <option value="AiCode" />
-              <option value="Android Vitals" />
-              <option value="Backup and Sync" />
-              <option value="Firebase" />
-              <option value="Notifications" />
-              <option value="User Info" />
-            </set>
-          </value>
-        </entry>
-        <entry key="ishumakov881@gmail.com">
-          <value>
-            <set>
-              <option value="Firebase" />
               <option value="User Info" />
               <option value="Notifications" />
             </set>
