@@ -4,11 +4,46 @@
       <component name="AutoImportSettings">
         <option name="autoReloadType" value="NONE" />
       </component>
+      <component name="ProjectInspectionProfilesVisibleTreeState">
+        <entry key="Project Default">
+          <profile-state>
+            <selected-state>
+              <State>
+                <id>User defined</id>
+              </State>
+            </selected-state>
+          </profile-state>
+        </entry>
+      </component>
+      <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "settings.editor.selected.configurable": "preferences.sourceCode.JAVA"
+  }
+}]]></component>
       <component name="WindowStateProjectService">
         <state x="552" y="181" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1786434034669">
           <screen x="0" y="0" width="1920" height="1050" />
         </state>
         <state x="552" y="181" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1050" timestamp="1786434034669" />
+        <state x="186" y="54" width="1064" height="742" key="SettingsEditor" timestamp="1792161805169">
+          <screen x="0" y="0" width="1440" height="852" />
+        </state>
+        <state x="186" y="54" width="1064" height="742" key="SettingsEditor/0.0.1440.852" timestamp="1792161805169" />
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="Copyright.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
       </component>
     </defaultProject>
   </component>

@@ -1,6 +1,6 @@
 <application>
   <component name="DeviceScreenRecordingSettings">
-    <option name="recordingCount" value="3" />
+    <option name="recordingCount" value="5" />
   </component>
   <component name="DeviceScreenshotSettings">
     <option name="screenshotCount" value="29" />
@@ -10,6 +10,17 @@
     &quot;text-editor,android-manifest&quot;: &quot;text-editor&quot;
   }
 }</component>
+  <component name="JdkInstallerHistory">
+    <option name="installedItems">
+      <installed-jdk>
+        <option name="fullText" value="Microsoft OpenJDK 17.0.21.0.2" />
+        <option name="installDir" value="C:\Users\combo\.jdks\ms-17.0.21.0.2" />
+        <option name="sha256" value="49154292866386b2f4f09a3ecf3be07ab80a419149c84ec1d4419b9eec9e4b64" />
+        <option name="url" value="https://aka.ms/download-jdk/microsoft-jdk-17.0.21.0.2-windows-x64.zip" />
+        <option name="versionText" value="17.0.21.0.2" />
+      </installed-jdk>
+    </option>
+  </component>
   <component name="NotRoamableUiSettings">
     <option name="fontSize" value="12.0" />
     <option name="presentationModeIdeScale" value="1.75" />
@@ -20,20 +31,40 @@
     "ATTACHED_TOOL_WINDOW.DEFAULT.Compose Preview.TOOL_ORDER": "",
     "ATTACHED_TOOL_WINDOW.DEFAULT.DESIGN_FILES_PREVIEW_EDITOR.TOOL_ORDER": "",
     "ATTACHED_TOOL_WINDOW.DEFAULT.Main Preview.TOOL_ORDER": "",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.COMPONENT_TREE.FULL.AUTO_HIDE": "false",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.COMPONENT_TREE.FULL.LEFT": "true",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.COMPONENT_TREE.FULL.MINIMIZED": "false",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.COMPONENT_TREE.FULL.SPLIT": "true",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PALETTE.FULL.AUTO_HIDE": "false",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PALETTE.FULL.LEFT": "true",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PALETTE.FULL.MINIMIZED": "false",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PALETTE.FULL.SPLIT": "false",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PROPERTIES.FULL.AUTO_HIDE": "false",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PROPERTIES.FULL.LEFT": "false",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PROPERTIES.FULL.MINIMIZED": "false",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PROPERTIES.FULL.SPLIT": "false",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.TOOL_ORDER": "PALETTE,PROPERTIES,COMPONENT_TREE",
     "ATTACHED_TOOL_WINDOW.DESIGN_FILES_PREVIEW_EDITOR.TOOL_ORDER": "",
     "ATTACHED_TOOL_WINDOW.Main Preview.TOOL_ORDER": "",
+    "ATTACHED_TOOL_WINDOW.NELE_EDITOR.COMPONENT_TREE.FULL.LEFT": "true",
+    "ATTACHED_TOOL_WINDOW.NELE_EDITOR.COMPONENT_TREE.FULL.SPLIT": "true",
+    "ATTACHED_TOOL_WINDOW.NELE_EDITOR.PALETTE.FULL.LEFT": "true",
+    "ATTACHED_TOOL_WINDOW.NELE_EDITOR.TOOL_ORDER": "PALETTE,PROPERTIES,COMPONENT_TREE",
+    "CidrDebugProfileConversion": "true",
     "ColorChooser.RecentColors": "255-255-255-255,,,204-15-15-255,,,0-0-0-255",
     "Copy.OpenInEditor": "true",
+    "FileTemplates.SelectedTemplate": "AnnotationType",
     "FindSplitterProportion": "0.30122593",
     "GEMINI_INTELLIJ_INSTALLATION_ID": "f8cc680b-4b82-47ad-84c2-69577b843bac",
     "InstalledPluginsSearchHistory": "openapi\nopenap\nopena\nopen\nope",
-    "LAST_CALCULATED_COLOR_INDEX_KEY": "5",
+    "LAST_CALCULATED_COLOR_INDEX_KEY": "6",
     "Markdown Split EditorLayout": "Editor only",
-    "MarketplacePluginsSearchHistory": "Compose Stability Analyzer\nopenapi\nopena\nopen\ngit",
+    "MarketplacePluginsSearchHistory": "/tag:\"Language Pack\"\nCompose Stability Analyzer\nopenapi\nopena\nopen",
     "MemberChooser.copyJavadoc": "false",
     "MemberChooser.showClasses": "true",
     "MoveFile.OpenInEditor": "true",
     "NEXT_SURVEY_TIMESTAMP": "2026-08-31T09:46:34.961625200Z",
+    "PluginConfigurable.selectionTab": "1",
     "RunOnceActivity.TerminalFontSettingsService.fixStoredNonMonospacedFonts": "true",
     "RunOnceActivity.TerminalOptionsProvider.TerminalEngineMigration.2026.1": "true",
     "RunOnceActivity.TerminalOptionsProvider.appTitleMigration.2026.1.1": "true",
@@ -67,12 +98,13 @@
     "colorPickerCategoryProperty": "MATERIAL_500",
     "com.android.studio.ml.backends.settings.IS_REMOTE_API_KEY_SET_http://ai.lds.net.ru/api/": "true",
     "com.google.aiplugin.rag.indexer.implementation": "com.google.aiplugin.rag.bm25.LucindexBm25Indexer/v1",
+    "com.google.gct.login2.ui.StartupSignInDialog.shownVersion": "2026.2",
     "decompiler.legal.notice.accepted": "true",
     "defaultJdkConfigured": "true",
     "enter_selection_count": "5",
-    "experimental.ui.used.version": "261.26222.65.2613.16025427",
-    "file.gist.reindex.count": "6",
-    "fileTypeChangedCounter": "3",
+    "experimental.ui.used.version": "261.26222.65.2614.16379836",
+    "file.gist.reindex.count": "7",
+    "fileTypeChangedCounter": "4",
     "fontSizeToResetConsole": "13.0",
     "fontSizeToResetEditor": "13.0",
     "git.working.trees.stop.showing.new.badge": "true",
@@ -80,13 +112,16 @@
     "got.it.tooltip.filter.tip": "1",
     "ide.islands.ab3": "true",
     "ide.islands.new.darcula": "true",
-    "installed.kotlin.plugin.version": "261.26222.65.2613.16025427-AS",
-    "kotlin.lastUpdateCheck": "1787742932884",
-    "kotlin.updates.whats.new.shown.for": "2.3.10",
+    "ide.updates.old.dirs.scan.scheduled": "1793196764442",
+    "installed.kotlin.plugin.version": "262.9437.185.2621.16467767-AS",
+    "kotlin.lastUpdateCheck": "1793176968229",
+    "kotlin.updates.whats.new.shown.for": "2.3.20",
     "lvcs.diff.with.list.splitter.horizontal": "0.2866242",
+    "migrate.android.sdk.path.to.roamable.storage": "false",
     "previousColorScheme": "_@user_Dark",
     "promo.ignore.suggested.ide": "true",
-    "registry.to.advanced.settings.migration.build": "AI-261.26222.65.2613.16025427",
+    "registry.to.advanced.settings.migration.build": "AI-262.9437.185.2621.16467767",
+    "settings.new.badge.shown.count.configurable.group.editor": "1",
     "studio.activity.count": "50",
     "studio.bot.first.time.shown": "true",
     "studio.bot.shown": "true",
@@ -101,14 +136,14 @@
     ],
     "fileTypeDetectors": [
       "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
-      "com.android.tools.idea.profilers.capture.MemoryCaptureFileType$Detector",
       "com.jetbrains.cidr.lang.OCHeaderFileTypeDetector",
+      "com.android.tools.idea.profilers.capture.MemoryCaptureFileType$Detector",
       "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
     ]
   }
 }]]></component>
   <component name="ReworkedTerminalUsage"><![CDATA[{
-  "enterKeyPressedTimes": 6522,
+  "enterKeyPressedTimes": 6593,
   "completionPopupShownTimes": 7,
   "completionItemChosenTimes": 3,
   "firstIdeSessionMoment": {
