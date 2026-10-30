@@ -57,7 +57,7 @@
     "FindSplitterProportion": "0.30122593",
     "GEMINI_INTELLIJ_INSTALLATION_ID": "f8cc680b-4b82-47ad-84c2-69577b843bac",
     "InstalledPluginsSearchHistory": "openapi\nopenap\nopena\nopen\nope",
-    "LAST_CALCULATED_COLOR_INDEX_KEY": "6",
+    "LAST_CALCULATED_COLOR_INDEX_KEY": "7",
     "Markdown Split EditorLayout": "Editor only",
     "MarketplacePluginsSearchHistory": "/tag:\"Language Pack\"\nCompose Stability Analyzer\nopenapi\nopena\nopen",
     "MemberChooser.copyJavadoc": "false",
@@ -112,7 +112,6 @@
     "got.it.tooltip.filter.tip": "1",
     "ide.islands.ab3": "true",
     "ide.islands.new.darcula": "true",
-    "ide.updates.old.dirs.scan.scheduled": "1793196764442",
     "installed.kotlin.plugin.version": "262.9437.185.2621.16467767-AS",
     "kotlin.lastUpdateCheck": "1793176968229",
     "kotlin.updates.whats.new.shown.for": "2.3.20",
@@ -142,13 +141,13 @@
     ]
   }
 }]]></component>
-  <component name="ReworkedTerminalUsage"><![CDATA[{
-  "enterKeyPressedTimes": 6593,
-  "completionPopupShownTimes": 7,
-  "completionItemChosenTimes": 3,
-  "firstIdeSessionMoment": {
-    "type": "org.jetbrains.plugins.terminal.TerminalFirstIdeSessionMoment.BeforeTrackingStarted"
+  <component name="ReworkedTerminalUsage">{
+  &quot;enterKeyPressedTimes&quot;: 6593,
+  &quot;completionPopupShownTimes&quot;: 7,
+  &quot;completionItemChosenTimes&quot;: 3,
+  &quot;firstIdeSessionMoment&quot;: {
+    &quot;type&quot;: &quot;org.jetbrains.plugins.terminal.TerminalFirstIdeSessionMoment.BeforeTrackingStarted&quot;
   }
-}]]></component>
+}</component>
   <component name="TerminalAgentsState">{}</component>
 </application>

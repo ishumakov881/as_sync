@@ -16,7 +16,7 @@
       <i c="9" l="1792594186071" />
     </e>
     <e n="$SelectAll">
-      <i c="216" l="1792743619659" />
+      <i c="218" l="1793346140745" />
     </e>
     <e n="$Undo">
       <i c="3367" l="1793195693538" />
@@ -82,7 +82,7 @@
       <i c="1" l="1782305418969" />
     </e>
     <e n="CloseProject">
-      <i c="258" l="1793091729674" />
+      <i c="259" l="1793346115841" />
     </e>
     <e n="CodeCompletion">
       <i c="150" l="1792745752698" />
@@ -124,7 +124,7 @@
       <i c="1038" l="1793195790614" />
     </e>
     <e n="EditorCut">
-      <i c="293" l="1793175793368" />
+      <i c="294" l="1793346141507" />
     </e>
     <e n="EditorDeleteLine">
       <i c="1" l="1786631436119" />
@@ -304,7 +304,7 @@
       <i c="52" l="1786956734788" />
     </e>
     <e n="OpenFile">
-      <i c="4" l="1787742090777" />
+      <i c="5" l="1793293854824" />
     </e>
     <e n="OpenInAssociatedApplication">
       <i c="3" l="1787560385252" />
@@ -349,7 +349,7 @@
       <i c="291" l="1793027731327" />
     </e>
     <e n="Run">
-      <i c="2882" l="1793091002246" />
+      <i c="2883" l="1793294172821" />
     </e>
     <e n="RunAnything">
       <i c="7" l="1792591442891" />
@@ -451,7 +451,7 @@
       <i c="1" l="1790363374621" />
     </e>
     <e n="Tool_ KMP _ gradlew packageDistributionForCurrentOS">
-      <i c="1" l="1793103081512" />
+      <i c="1" l="1793181212244" />
     </e>
     <e n="Tool_ KMP _JS-Debug">
       <i c="1" l="1787729774038" />
@@ -472,7 +472,7 @@
       <i c="1" l="1787747908600" />
     </e>
     <e n="Tool_ KMP _️ Gradlew clean build --refresh-dependencies">
-      <i c="1" l="1793103149723" />
+      <i c="1" l="1793181222173" />
     </e>
     <e n="Tool_ADB_ Open URL">
       <i c="1" l="1787555943630" />
@@ -497,12 +497,6 @@
     </e>
     <e n="Tool_Gradle_️ gradlew cleanBuildCache">
       <i c="1" l="1791125764223" />
-    </e>
-    <e n="Tool_ KMP _ gradlew packageDistributionForCurrentOS">
-      <i c="1" l="1793181212244" />
-    </e>
-    <e n="Tool_ KMP _️ Gradlew clean build --refresh-dependencies">
-      <i c="1" l="1793181222173" />
     </e>
     <e n="Tree-selectAll">
       <i c="1" l="1779258562305" />
@@ -538,7 +532,7 @@
       <i c="1" l="1785842663990" />
     </e>
     <e n="WelcomeScreen.RevealIn">
-      <i c="33" l="1793091734075" />
+      <i c="34" l="1793364954743" />
     </e>
     <e n="com.android.build.output.LongDownloadsNotifier$notifyIfTimeElapsed$1$1">
       <i c="3" l="1782220936447" />
