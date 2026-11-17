@@ -1,22 +1,29 @@
 <toolSet name="Git_">
-  <tool name="Git add and commit" description="Git add and commit" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="false">
+  <tool name="Git add" description="git add ." showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="false">
     <exec>
-      <option name="COMMAND" value="cmd" />
-      <option name="PARAMETERS" value="/c &quot;git add . &amp;&amp; git commit -m 1&quot;" />
+      <option name="COMMAND" value="$GIT$" />
+      <option name="PARAMETERS" value="add ." />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
-  <tool name="Git Push" description="Git Push" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="false">
+  <tool name="Git commit -m 1" description="git commit -m 1" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="false">
     <exec>
-      <option name="COMMAND" value="cmd" />
-      <option name="PARAMETERS" value="/c &quot;git push&quot;" />
+      <option name="COMMAND" value="$GIT$" />
+      <option name="PARAMETERS" value="commit -m 1" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
-  <tool name="Git REST --hard" description="Git REST --hard" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="false">
+  <tool name="Git Push" description="Git Push" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="false">
     <exec>
-      <option name="COMMAND" value="cmd" />
-      <option name="PARAMETERS" value="/c &quot;git reset --hard&quot;" />
+      <option name="COMMAND" value="$GIT$" />
+      <option name="PARAMETERS" value="push" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+  <tool name="Git REST --hard" description="Git REST --hard" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="false">
+    <exec>
+      <option name="COMMAND" value="$GIT$" />
+      <option name="PARAMETERS" value="reset --hard" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>

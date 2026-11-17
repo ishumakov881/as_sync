@@ -28,7 +28,7 @@
       <i c="2" l="1790528455929" />
     </e>
     <e n="ActivateCommitToolWindow">
-      <i c="1" l="1792680390134" />
+      <i c="2" l="1794908309994" />
     </e>
     <e n="ActivityView.CreatePatch">
       <i c="2" l="1779275644518" />
@@ -82,7 +82,7 @@
       <i c="1" l="1782305418969" />
     </e>
     <e n="CloseProject">
-      <i c="259" l="1793346115841" />
+      <i c="260" l="1794907863423" />
     </e>
     <e n="CodeCompletion">
       <i c="150" l="1792745752698" />
@@ -112,7 +112,7 @@
       <i c="7" l="1786707300403" />
     </e>
     <e n="EditorBackSpace">
-      <i c="6811" l="1793195780408" />
+      <i c="6835" l="1794907590878" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="1473" l="1792745753376" />
@@ -157,7 +157,7 @@
       <i c="1" l="1785411123362" />
     </e>
     <e n="EditorPaste">
-      <i c="1669" l="1793195674154" />
+      <i c="1670" l="1794907207955" />
     </e>
     <e n="EditorPreviousWord">
       <i c="2" l="1784634160137" />
@@ -358,7 +358,7 @@
       <i c="1" l="1785396345172" />
     </e>
     <e n="SaveAll">
-      <i c="211" l="1792745657645" />
+      <i c="212" l="1794908350455" />
     </e>
     <e n="SearchEverywhere">
       <i c="199" l="1793195673146" />
@@ -480,14 +480,17 @@
     <e n="Tool_ADB_Send key">
       <i c="2" l="1791834550357" />
     </e>
+    <e n="Tool_ADB_ devices">
+      <i c="1" l="1794907855155" />
+    </e>
     <e n="Tool_Git__Git Push">
-      <i c="170" l="1793195786526" />
+      <i c="171" l="1794906530954" />
     </e>
     <e n="Tool_Git__Git REST --hard">
       <i c="2" l="1790528414153" />
     </e>
     <e n="Tool_Git__Git add and commit">
-      <i c="1162" l="1793195935173" />
+      <i c="1164" l="1794907559724" />
     </e>
     <e n="Tool_Gradle_Openapi lk0.lds.online">
       <i c="2" l="1782303645907" />
@@ -523,7 +526,7 @@
       <i c="6" l="1793005479349" />
     </e>
     <e n="WelcomeScreen.OpenProject">
-      <i c="11" l="1792745044421" />
+      <i c="14" l="1794908069222" />
     </e>
     <e n="WelcomeScreen.OpenSelected">
       <i c="1" l="1777876797525" />
@@ -673,7 +676,7 @@
       <i c="1" l="1780053009019" />
     </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
-      <i c="1329" l="1793197430622" />
+      <i c="1330" l="1794908348167" />
     </e>
     <e n="com.intellij.openapi.wm.impl.welcomeScreen.NotificationEventAction">
       <i c="2" l="1792161272236" />
@@ -697,7 +700,7 @@
       <i c="3" l="1787749682816" />
     </e>
     <e n="com.intellij.ui.CommonActionsPanel$AddButton">
-      <i c="1" l="1791308546935" />
+      <i c="2" l="1794907045091" />
     </e>
     <e n="com.intellij.ui.CommonActionsPanel$RemoveButton">
       <i c="1" l="1775570545786" />

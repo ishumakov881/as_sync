@@ -8,9 +8,9 @@
   </tool>
   <tool name="🔌 connect" description="connect" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
-      <option name="COMMAND" value="C:\android\sdk\platform-tools\adb.exe" />
+      <option name="COMMAND" value="$ADB$" />
       <option name="PARAMETERS" value="connect 127.0.0.1:62001" />
-      <option name="WORKING_DIRECTORY" value="C:/android/sdk/platform-tools/" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
 </toolSet>

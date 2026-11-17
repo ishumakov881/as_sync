@@ -1,149 +1,149 @@
 <toolSet name="INSTALLER">
   <tool name="📌 Pinterest" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
-      <option name="COMMAND" value="C:\android\sdk\platform-tools\adb.exe" />
+      <option name="COMMAND" value="$ADB$" />
       <option name="PARAMETERS" value="shell am start -a android.intent.action.VIEW -d 'market://details?id=com.pinterest'" />
-      <option name="WORKING_DIRECTORY" value="C:/android/sdk/platform-tools/" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
   <tool name="📸 Instagram" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
-      <option name="COMMAND" value="C:\android\sdk\platform-tools\adb.exe" />
+      <option name="COMMAND" value="$ADB$" />
       <option name="PARAMETERS" value="shell am start -a android.intent.action.VIEW -d 'market://details?id=com.instagram.android'" />
-      <option name="WORKING_DIRECTORY" value="C:/android/sdk/platform-tools/" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
   <tool name="👥 Facebook" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
-      <option name="COMMAND" value="C:\android\sdk\platform-tools\adb.exe" />
+      <option name="COMMAND" value="$ADB$" />
       <option name="PARAMETERS" value="shell am start -a android.intent.action.VIEW -d 'market://details?id=com.facebook.katana'" />
-      <option name="WORKING_DIRECTORY" value="C:/android/sdk/platform-tools/" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
   <tool name="💬 Whatsapp" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
-      <option name="COMMAND" value="C:\android\sdk\platform-tools\adb.exe" />
+      <option name="COMMAND" value="$ADB$" />
       <option name="PARAMETERS" value="shell am start -a android.intent.action.VIEW -d 'market://details?id=com.whatsapp'" />
-      <option name="WORKING_DIRECTORY" value="C:/android/sdk/platform-tools/" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
   <tool name="♿ Accessibility Auditor" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
-      <option name="COMMAND" value="C:\android\sdk\platform-tools\adb.exe" />
+      <option name="COMMAND" value="$ADB$" />
       <option name="PARAMETERS" value="shell am start -a android.intent.action.VIEW -d 'market://details?id=com.google.android.apps.accessibility.auditor'" />
-      <option name="WORKING_DIRECTORY" value="C:/android/sdk/platform-tools/" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
   <tool name="🔍 $_Open Package_$" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
-      <option name="COMMAND" value="C:\android\sdk\platform-tools\adb.exe" />
+      <option name="COMMAND" value="$ADB$" />
       <option name="PARAMETERS" value="shell am start -a android.intent.action.VIEW -d 'market://details?id=$Prompt$'" />
-      <option name="WORKING_DIRECTORY" value="C:/android/sdk/platform-tools/" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
   <tool name="🚀 Apex Launcher" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
-      <option name="COMMAND" value="C:\android\sdk\platform-tools\adb.exe" />
+      <option name="COMMAND" value="$ADB$" />
       <option name="PARAMETERS" value="shell am start -a android.intent.action.VIEW -d 'market://details?id=com.anddoes.launcher'" />
-      <option name="WORKING_DIRECTORY" value="C:/android/sdk/platform-tools/" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
   <tool name="📞 Viber" description="Viber" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
-      <option name="COMMAND" value="C:\android\sdk\platform-tools\adb.exe" />
+      <option name="COMMAND" value="$ADB$" />
       <option name="PARAMETERS" value="shell am start -a android.intent.action.VIEW -d 'market://details?id=com.viber.voip'" />
-      <option name="WORKING_DIRECTORY" value="C:/android/sdk/platform-tools/" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
   <tool name="📱 Root Browser" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
-      <option name="COMMAND" value="C:\android\sdk\platform-tools\adb.exe" />
+      <option name="COMMAND" value="$ADB$" />
       <option name="PARAMETERS" value="shell am start -a android.intent.action.VIEW -d 'market://details?id=com.jrummy.root.browserfree'" />
-      <option name="WORKING_DIRECTORY" value="C:/android/sdk/platform-tools/" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
   <tool name="🔧 Busy Box" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
-      <option name="COMMAND" value="C:\android\sdk\platform-tools\adb.exe" />
+      <option name="COMMAND" value="$ADB$" />
       <option name="PARAMETERS" value="shell am start -a android.intent.action.VIEW -d 'market://details?id=stericson.busybox'" />
-      <option name="WORKING_DIRECTORY" value="C:/android/sdk/platform-tools/" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
   <tool name="🔒 SafetyNet Test" description="org.freeandroidtools.safetynettest" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
-      <option name="COMMAND" value="C:\android\sdk\platform-tools\adb.exe" />
+      <option name="COMMAND" value="$ADB$" />
       <option name="PARAMETERS" value="shell am start -a android.intent.action.VIEW -d 'market://details?id=org.freeandroidtools.safetynettest'" />
-      <option name="WORKING_DIRECTORY" value="C:/android/sdk/platform-tools/" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
   <tool name="💻 Terminal" description="jackpal.androidterm" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
-      <option name="COMMAND" value="C:\android\sdk\platform-tools\adb.exe" />
+      <option name="COMMAND" value="$ADB$" />
       <option name="PARAMETERS" value="shell am start -a android.intent.action.VIEW -d 'market://details?id=jackpal.androidterm'" />
-      <option name="WORKING_DIRECTORY" value="C:/android/sdk/platform-tools/" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
   <tool name="🔒 Safetynetchecker" description="rikka.safetynetchecker" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
-      <option name="COMMAND" value="C:\android\sdk\platform-tools\adb.exe" />
+      <option name="COMMAND" value="$ADB$" />
       <option name="PARAMETERS" value="shell am start -a android.intent.action.VIEW -d 'market://details?id=rikka.safetynetchecker'" />
-      <option name="WORKING_DIRECTORY" value="C:/android/sdk/platform-tools/" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
   <tool name="📦 com.iraavanan.apkextractor" description="com.iraavanan.apkextractor" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
-      <option name="COMMAND" value="C:\android\sdk\platform-tools\adb.exe" />
+      <option name="COMMAND" value="$ADB$" />
       <option name="PARAMETERS" value="shell am start -a android.intent.action.VIEW -d 'market://details?id=com.iraavanan.apkextractor'" />
-      <option name="WORKING_DIRECTORY" value="C:/android/sdk/platform-tools/" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
   <tool name="🐦 Twitter" description="Twitter" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
-      <option name="COMMAND" value="C:\android\sdk\platform-tools\adb.exe" />
+      <option name="COMMAND" value="$ADB$" />
       <option name="PARAMETERS" value="shell am start -a android.intent.action.VIEW -d 'market://details?id=com.twitter.android'" />
-      <option name="WORKING_DIRECTORY" value="C:/android/sdk/platform-tools/" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
   <tool name="📱 com.gawk.smsforwarder" description="com.gawk.smsforwarder" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
-      <option name="COMMAND" value="C:\android\sdk\platform-tools\adb.exe" />
+      <option name="COMMAND" value="$ADB$" />
       <option name="PARAMETERS" value="shell am start -a android.intent.action.VIEW -d 'market://details?id=com.gawk.smsforwarder'" />
-      <option name="WORKING_DIRECTORY" value="C:/android/sdk/platform-tools/" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
   <tool name="🏦 МКБ Онлайн" description="ru.mkb.mobile" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
-      <option name="COMMAND" value="C:\android\sdk\platform-tools\adb.exe" />
+      <option name="COMMAND" value="$ADB$" />
       <option name="PARAMETERS" value="shell am start -a android.intent.action.VIEW -d 'market://details?id=ru.mkb.mobile'" />
-      <option name="WORKING_DIRECTORY" value="C:/android/sdk/platform-tools/" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
   <tool name="🏦 app" description="app" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
-      <option name="COMMAND" value="C:\android\sdk\platform-tools\adb.exe" />
+      <option name="COMMAND" value="$ADB$" />
       <option name="PARAMETERS" value="shell am start -a android.intent.action.VIEW -d 'market://details?id=@@@@'" />
-      <option name="WORKING_DIRECTORY" value="C:/android/sdk/platform-tools/" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
   <tool name="🌐 WebView" description="WebView" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
-      <option name="COMMAND" value="C:\android\sdk\platform-tools\adb.exe" />
+      <option name="COMMAND" value="$ADB$" />
       <option name="PARAMETERS" value="shell am start -a android.intent.action.VIEW -d 'market://details?id=com.google.android.webview'" />
-      <option name="WORKING_DIRECTORY" value="C:/android/sdk/platform-tools/" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
   <tool name="🔧 Networktools" description="com.stealthcotper.networktools" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
-      <option name="COMMAND" value="C:\android\sdk\platform-tools\adb.exe" />
+      <option name="COMMAND" value="$ADB$" />
       <option name="PARAMETERS" value="shell am start -a android.intent.action.VIEW -d 'market://details?id=com.stealthcotper.networktools'" />
-      <option name="WORKING_DIRECTORY" value="C:/android/sdk/platform-tools/" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
   <tool name="🔍 PortDroid" description="PortDroid" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
-      <option name="COMMAND" value="C:\android\sdk\platform-tools\adb.exe" />
+      <option name="COMMAND" value="$ADB$" />
       <option name="PARAMETERS" value="shell am start -a android.intent.action.VIEW -d 'market://details?id=com.stealthcopter.portdroid'" />
-      <option name="WORKING_DIRECTORY" value="C:/android/sdk/platform-tools/" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
 </toolSet>
