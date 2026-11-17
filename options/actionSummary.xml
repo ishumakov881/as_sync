@@ -477,20 +477,26 @@
     <e n="Tool_ADB_ Open URL">
       <i c="1" l="1787555943630" />
     </e>
-    <e n="Tool_ADB_Send key">
-      <i c="2" l="1791834550357" />
-    </e>
     <e n="Tool_ADB_ devices">
       <i c="1" l="1794907855155" />
     </e>
+    <e n="Tool_ADB_Send key">
+      <i c="2" l="1791834550357" />
+    </e>
     <e n="Tool_Git__Git Push">
-      <i c="171" l="1794906530954" />
+      <i c="172" l="1794908559550" />
     </e>
     <e n="Tool_Git__Git REST --hard">
       <i c="2" l="1790528414153" />
     </e>
+    <e n="Tool_Git__Git add">
+      <i c="1" l="1794908545111" />
+    </e>
     <e n="Tool_Git__Git add and commit">
       <i c="1164" l="1794907559724" />
+    </e>
+    <e n="Tool_Git__Git commit -m 1">
+      <i c="1" l="1794908554667" />
     </e>
     <e n="Tool_Gradle_Openapi lk0.lds.online">
       <i c="2" l="1782303645907" />
