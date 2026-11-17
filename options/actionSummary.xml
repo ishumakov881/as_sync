@@ -16,10 +16,10 @@
       <i c="9" l="1792594186071" />
     </e>
     <e n="$SelectAll">
-      <i c="219" l="1794919080628" />
+      <i c="220" l="1794922438600" />
     </e>
     <e n="$Undo">
-      <i c="3370" l="1794917574582" />
+      <i c="3371" l="1794922437640" />
     </e>
     <e n="About">
       <i c="1" l="1785502632295" />
@@ -105,14 +105,20 @@
     <e n="ConvertJavaToKotlin">
       <i c="18" l="1792599109252" />
     </e>
+    <e n="CopyAbsolutePath">
+      <i c="1" l="1794922512084" />
+    </e>
     <e n="CopyPaths">
       <i c="72" l="1794917557414" />
+    </e>
+    <e n="CopyReferencePopupGroup">
+      <i c="1" l="1794922510214" />
     </e>
     <e n="Debug">
       <i c="7" l="1786707300403" />
     </e>
     <e n="EditorBackSpace">
-      <i c="6864" l="1794919115960" />
+      <i c="6871" l="1794922441230" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="1473" l="1792745753376" />
@@ -160,7 +166,7 @@
       <i c="1" l="1785411123362" />
     </e>
     <e n="EditorPaste">
-      <i c="1675" l="1794919077749" />
+      <i c="1679" l="1794922453637" />
     </e>
     <e n="EditorPreviousWord">
       <i c="2" l="1784634160137" />
@@ -313,7 +319,7 @@
       <i c="3" l="1787560385252" />
     </e>
     <e n="PasteMultiple">
-      <i c="7" l="1787749452361" />
+      <i c="8" l="1794922412349" />
     </e>
     <e n="PinActiveEditorTab">
       <i c="5" l="1786717549232" />
@@ -323,6 +329,9 @@
     </e>
     <e n="RebuildGradleProject">
       <i c="1" l="1785762241304" />
+    </e>
+    <e n="RecentChanges">
+      <i c="1" l="1794922426702" />
     </e>
     <e n="RecentLocations">
       <i c="5" l="1784813353057" />
@@ -349,7 +358,7 @@
       <i c="3" l="1785759374776" />
     </e>
     <e n="RevealIn">
-      <i c="291" l="1793027731327" />
+      <i c="292" l="1794922576088" />
     </e>
     <e n="Run">
       <i c="2883" l="1793294172821" />
@@ -426,6 +435,9 @@
     <e n="Terminal.NewTab">
       <i c="55" l="1792001081876" />
     </e>
+    <e n="Terminal.OpenInReworkedTerminal">
+      <i c="1" l="1794922471469" />
+    </e>
     <e n="Terminal.Paste">
       <i c="151" l="1792070976314" />
     </e>
@@ -475,7 +487,7 @@
       <i c="1" l="1787747908600" />
     </e>
     <e n="Tool_ KMP _️ Gradlew clean build --refresh-dependencies">
-      <i c="1" l="1794916487142" />
+      <i c="5" l="1794920487205" />
     </e>
     <e n="Tool_ADB_ Open URL">
       <i c="1" l="1787555943630" />
@@ -487,7 +499,7 @@
       <i c="2" l="1791834550357" />
     </e>
     <e n="Tool_Git__Git Push">
-      <i c="173" l="1794916097768" />
+      <i c="174" l="1794920919721" />
     </e>
     <e n="Tool_Git__Git REST --hard">
       <i c="2" l="1790528414153" />
@@ -496,7 +508,7 @@
       <i c="1" l="1794908545111" />
     </e>
     <e n="Tool_Git__Git add and commit">
-      <i c="1167" l="1794916265982" />
+      <i c="1168" l="1794920917269" />
     </e>
     <e n="Tool_Git__Git commit -m 1">
       <i c="1" l="1794908554667" />
@@ -509,9 +521,6 @@
     </e>
     <e n="Tool_Gradle_️ gradlew cleanBuildCache">
       <i c="1" l="1791125764223" />
-    </e>
-    <e n="Tool_ KMP _️ Gradlew clean build --refresh-dependencies">
-      <i c="5" l="1794920487205" />
     </e>
     <e n="Tree-selectAll">
       <i c="1" l="1779258562305" />
@@ -655,7 +664,7 @@
       <i c="7" l="1792651424310" />
     </e>
     <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
-      <i c="825" l="1794919677300" />
+      <i c="826" l="1794922363840" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
       <i c="146" l="1794919083553" />
@@ -688,7 +697,7 @@
       <i c="1" l="1780053009019" />
     </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
-      <i c="1340" l="1794919679156" />
+      <i c="1341" l="1794922487491" />
     </e>
     <e n="com.intellij.openapi.wm.impl.welcomeScreen.NotificationEventAction">
       <i c="2" l="1792161272236" />
@@ -737,6 +746,9 @@
     </e>
     <e n="mobi.hsz.idea.gitignore.actions.UnignoreFileAction">
       <i c="4" l="1787560415729" />
+    </e>
+    <e n="org.intellij.plugins.markdown.ui.actions.styling.ToggleCodeSpanAction">
+      <i c="6" l="1794922451702" />
     </e>
     <e n="org.jetbrains.android.AndroidAnnotatorUtil$ColorRenderer$1">
       <i c="2" l="1779890088017" />
