@@ -15,7 +15,7 @@
   </tool>
   <tool name="🔑 Hash Key Walhalla" description="Hash key" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true">
     <exec>
-      <option name="COMMAND" value="C:\Program Files\Android\Android Studio\jre\bin\keytool.exe" />
+      <option name="COMMAND" value="$KEYTOOL$" />
       <option name="PARAMETERS" value="-list -v -keystore keystore.jks -alias $Prompt$ -storepass @!sfuQ123zpc -keypass @!sfuQ123zpc" />
       <option name="WORKING_DIRECTORY" value="D:/walhalla/sign/" />
     </exec>
@@ -64,14 +64,14 @@
   </tool>
   <tool name="🔑 Hash key c_03" description="Hash key" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
-      <option name="COMMAND" value="C:\Program Files\Android\Android Studio\jre\bin\keytool.exe" />
+      <option name="COMMAND" value="$KEYTOOL$" />
       <option name="PARAMETERS" value="-list -v -keystore keystore.jks -alias release -storepass release -keypass release" />
       <option name="WORKING_DIRECTORY" value="D:/CREDIT/OMoney/app/c_03/keystore/" />
     </exec>
   </tool>
   <tool name="🔑 Hash key c_04" description="Hash key" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
-      <option name="COMMAND" value="C:\Program Files\Android\Android Studio\jre\bin\keytool.exe" />
+      <option name="COMMAND" value="$KEYTOOL$" />
       <option name="PARAMETERS" value="-list -v -keystore keystore.jks -alias release -storepass release -keypass release" />
       <option name="WORKING_DIRECTORY" value="D:/CREDIT/OMoney/c_04/keysrore" />
     </exec>
