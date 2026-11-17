@@ -364,7 +364,7 @@
       <i c="199" l="1793195673146" />
     </e>
     <e n="SettingsEntryPoint">
-      <i c="26" l="1793102321192" />
+      <i c="27" l="1794916134515" />
     </e>
     <e n="Show.Current.Revision">
       <i c="3" l="1780063242497" />
@@ -484,7 +484,7 @@
       <i c="2" l="1791834550357" />
     </e>
     <e n="Tool_Git__Git Push">
-      <i c="172" l="1794908559550" />
+      <i c="173" l="1794916097768" />
     </e>
     <e n="Tool_Git__Git REST --hard">
       <i c="2" l="1790528414153" />
@@ -493,7 +493,7 @@
       <i c="1" l="1794908545111" />
     </e>
     <e n="Tool_Git__Git add and commit">
-      <i c="1164" l="1794907559724" />
+      <i c="1166" l="1794916090607" />
     </e>
     <e n="Tool_Git__Git commit -m 1">
       <i c="1" l="1794908554667" />
@@ -664,7 +664,7 @@
       <i c="1" l="1786630508041" />
     </e>
     <e n="com.intellij.openapi.updateSettings.impl.UpdateSettingsEntryPointActionProvider$2">
-      <i c="7" l="1792591325182" />
+      <i c="8" l="1794916136245" />
     </e>
     <e n="com.intellij.openapi.updateSettings.impl.UpdateSettingsEntryPointActionProvider$3">
       <i c="4" l="1792000330566" />
