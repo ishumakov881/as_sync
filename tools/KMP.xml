@@ -1,85 +1,85 @@
 <toolSet name="🟢 KMP 🟢">
   <tool name="🛠️ Gradlew clean build --refresh-dependencies" description="gradlew clean build --refresh-dependencies" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true">
     <exec>
-      <option name="COMMAND" value="$ProjectFileDir$\gradlew.bat" />
-      <option name="PARAMETERS" value="clean build --refresh-dependencies" />
+      <option name="COMMAND" value="$BASH$" />
+      <option name="PARAMETERS" value="-c &quot;./gradlew clean build --refresh-dependencies&quot;" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
   <tool name="📦 gradlew packageDistributionForCurrentOS" description="gradlew packageDistributionForCurrentOS" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true">
     <exec>
-      <option name="COMMAND" value="$ProjectFileDir$\gradlew.bat" />
-      <option name="PARAMETERS" value="packageDistributionForCurrentOS" />
+      <option name="COMMAND" value="$BASH$" />
+      <option name="PARAMETERS" value="-c &quot;./gradlew packageDistributionForCurrentOS&quot;" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
   <tool name="📦 Build Desktop *.msi" description="gradlew :composeApp:packageDistributionForCurrentOS" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true">
     <exec>
-      <option name="COMMAND" value="$ProjectFileDir$\gradlew.bat" />
-      <option name="PARAMETERS" value=":composeApp:packageDistributionForCurrentOS" />
+      <option name="COMMAND" value="$BASH$" />
+      <option name="PARAMETERS" value="-c &quot;./gradlew :composeApp:packageDistributionForCurrentOS&quot;" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
   <tool name="🚀 Desktop Launch | :composeApp:run --stacktrace" description="gradlew :composeApp:run" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="false">
     <exec>
-      <option name="COMMAND" value="$ProjectFileDir$\gradlew.bat" />
-      <option name="PARAMETERS" value=":composeApp:run --stacktrace --offline" />
+      <option name="COMMAND" value="$BASH$" />
+      <option name="PARAMETERS" value="-c &quot;./gradlew :composeApp:run --stacktrace --offline&quot;" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
   <tool name="📱 Build APK Release (gradlew assembleRelease)" description="gradlew assembleRelease" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true">
     <exec>
-      <option name="COMMAND" value="$ProjectFileDir$\gradlew.bat" />
-      <option name="PARAMETERS" value="assembleRelease" />
+      <option name="COMMAND" value="$BASH$" />
+      <option name="PARAMETERS" value="-c &quot;./gradlew assembleRelease&quot;" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
   <tool name="📱 Build ABB Release (:composeApp:bundleRelease)" description="gradlew.bat :composeApp:bundleRelease" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="false">
     <exec>
-      <option name="COMMAND" value="$ProjectFileDir$\gradlew.bat" />
-      <option name="PARAMETERS" value=":composeApp:bundleRelease" />
+      <option name="COMMAND" value="$BASH$" />
+      <option name="PARAMETERS" value="-c &quot;./gradlew :composeApp:bundleRelease&quot;" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
   <tool name="📦 gradlew :composeApp:packageDistributionForCurrentOS --info" description="gradlew :composeApp:packageDistributionForCurrentOS --info" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true">
     <exec>
-      <option name="COMMAND" value="$ProjectFileDir$\gradlew.bat" />
-      <option name="PARAMETERS" value=":composeApp:packageDistributionForCurrentOS --info" />
+      <option name="COMMAND" value="$BASH$" />
+      <option name="PARAMETERS" value="-c &quot;./gradlew :composeApp:packageDistributionForCurrentOS --info&quot;" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
   <tool name="JS-Debug" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="false">
     <exec>
-      <option name="COMMAND" value="$ProjectFileDir$\gradlew.bat" />
-      <option name="PARAMETERS" value=":composeApp:wasmJsBrowserDevelopmentRun" />
+      <option name="COMMAND" value="$BASH$" />
+      <option name="PARAMETERS" value="-c &quot;./gradlew :composeApp:wasmJsBrowserDevelopmentRun&quot;" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
   <tool name="gradlew wasmJsBrowserRun --info" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="false">
     <exec>
-      <option name="COMMAND" value="$ProjectFileDir$\gradlew.bat" />
-      <option name="PARAMETERS" value="wasmJsBrowserRun --info" />
+      <option name="COMMAND" value="$BASH$" />
+      <option name="PARAMETERS" value="-c &quot;./gradlew wasmJsBrowserRun --info&quot;" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
   <tool name="Сборка gradlew wasmJsBrowserDistribution" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="false">
     <exec>
-      <option name="COMMAND" value="$ProjectFileDir$\gradlew.bat" />
-      <option name="PARAMETERS" value="wasmJsBrowserDistribution" />
+      <option name="COMMAND" value="$BASH$" />
+      <option name="PARAMETERS" value="-c &quot;./gradlew wasmJsBrowserDistribution&quot;" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
   <tool name="KotlinUpgradeYarnLock" description="kotlinUpgradeYarnLock" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="false">
     <exec>
-      <option name="COMMAND" value="$ProjectFileDir$\gradlew.bat" />
-      <option name="PARAMETERS" value="kotlinUpgradeYarnLock" />
+      <option name="COMMAND" value="$BASH$" />
+      <option name="PARAMETERS" value="-c &quot;./gradlew kotlinUpgradeYarnLock&quot;" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
   <tool name="🟢 Build Konfig Release 🟢" description="gradlew build -Pbuildkonfig.flavor=release" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="false">
     <exec>
-      <option name="COMMAND" value="$ProjectFileDir$\gradlew.bat" />
-      <option name="PARAMETERS" value="build -Pbuildkonfig.flavor=release" />
+      <option name="COMMAND" value="$BASH$" />
+      <option name="PARAMETERS" value="-c &quot;./gradlew build -Pbuildkonfig.flavor=release&quot;" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
@@ -99,15 +99,15 @@
   </tool>
   <tool name="[WASM] gradlew :sample:web:wasmJsBrowserDevelopmentRun" description=".\gradlew :sample:web:wasmJsBrowserDevelopmentRun" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="false">
     <exec>
-      <option name="COMMAND" value="$ProjectFileDir$\gradlew.bat" />
-      <option name="PARAMETERS" value=":sample:web:wasmJsBrowserDevelopmentRun --info" />
+      <option name="COMMAND" value="$BASH$" />
+      <option name="PARAMETERS" value="-c &quot;./gradlew :sample:web:wasmJsBrowserDevelopmentRun --info&quot;" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
   <tool name="[wasm demo run]" description=".\gradlew.bat :composeApp:wasmJsBrowserDevelopmentRun" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="false">
     <exec>
-      <option name="COMMAND" value="$ProjectFileDir$\gradlew.bat" />
-      <option name="PARAMETERS" value=":composeApp:wasmJsBrowserDevelopmentRun" />
+      <option name="COMMAND" value="$BASH$" />
+      <option name="PARAMETERS" value="-c &quot;./gradlew :composeApp:wasmJsBrowserDevelopmentRun&quot;" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>

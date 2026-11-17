@@ -1,36 +1,36 @@
 <toolSet name="🟢Gradle🟢">
   <tool name="🛠️ gradlew cleanBuildCache" description="gradlew --refresh-dependencies" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true">
     <exec>
-      <option name="COMMAND" value="$ProjectFileDir$\gradlew.bat" />
-      <option name="PARAMETERS" value="cleanBuildCache" />
+      <option name="COMMAND" value="$BASH$" />
+      <option name="PARAMETERS" value="-c &quot;./gradlew cleanBuildCache&quot;" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
   <tool name="🛠️ gradlew --refresh-dependencies" description="gradlew --refresh-dependencies" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true">
     <exec>
-      <option name="COMMAND" value="$ProjectFileDir$\gradlew.bat" />
-      <option name="PARAMETERS" value="--refresh-dependencies" />
+      <option name="COMMAND" value="$BASH$" />
+      <option name="PARAMETERS" value="-c &quot;./gradlew --refresh-dependencies&quot;" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
   <tool name="🛠️ gradlew build --offline" description="gradlew --refresh-dependencies" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true">
     <exec>
-      <option name="COMMAND" value="$ProjectFileDir$\gradlew.bat" />
-      <option name="PARAMETERS" value="build --offline" />
+      <option name="COMMAND" value="$BASH$" />
+      <option name="PARAMETERS" value="-c &quot;./gradlew build --offline&quot;" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
   <tool name="🛠️ Run (gradlew installDebug --stacktrace)" description="gradlew installDebug --stacktrace" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true">
     <exec>
-      <option name="COMMAND" value="$ProjectFileDir$\gradlew.bat" />
-      <option name="PARAMETERS" value="installDebug --stacktrace" />
+      <option name="COMMAND" value="$BASH$" />
+      <option name="PARAMETERS" value="-c &quot;./gradlew installDebug --stacktrace&quot;" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
   <tool name="🛠️ gradlew --version" description="gradlew --version" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true">
     <exec>
-      <option name="COMMAND" value="$ProjectFileDir$\gradlew.bat" />
-      <option name="PARAMETERS" value="--version" />
+      <option name="COMMAND" value="$BASH$" />
+      <option name="PARAMETERS" value="-c &quot;./gradlew --version&quot;" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
@@ -57,29 +57,29 @@
   </tool>
   <tool name="🛠️ ./gradlew clean build --no-daemon --no-parallel" description="./gradlew clean build --no-daemon --no-parallel" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true">
     <exec>
-      <option name="COMMAND" value="$ProjectFileDir$\gradlew.bat" />
-      <option name="PARAMETERS" value="clean build --no-daemon --no-parallel" />
+      <option name="COMMAND" value="$BASH$" />
+      <option name="PARAMETERS" value="-c &quot;./gradlew clean build --no-daemon --no-parallel&quot;" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
   <tool name="🔨 gradlew clean assembleDebug" description="gradlew clean assembleDebug" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
-      <option name="COMMAND" value="gradlew" />
-      <option name="PARAMETERS" value="clean assembleDebug" />
+      <option name="COMMAND" value="$BASH$" />
+      <option name="PARAMETERS" value="-c &quot;./gradlew clean assembleDebug&quot;" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
   <tool name="🔨 gradlew clean build" description="./gradlew clean build" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
-      <option name="COMMAND" value="gradlew.cmd" />
-      <option name="PARAMETERS" value="clean build" />
+      <option name="COMMAND" value="$BASH$" />
+      <option name="PARAMETERS" value="-c &quot;./gradlew clean build&quot;" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
   <tool name="🛠️ assembleRelease" description="gradlew --version" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true">
     <exec>
-      <option name="COMMAND" value="$ProjectFileDir$\gradlew.bat" />
-      <option name="PARAMETERS" value="assembleRelease" />
+      <option name="COMMAND" value="$BASH$" />
+      <option name="PARAMETERS" value="-c &quot;./gradlew assembleRelease&quot;" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
@@ -92,8 +92,8 @@
   </tool>
   <tool name=".\gradlew :composeApp:compileKotlinIosArm64  :composeApp:compileKotlinIosSimulatorArm64 :composeApp:compileKotlinIosX64 --no-daemon" description="gradlew :composeApp:compileKotlinIosArm64  :composeApp:compileKotlinIosSimulatorArm64 :composeApp:compileKotlinIosX64 --no-daemon" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true">
     <exec>
-      <option name="COMMAND" value="$ProjectFileDir$\gradlew.bat" />
-      <option name="PARAMETERS" value=":composeApp:compileKotlinIosArm64  :composeApp:compileKotlinIosSimulatorArm64 :composeApp:compileKotlinIosX64 --no-daemon" />
+      <option name="COMMAND" value="$BASH$" />
+      <option name="PARAMETERS" value="-c &quot;./gradlew :composeApp:compileKotlinIosArm64  :composeApp:compileKotlinIosSimulatorArm64 :composeApp:compileKotlinIosX64 --no-daemon&quot;" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>

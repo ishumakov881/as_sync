@@ -16,10 +16,10 @@
       <i c="9" l="1792594186071" />
     </e>
     <e n="$SelectAll">
-      <i c="218" l="1793346140745" />
+      <i c="219" l="1794919080628" />
     </e>
     <e n="$Undo">
-      <i c="3367" l="1793195693538" />
+      <i c="3370" l="1794917574582" />
     </e>
     <e n="About">
       <i c="1" l="1785502632295" />
@@ -28,7 +28,7 @@
       <i c="2" l="1790528455929" />
     </e>
     <e n="ActivateCommitToolWindow">
-      <i c="2" l="1794908309994" />
+      <i c="3" l="1794919656689" />
     </e>
     <e n="ActivityView.CreatePatch">
       <i c="2" l="1779275644518" />
@@ -82,7 +82,7 @@
       <i c="1" l="1782305418969" />
     </e>
     <e n="CloseProject">
-      <i c="260" l="1794907863423" />
+      <i c="261" l="1794916277984" />
     </e>
     <e n="CodeCompletion">
       <i c="150" l="1792745752698" />
@@ -106,13 +106,13 @@
       <i c="18" l="1792599109252" />
     </e>
     <e n="CopyPaths">
-      <i c="70" l="1793178441150" />
+      <i c="72" l="1794917557414" />
     </e>
     <e n="Debug">
       <i c="7" l="1786707300403" />
     </e>
     <e n="EditorBackSpace">
-      <i c="6835" l="1794907590878" />
+      <i c="6864" l="1794919115960" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="1473" l="1792745753376" />
@@ -121,10 +121,10 @@
       <i c="5" l="1787227860469" />
     </e>
     <e n="EditorCopy">
-      <i c="1038" l="1793195790614" />
+      <i c="1039" l="1794920684102" />
     </e>
     <e n="EditorCut">
-      <i c="294" l="1793346141507" />
+      <i c="295" l="1794917602446" />
     </e>
     <e n="EditorDeleteLine">
       <i c="1" l="1786631436119" />
@@ -148,7 +148,10 @@
       <i c="3119" l="1792592889861" />
     </e>
     <e n="EditorLeftWithSelection">
-      <i c="2615" l="1792052221187" />
+      <i c="2622" l="1794917598703" />
+    </e>
+    <e n="EditorLineStart">
+      <i c="1" l="1794917591005" />
     </e>
     <e n="EditorNextWord">
       <i c="10" l="1784634159628" />
@@ -157,7 +160,7 @@
       <i c="1" l="1785411123362" />
     </e>
     <e n="EditorPaste">
-      <i c="1670" l="1794907207955" />
+      <i c="1675" l="1794919077749" />
     </e>
     <e n="EditorPreviousWord">
       <i c="2" l="1784634160137" />
@@ -166,7 +169,7 @@
       <i c="2355" l="1792599228566" />
     </e>
     <e n="EditorRightWithSelection">
-      <i c="984" l="1792592863932" />
+      <i c="1032" l="1794917596855" />
     </e>
     <e n="EditorScrollUp">
       <i c="1" l="1781603290804" />
@@ -199,7 +202,7 @@
       <i c="195" l="1793191354146" />
     </e>
     <e n="FindInPath">
-      <i c="1" l="1786967586724" />
+      <i c="2" l="1794919075716" />
     </e>
     <e n="FindPrevious">
       <i c="1" l="1787128044043" />
@@ -232,7 +235,7 @@
       <i c="1" l="1790509292297" />
     </e>
     <e n="GitCheckoutAction">
-      <i c="134" l="1787753522306" />
+      <i c="135" l="1794916342200" />
     </e>
     <e n="GitDeleteRefAction">
       <i c="59" l="1787753597880" />
@@ -472,7 +475,7 @@
       <i c="1" l="1787747908600" />
     </e>
     <e n="Tool_ KMP _️ Gradlew clean build --refresh-dependencies">
-      <i c="1" l="1793181222173" />
+      <i c="1" l="1794916487142" />
     </e>
     <e n="Tool_ADB_ Open URL">
       <i c="1" l="1787555943630" />
@@ -493,7 +496,7 @@
       <i c="1" l="1794908545111" />
     </e>
     <e n="Tool_Git__Git add and commit">
-      <i c="1166" l="1794916090607" />
+      <i c="1167" l="1794916265982" />
     </e>
     <e n="Tool_Git__Git commit -m 1">
       <i c="1" l="1794908554667" />
@@ -506,6 +509,9 @@
     </e>
     <e n="Tool_Gradle_️ gradlew cleanBuildCache">
       <i c="1" l="1791125764223" />
+    </e>
+    <e n="Tool_ KMP _️ Gradlew clean build --refresh-dependencies">
+      <i c="5" l="1794920487205" />
     </e>
     <e n="Tree-selectAll">
       <i c="1" l="1779258562305" />
@@ -523,7 +529,7 @@
       <i c="1" l="1773673043293" />
     </e>
     <e n="Vcs.VcsClone">
-      <i c="2" l="1786708364179" />
+      <i c="3" l="1794916287152" />
     </e>
     <e n="WelcomeScreen.CopyProjectPath">
       <i c="1" l="1786349022554" />
@@ -532,7 +538,7 @@
       <i c="6" l="1793005479349" />
     </e>
     <e n="WelcomeScreen.OpenProject">
-      <i c="14" l="1794908069222" />
+      <i c="15" l="1794916280585" />
     </e>
     <e n="WelcomeScreen.OpenSelected">
       <i c="1" l="1777876797525" />
@@ -616,7 +622,7 @@
       <i c="7" l="1781617970848" />
     </e>
     <e n="com.intellij.find.impl.FindPopupPanel$MySelectScopeToggleAction">
-      <i c="43" l="1792743622429" />
+      <i c="45" l="1794919093984" />
     </e>
     <e n="com.intellij.find.impl.FindPopupPanel$MySwitchStateToggleAction">
       <i c="10" l="1784874848888" />
@@ -649,10 +655,10 @@
       <i c="7" l="1792651424310" />
     </e>
     <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
-      <i c="822" l="1793191149249" />
+      <i c="825" l="1794919677300" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
-      <i c="145" l="1792745738113" />
+      <i c="146" l="1794919083553" />
     </e>
     <e n="com.intellij.openapi.project.LightEditActionFactory$SimpleLightEditCompatibleAction">
       <i c="30" l="1792052101697" />
@@ -682,7 +688,7 @@
       <i c="1" l="1780053009019" />
     </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
-      <i c="1330" l="1794908348167" />
+      <i c="1340" l="1794919679156" />
     </e>
     <e n="com.intellij.openapi.wm.impl.welcomeScreen.NotificationEventAction">
       <i c="2" l="1792161272236" />
@@ -691,13 +697,13 @@
       <i c="1" l="1776688758142" />
     </e>
     <e n="com.intellij.terminal.frontend.action.SendShortcutToTerminalAction">
-      <i c="10504" l="1793197436087" />
+      <i c="10523" l="1794919632218" />
     </e>
     <e n="com.intellij.toolWindow.ShowMoreToolWindowsAction">
       <i c="4" l="1790528452519" />
     </e>
     <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
-      <i c="3078" l="1793197442167" />
+      <i c="3083" l="1794919670892" />
     </e>
     <e n="com.intellij.toolWindow.ToolWindowHeader$ShowOptionsAction">
       <i c="8" l="1786966190216" />
