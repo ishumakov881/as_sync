@@ -2,7 +2,7 @@
   <tool name="Git add and commit" description="git add . &amp;&amp; git commit -m 1" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="false">
     <exec>
       <option name="COMMAND" value="$BASH$" />
-      <option name="PARAMETERS" value="-c &quot;$GIT$ add . &amp;&amp; $GIT$ commit -m 1&quot;" />
+      <option name="PARAMETERS" value="-c &quot;/usr/bin/git add . &amp;&amp; /usr/bin/git commit -m 1&quot;" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
